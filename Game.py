@@ -1,29 +1,4 @@
-"""
-Terminal PacMan - Martin Gurasvili
 
--TO PLAY-
-you have 3 lives
-once game started use w/a/s/d - up/left/down/right and enter
-if nothing is entered the player moves automatically in the facing direction within 2 seconds
-score 70 points to win
-
-▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉
-▉∙ ∙ ∙ ∙ ∙ ▉▉∙ ∙ ∙ ∙ ▉▉∙ ∙ ∙ ∙ ∙ ▉
-▉∙ ▉▉▉▉▉▉∙ ▉▉∙ ▉▉▉▉∙ ▉▉∙ ▉▉▉▉▉▉∙ ▉
-▉∙ ▉▉∙ ∙ ∙ ∙ ∙ ▉▉▉▉∙ ∙ ∙ ∙ ∙ ▉▉∙ ▉
-▉∙ ▉▉∙ ▉▉∙ ▉▉∙ ▉▉▉▉∙ ▉▉∙ ▉▉∙ ▉▉∙ ▉
-▉∙ ∙ ∙ ▉▉∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ▉▉∙ ∙ ∙ ▉
-▉▉▉∙ ▉▉▉▉∙ ▉▉▉▉▉▉▉▉▉▉▉▉∙ ▉▉▉▉∙ ▉▉▉
-▉▉▉∙ ∙ ∙ ∙ ▉▉∙ ∙ ∙ ∙ ▉▉∙ ∙ ∙ ∙ ▉▉▉
-▉▉▉∙ ▉▉▉▉∙ ▉▉∙ ∙ ∙ ∙ ▉▉∙ ▉▉▉▉∙ ▉▉▉
-▉▉▉∙ ▉▉∙ ∙ ▉▉▉▉∙ ∙ ▉▉▉▉∙ ∙ ▉▉∙ ▉▉▉
-▉∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ▉
-▉∙ ▉▉∙ ▉▉▉▉∙ ▉▉∙ ∙ ▉▉∙ ▉▉▉▉∙ ▉▉∙ ▉
-▉∙ ▉▉∙ ▉▉∙ ∙ ▉▉∙ ∙ ▉▉∙ ∙ ▉▉∙ ▉▉∙ ▉
-▉∙ ▉▉∙ ▉▉∙ ▉▉▉▉▉▉▉▉▉▉▉▉∙ ▉▉∙ ▉▉∙ ▉
-▉∙ ∙ ∙ ▉▉∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ▉▉∙ ∙ ∙ ▉
-▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉
-"""
 import random
 import time
 from signal import signal, alarm, SIGALRM
