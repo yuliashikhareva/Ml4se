@@ -13,7 +13,7 @@ jobs:
           openai_api_key: ${{ secrets.openai_api_key }}
           github_token: ${{ secrets.GITHUB_TOKEN }}
           github_pr_id: ${{ github.event.number }}
-          openai_engine: "gpt-3.5-turbo-16k" #optional
+          openai_engine: "gpt-3.5-turbo-instruct" #optional
           openai_temperature: 0.5 #optional
           openai_max_tokens: 500 #optional
           mode: files # file or patch 
