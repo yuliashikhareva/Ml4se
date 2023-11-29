@@ -4,7 +4,7 @@ from signal import signal, alarm, SIGALRM
 from termcolor import colored
 
 
-size = 16
+size = 18
 lives = 3
 score = "0"
 direct ="N"
