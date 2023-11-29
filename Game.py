@@ -56,24 +56,7 @@ def game_space ():
              print(maze[x][y],end="")
      print()
      
-def spawn():
-    global direct,maze,posx,posy
-    good_loc = False
-    while good_loc == False:
-        x = random.randint(1,size-2)
-        y = random.randint(1,size-2)
-        if(maze[x][y]=="∙ "):
-            good_loc = True
-    try:
-        if(maze[x][y+1]=="∙ "):
-            maze[x][y] = "▶ "
-            direct ="R"
-        if(maze[x][y-1]=="∙ "):
-            maze[x][y] = "◀ "
-            direct ="L"
-        if(maze[x-1][y]=="∙ "):
-            maze[x][y] = "▲ "
-            direct ="U"
+
         if(maze[x+1][y]=="∙ "):
             maze[x][y] = "▼ "
             direct ="D"
@@ -92,32 +75,7 @@ def move():
         alarm(1)
         x = str(input(">>>"))
         
-    except ZeroDivisionError:
-        print("")
-        
-    if(x!=None):
-        if (x == "w"):
-            direct = "U"
-        if (x == "a"):
-            direct = "L"
-        if (x == "s"):
-            direct = "D"
-        if (x == "d"):
-            direct = "R"
-    running = True
-    while running:
-        if(direct =="L"):
-            maze[posx][posy] = "  "
-            score = int(score)+1
-            posy-=1
-            if(maze[posx][posy] == "  " or maze[posx][posy] == "∙ "):
-                maze[posx][posy] = "◀ "
-                
-            else:
-                gameover =True
-
-            running = False
-            
+  
         if(direct =="R"):
             maze[posx][posy] = "  "
             score = int(score)+1
@@ -129,103 +87,6 @@ def move():
                 gameover =True
             running = False
             break
-                
-        if(direct =="U"):
-            maze[posx][posy] = "  "
-            score = int(score)+1
-            posx-=1
-            
-            if(maze[posx][posy] == "  " or maze[posx][posy] == "∙ "):
-                maze[posx][posy] = "▲ "
-            else:
-                gameover =True
-            
-            running = False
-            break
-            
-        if(direct =="D"):
-            maze[posx][posy] = "  "
-            score = int(score)+1
-            posx+=1
-            if(maze[posx][posy] == "  " or maze[posx][posy] == "∙ "):
-                maze[posx][posy] = "▼ "
-            else:
-                gameover =True
-
-            running = False
-    game_space()
-
-def ghost_ai():
-    global maze,gx,gy,gameover,prev,dire
-    running = True
-    while running:
-        
-        if(dire == 0):
-            if(maze[gx][gy+1]  == "  " or maze[gx][gy+1]== "∙ "):
-                
-                maze[gx][gy] = prev
-                prev = maze[gx][gy+1]
-                maze[gx][gy+1] = "◓ "
-                gy+=1
-                running = False
-                break   
-                
-        elif(dire == 1):
-            if(maze[gx][gy-1]  == "  " or maze[gx][gy-1]== "∙ "):
-                
-                maze[gx][gy] = prev
-                prev = maze[gx][gy-1]
-                maze[gx][gy-1] = "◓ "
-                gy-=1
-                running = False
-                break
-        elif(dire == 2):
-            if(maze[gx+1][gy]  == "  " or maze[gx+1][gy]== "∙ "):
-                maze[gx][gy] = prev
-                prev = maze[gx+1][gy]
-                maze[gx+1][gy] = "◓ "
-                gx+=1
-                running = False
-                break
-        elif(dire == 3):
-            try:
-                if(maze[gx-1][gy] == "  " or maze[gx-1][gy]== "∙ "):
-                    maze[gx][gy] = prev
-                    prev = maze[gx-1][gy]
-                    maze[gx-1][gy] = "◓ "
-                    gx-=1
-                    running = False
-                    break
-            except:
-                dire = random.randint(0,4)
-        dire = random.randint(0,4)    
-        
-if __name__ == "__main__":
-    spawn() 
-    game_space()
-    
-    input("Press Enter To Start Game")
-    print(" ")
-    
-    for x in range(3+1):
-        if score == winscore:
-            break
-        while gameover == False:
-            move()
-            ghost_ai()
-            if score == winscore:
-                print("You Won")
-                input("enter to exit")
-                break
-            
-        if gameover ==True:
-            if(lives > 0):
-                print("You Died")
-                lives-=1
-                spawn() 
-                gameover = False
-    if score != winscore:
-        print("GameOver")
 
 
 
