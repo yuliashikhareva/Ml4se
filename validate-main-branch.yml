@@ -1,0 +1,65 @@
+# The name of the workflow that will trigger when a Pull Request is created by developers
+name: Validate PR on release branch & check only deployment to Production
+
+# Definition when the workflow should run
+on:
+    pull_request:
+      # The workflow will run when a pull request is opened, or when a commit is pushed
+      # to the release branch that has an existing pull request
+      types: [opened, synchronize, reopened]
+      branches: [ main ]
+      # Specifing the force-app the directory that is relevant for the check
+      paths:
+        - 'force-app/**'
+            
+
+# List of jobs to be executed from the workflow
+jobs:
+    validate-deployment-on-Main-sandbox:
+        runs-on: salesfive-runner
+        if: ${{ github.actor != 'dependabot[bot]' }}
+        steps:
+            # Install nodejs
+            - uses: actions/setup-node@v2
+              with:
+                node-version: '18'
+
+            # Checkout the source code
+            - name: 'Checkout source code'
+              uses: actions/checkout@v2
+              with:
+                fetch-depth: 0
+
+            # Installing Salesforce CLI
+            - name: 'Installing Salesforce CLI'
+              run: |
+                  npm install --global @salesforce/cli@2.15.9
+
+            # Installing SFDX-Git-Delta plugin - https://github.com/scolladon/sfdx-git-delta
+            - name: 'Installing sfdx git delta package'
+              run: | 
+                  echo y | sf plugins:install sfdx-git-delta
+                  sf plugins
+
+            # Get the Main Org SFDX URL and store it in a text file
+            - name: 'Populating auth file with SFDX_URL secret of Production'
+              shell: bash
+              run: |
+                  echo ${{ secrets.SFDX_MAIN_URL}} > ./SFDX_MAIN_URL.txt
+
+            # Authenticating to Production using the URL stored in the text file
+            - name: 'Authenticating to Production'
+              run: sfdx auth:sfdxurl:store -f ./SFDX_MAIN_URL.txt -s -a ciuser
+
+            # We use SFDX Git Delta to create a directory with only the metadata that has changed, this allows us
+            # to deploy only those changes, as opposed to deploying the entire branch. This helps reducing deployment times
+            - name: "Creating delta packages for new, modified or deleted metadata"
+              run: |
+                  mkdir -p changed-sources
+                  sfdx sgd:source:delta --to "HEAD" --from "origin/main" --output changed-sources/ --generate-delta --source force-app/ -i .forceignore
+
+            # We do a check-only deployment of the whole feature branch
+            - name: 'Check-only deployment / Run local tests'
+              run: |
+                  chmod +x ./scripts/ValidateFullDeployment.sh
+                  ./scripts/ValidateFullDeployment.sh
