@@ -207,27 +207,4 @@ if __name__ == "__main__":
     input("Press Enter To Start Game")
     print(" ")
     
-    for x in range(3+1):
-        if score == winscore:
-            break
-        while gameover == False:
-            move()
-            ghost_ai()
-            if score == winscore:
-                print("You Won")
-                input("enter to exit")
-                break
-            
-        if gameover ==True:
-            if(lives > 0):
-                print("You Died")
-                lives-=1
-                spawn() 
-                gameover = False
-    if score != winscore:
-        print("GameOver")
-
-
-
-
-            
+   
