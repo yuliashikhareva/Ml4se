@@ -155,77 +155,7 @@ def move():
             running = False
     game_space()
 
-def ghost_ai():
-    global maze,gx,gy,gameover,prev,dire
-    running = True
-    while running:
-        
-        if(dire == 0):
-            if(maze[gx][gy+1]  == "  " or maze[gx][gy+1]== "∙ "):
-                
-                maze[gx][gy] = prev
-                prev = maze[gx][gy+1]
-                maze[gx][gy+1] = "◓ "
-                gy+=1
-                running = False
-                break   
-                
-        elif(dire == 1):
-            if(maze[gx][gy-1]  == "  " or maze[gx][gy-1]== "∙ "):
-                
-                maze[gx][gy] = prev
-                prev = maze[gx][gy-1]
-                maze[gx][gy-1] = "◓ "
-                gy-=1
-                running = False
-                break
-        elif(dire == 2):
-            if(maze[gx+1][gy]  == "  " or maze[gx+1][gy]== "∙ "):
-                maze[gx][gy] = prev
-                prev = maze[gx+1][gy]
-                maze[gx+1][gy] = "◓ "
-                gx+=1
-                running = False
-                break
-        elif(dire == 3):
-            try:
-                if(maze[gx-1][gy] == "  " or maze[gx-1][gy]== "∙ "):
-                    maze[gx][gy] = prev
-                    prev = maze[gx-1][gy]
-                    maze[gx-1][gy] = "◓ "
-                    gx-=1
-                    running = False
-                    break
-            except:
-                dire = random.randint(0,4)
-        dire = random.randint(0,4)    
-        
-if __name__ == "__main__":
-    spawn() 
-    game_space()
-    
-    input("Press Enter To Start Game")
-    print(" ")
-    
-    for x in range(3+1):
-        if score == winscore:
-            break
-        while gameover == False:
-            move()
-            ghost_ai()
-            if score == winscore:
-                print("You Won")
-                input("enter to exit")
-                break
-            
-        if gameover ==True:
-            if(lives > 0):
-                print("You Died")
-                lives-=1
-                spawn() 
-                gameover = False
-    if score != winscore:
-        print("GameOver")
+
 
 
 
