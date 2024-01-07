@@ -1,0 +1,2 @@
+Summary: CS Dynamic Queues, configured, absolute resources
+Description: CS, ManagedParent Queue, template, absolute resource value, memory, vcores, Jira, track, improve, configuration reading module, DynamicQueue, support.

@@ -1,0 +1,8 @@
+Summary: Preserve original URL, Logout, Session timeout, Authentication providers
+
+Description: Preserve original URL, basic/token authentication providers, SSO, Single Logout, Identity Provider, Kibana, lose original URL, reliable way, store, URL, cookie, session/local browser storage, server side, validate redirect URLs, session index, next parameter, SAML, OpenID Connect, Kerberos, PKI, support, tricky, redirected. 
+
+Output format: 
+
+`Summary: Preserve original URL, Logout, Session timeout, Authentication providers 
+Description: Preserve original URL, basic/token authentication providers, SSO, Single Logout, Identity Provider, Kibana, lose original URL, reliable way, store, URL, cookie, session/local browser storage, server side, validate redirect URLs, session index, next parameter, SAML, OpenID Connect, Kerberos, PKI, support, tricky, redirected.`

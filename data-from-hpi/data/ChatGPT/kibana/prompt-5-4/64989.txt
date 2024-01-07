@@ -1,0 +1,2 @@
+Summary: Link, Visualization, Query, Broken
+Description: Kibana, 7.6.1, 7.6.2, Elasticsearch, Windows 2012 R2, Chrome 80, Windows 10, Download, Bug, #61409.

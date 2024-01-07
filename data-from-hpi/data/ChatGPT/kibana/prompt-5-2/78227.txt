@@ -1,0 +1,2 @@
+Summary: User list page, multiple roles, missing whitespace
+Description: Kibana 7.9.1, Chrome 85, MacOS 10.15.6, user assigned multiple roles, list of users, roles listed next to each other, no whitespace, squashing, screenshot, non-system roles, customer-poc, loader.

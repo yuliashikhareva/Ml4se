@@ -1,0 +1,2 @@
+Summary: Error, Visualizations, pop up, dashboard 
+Description: BC4, 7.7.0, GCP, Azure, AWS, Kibana, sample data, Flights dashboard, console output, request payload, request URL, status code, remote address, referrer policy, access control, cache control, content type, date, server strategy, response, error, bad request, local environment.

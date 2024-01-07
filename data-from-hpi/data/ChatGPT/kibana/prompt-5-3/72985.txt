@@ -1,0 +1,2 @@
+Summary: [Maps] Upload GeoJSON fails, 408 error, Cloud
+Description: Kibana 7.9.0-snapshot, Elasticsearch 7.9.0-snapshot, ESS Cloud, Firefox 78.0.2, MacOS Mojave, Deployed on Elastic Cloud, Upload GeoJSON fails with large file, under 50MB limit, no errors returned, only in Cloud environments. Steps to reproduce: Start Cloud deployment for 7.9.0, Add a layer using Upload GeoJSON with provided file, Ingest fails without errors in UI. Error message: Uncaught (in promise) TypeError: indexDataResp.failures is undefined. Network tab shows 408 Request Timeout.

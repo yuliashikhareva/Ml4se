@@ -1,0 +1,3 @@
+Summary: `CastSupport.cast`, HashJoin 
+
+Description: `unsupported exception`, `TPCDS q5`, `AQE`, `BroadcastExchange`, `BroadcastExchangeExec`, `ReusedExchange`, `BroadcastQueryStage`, `distribution requirement`, `EnsureRequirements`, `Cast` class, `child.outputPartitioning`, `timeZoneId` field`.

@@ -1,0 +1,3 @@
+Summary: Backport HBASE-23896, branch-1, Snapshot, owner, delete, ACL, Kerberos 
+
+Description: snapshots, owner, list_snapshots, empty, simple acls, authorization, authentication, AccessController, preListSnapshot, SnapshotDescriptionUtils, AuthResult, SnapshotManager, takeSnapshotInternal, setOwner, hbase.security.authentication, kerberos

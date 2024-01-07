@@ -1,0 +1,2 @@
+Summary: Fix, PreCommit, builds, branch-1.4 
+Description: HBASE-24200, branch-1.4, PR build, failed, broken.

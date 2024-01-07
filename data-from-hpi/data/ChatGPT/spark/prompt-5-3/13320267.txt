@@ -1,0 +1,2 @@
+Summary: CVE, Guava 14.0.1, fix
+Description: CVE, Guava, version, reference, Maven, shading, network common jar, copy-pasted code, Twistlock, Palo Alto Networks, Prisma Cloud Compute Edition, fix, Spark.

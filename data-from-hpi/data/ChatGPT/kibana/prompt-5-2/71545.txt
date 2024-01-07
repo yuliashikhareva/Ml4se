@@ -1,0 +1,3 @@
+Summary: Export, Data Table, Raw, Formatted, Visualization Name, Filename 
+
+Description: Kibana 7.8.0, Elasticsearch 7.8.0, CentOS 7, Safari 13.11, macOS Catalina 10.15.5, RPM, CSV, Pre-populate, Operating System's Filesystem, Symptom, 7.7.0, 7.6.1, Steps to Reproduce, Data Table Viz, Save, Click, Expected Behavior, Screenshots.

@@ -1,0 +1,2 @@
+Summary: field name, valid, Java identifier, codegen
+Description: ScalaReflection, field name, valid, Java identifier, reserved keyword, implementation, enum, characters, numeric literals, identifiers, not checked.

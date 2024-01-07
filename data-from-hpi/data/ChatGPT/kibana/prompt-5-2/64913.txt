@@ -1,0 +1,3 @@
+Summary: Search string, Visualization, Displayed
+
+Description: Kibana 7.6.2, Elasticsearch 7.6.2, Ubuntu 18.04.4, Firefox 75, Chrome 81.0.4044.122, Linux Debian sid, Windows 10 1909, apt, Graph, Filter, Top 5 values, Unfiltered data, Time range, Search box.

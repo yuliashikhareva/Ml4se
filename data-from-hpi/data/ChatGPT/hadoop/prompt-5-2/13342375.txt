@@ -1,0 +1,2 @@
+Summary: hbase-connector, Apache Spark 3.0  
+Description: hbase-spark connector, Spark 2.x, Spark 3.0, compile, dependency

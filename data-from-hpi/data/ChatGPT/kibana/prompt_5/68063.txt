@@ -1,0 +1,3 @@
+Summary: saved visualization, URL, query
+
+Description: Kibana, Elasticsearch, version, OS, Docker, visualization, string query, URL, new tab, another computer, query not applied, steps to reproduce, Vertical Bar, Line Chart, index-pattern, X-axis bucket, Sub Aggregation, Date Histogram, Field, @timestamp, Split series bucket, Aggregation, Terms, foo.keyword, Order by, Metric, Count, KQL, changes, copy URL, expected behavior, same chart, screenshots, errors, browser console, logs, server output.

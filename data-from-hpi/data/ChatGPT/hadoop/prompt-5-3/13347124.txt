@@ -1,0 +1,2 @@
+Summary: Update, Jetty, hadoop, dependency
+Description: Vulnerability, fixes, Jetty, hadoop, dependency, library, CVEs

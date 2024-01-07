@@ -1,0 +1,2 @@
+Summary: invalid repo url, fix, pom 
+Description: hive source code, mvn, build, xml file, jar, invalid repository, maven, logs, druid-apache-rc-testing.

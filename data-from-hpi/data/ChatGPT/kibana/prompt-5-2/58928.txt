@@ -1,0 +1,2 @@
+Summary: timestamps, zeek logs, UTZ, local time, upgrade 
+Description: Kibana version, Elasticsearch version, Server OS version, Browser version, Browser OS version, original install method, Zeek log events, Discover, universal time zone, upgrade from Kibana/Elastic/Filebeat v.7.5.1 > 7.6, pacific time zone, working correctly before upgrade, event times, screenshots, errors in browser console, logs, server output

@@ -1,0 +1,3 @@
+Summary: Observer NameNode, StandBy NameNode, Failover 
+
+Description: Cluster, NN1, NN2, active state, cede, transit, block, support, promote

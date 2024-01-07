@@ -1,0 +1,2 @@
+Summary: Aggregation Sum Bucket crash 
+Description: Kibana 7.6.1 Elasticsearch 7.6.1 Ubuntu 16.4 Firefox 74 terms aggregation field selection interface crash

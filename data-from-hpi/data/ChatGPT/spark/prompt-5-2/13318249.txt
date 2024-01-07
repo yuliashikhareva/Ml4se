@@ -1,0 +1,2 @@
+Summary: pyspark, foreach, foreachPartition, http request, failed 
+Description: pyspark, urllib.request, send, http request, foreach, foreachPartition, error, Python worker, exited unexpectedly, crashed.

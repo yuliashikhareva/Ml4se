@@ -1,0 +1,3 @@
+Summary: ERROR, log print, wrong user info, distcp 
+
+Description: user, test, group, hadoop, distcp, pbugpaxt, cp, directory, owner, super, failed, error log, non-super user, change owner, Currnet user

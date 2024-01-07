@@ -1,0 +1,2 @@
+Summary: Flakey Tests, TestSplitTransactionOnCluster 
+Description: TestSplitTransactionOnCluster, fails, 80%, GCE run, builds.apache.org, HBase-Find-Flaky-Tests, branch-2, lastSuccessfulBuild, dashboard, compaction, clear up references, logic, doesn't handle, case, compaction already running.

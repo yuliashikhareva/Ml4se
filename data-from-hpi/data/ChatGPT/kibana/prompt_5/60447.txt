@@ -1,0 +1,3 @@
+Summary: Discover, error, "show details", shard fails 
+
+Description: Kibana version, bug, shard, failed, Discover, error, "show details", toast message, malformed scripted field, console, click, additional information, behavior, screenshot, browser.

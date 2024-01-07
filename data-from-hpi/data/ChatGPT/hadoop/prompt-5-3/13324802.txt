@@ -1,0 +1,2 @@
+Summary: unit test, HDFS-13934 
+Description: unit test, failed, org.apache.hadoop.fs.contract.AbstractContractMultipartUploaderTest#testConcurrentUploads, Exception, java.lang.IllegalArgumentException, com.google.common.base.Preconditions.checkArgument, LambdaTestUtils$ProportionalRetryInterval, maxIntervalMillis, TestHDFSContractMultipartUploader, timeToBecomeConsistentMillis

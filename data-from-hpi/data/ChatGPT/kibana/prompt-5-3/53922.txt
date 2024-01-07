@@ -1,0 +1,2 @@
+Summary: CSV report generation fails, index_closed_exception error
+Description: Kibana version 7.3.0, Elasticsearch version 7.3.0, unable to generate CSV report, index_closed_exception error, saved Discover query, Management -> Reporting -> details of error message.

@@ -1,0 +1,2 @@
+Summary: Jetty 9.4.20, resourceBase, NPE 
+Description: TestDistributedShell logs, Warning, resourceBase, webapp tmp dir, NullPointer Exception, Jetty version upgrade, accessing sources from a jar file, file.resource.toURI().getPath()

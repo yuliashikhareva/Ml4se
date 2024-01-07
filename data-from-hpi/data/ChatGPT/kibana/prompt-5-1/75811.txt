@@ -1,0 +1,2 @@
+Summary: kbn-plugin-generator, build procedure 
+Description: Kibana version, Elasticsearch version, Server OS version, git repository, build procedure, plugin installation, Kibana fails to run, missing kibana.json file, plugin archive, plugin bundles, migration guide.

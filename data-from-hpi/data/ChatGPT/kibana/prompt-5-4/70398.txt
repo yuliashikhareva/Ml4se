@@ -1,0 +1,2 @@
+Summary: Preserve original URL, logout, session timeout, authentication providers 
+Description: Preserve original URL, basic/token authentication, SAML, OpenID Connect, Kerberos, PKI, Single Logout, Identity Provider, Kibana, cookie size limit, session/local browser storage, session index, redirect URLs, Logged Out view, next parameter, #57157, #17870, #69506.

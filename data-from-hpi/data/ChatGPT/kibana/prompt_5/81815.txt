@@ -1,0 +1,4 @@
+
+
+Summary: Create user role, empty error message
+Description: Kibana version 7.9, Elasticsearch version 7.9, Cloud installation, Chrome Version 85.0.4183.121, MacOS 10.15. Error window is empty when creating a new role and enabling document-level security by selecting the option for it. The error message should explain the problem. Steps to reproduce: Create a new role, enable document-level security, type in a valid or invalid query in the text area, click "Create Role".

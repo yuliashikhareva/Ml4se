@@ -1,0 +1,2 @@
+Summary: documentation, ALTER TABLE, ADD PARTITION 
+Description: docs, ALTER TABLE, ADD PARTITION, no mention

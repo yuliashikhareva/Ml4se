@@ -1,0 +1,2 @@
+Summary: BroadCastJoin, failure, keys, join side, cast, DateType, String
+Description: Spark, SQL, create table, parquet, select, BROADCAST, table1, table2, join, cast, to_date, string, java.util.NoSuchElementException, datetimeExpressions.scala, Cast.scala.

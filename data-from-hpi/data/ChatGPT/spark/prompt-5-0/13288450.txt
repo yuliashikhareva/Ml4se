@@ -1,0 +1,2 @@
+Summary: GenerateUnsafeRowJoiner, UDF, sql type, fixed length 
+Description: user mailing list, suspect, mapGroupsWithState, methods, UDT, GenerateUnsafeRowJoiner, incorrect code, sql type, fixed length, variable-length data, modified value.

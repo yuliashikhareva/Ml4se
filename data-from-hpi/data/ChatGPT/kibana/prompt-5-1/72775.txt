@@ -1,0 +1,3 @@
+Summary: Maps, Configured Tile Map Service, Unable to load 
+
+Description: Kibana 7.9.0-snapshot, Elasticsearch, Cloud, Firefox 78.0.2, Mac Mojave 10.14.6, Configured Tile Map Service, JavaScript freeze, lock up, kibana.yml, map.tilemap.url, map.tilemap.options.attribution, map.tilemap.options.maxZoom, browser slowing, Uncaught error #185, React.

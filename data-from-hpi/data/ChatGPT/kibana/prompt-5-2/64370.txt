@@ -1,0 +1,4 @@
+Summary: Alerting, Links, Kibana, Context Variables, Alert Actions
+Description: Mustache Template Variables, Kibana Details Page, Kibana Alert Management Page, External Link, URL, Default Message, Index Threshold, Action Context
+
+Note: These are just the selected keywords and may not capture the entire meaning of the bug report.

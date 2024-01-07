@@ -1,0 +1,2 @@
+Summary: aggregation, Sum Bucket, crash
+Description: Kibana version, Elasticsearch version, Server OS version, Browser version, Browser OS version, Original install method, sum bucket aggregation, type terms, choose field, interface crashes, eCommerce, Sales, Category, select terms aggregation, select field.

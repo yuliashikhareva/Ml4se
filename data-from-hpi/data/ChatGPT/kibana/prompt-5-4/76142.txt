@@ -1,0 +1,2 @@
+Summary: Control visualizations, multi-select drop down, bottom of visualization, resetting 
+Description: Kibana version, Elasticsearch version, Server OS version, Browser version, Browser OS version, Original install method, control visualizations, behavior change, multi-select drop down, white space, scrolling, selected items, reset, expected behavior, screenshots.

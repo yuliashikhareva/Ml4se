@@ -1,0 +1,2 @@
+Summary: Uptime, Monitor List, unexpected behaviors, omitting monitors
+Description: Kibana Version, Testing, monitors, page refreshes, missing monitor, configuration, heartbeat, type, http, id, name, hosts, schedule, urls, timeout.

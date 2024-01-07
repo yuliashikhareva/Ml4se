@@ -1,0 +1,4 @@
+
+
+Summary: [Index Management] [docs] Missing data streams and component templates 
+Description: update documentation, missing data streams, component templates, Kibana, managing indices, UI, v7.9.2, features

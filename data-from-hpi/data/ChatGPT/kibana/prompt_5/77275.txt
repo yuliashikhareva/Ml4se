@@ -1,0 +1,4 @@
+Summary: Unable, hide, Management application, Kibana
+Description: Kibana version 7.9, Elasticsearch version 7.9, Feature Privileges, dashboard only mode, Kibana_dashboard_only_user role, hide, Dashboard tab, left, Gear Icon, Management tab, shown, 7.9, new Feature Privileges, mimic, behavior, deprecated, kibana_dashboard_only_user, Management section, Stack Management, still shown, side menu, need, show, access, Kibana Dashboards, Management access, bug. 
+
+Note: Some of the keywords are repeated in the description to provide more context for the bug report.

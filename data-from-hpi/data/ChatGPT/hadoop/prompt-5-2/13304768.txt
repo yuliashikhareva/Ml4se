@@ -1,0 +1,2 @@
+Summary: Document, move, WebUI, access log, separate log file 
+Description: recent commit, webui access log lines, service log file, logger, http.requests.regionserver, timestamp, log level, CLF specification, parsing http logs, preprocessing, configure, separate log file.

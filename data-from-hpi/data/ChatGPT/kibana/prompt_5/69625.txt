@@ -1,0 +1,3 @@
+Summary: Stack Monitoring, Logstash Pipeline UI, 404 
+
+Description: Kibana version 7.8.0, Elasticsearch version 7.8.0, Server OS version Elastic Cloud, Browser version Chrome, Original install method ESS, Monitoring, Logstash Pipeline UI, broken, stack monitoring, Pipelines, pipeline ID, error, Not Found, URL, missing, /app/monitoring#

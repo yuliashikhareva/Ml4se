@@ -1,0 +1,2 @@
+Summary: checking, table, materialized view, dropping 
+Description: dropped, deriving, error message, Metastore, check in advance, HiveMaterializedViewsRegistry.

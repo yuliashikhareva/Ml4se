@@ -1,0 +1,2 @@
+Summary: Filesystem caching, URI Path
+Description: AWSCredentialsProviders, dynamically retrieve, STS tokens, URI, Filesystem caching, fail, more than one, URI Path, bucket.

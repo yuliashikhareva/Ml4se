@@ -1,0 +1,4 @@
+Summary: checksum computation, native encoders
+Description: failures, TestFileChecksumCompositeCrc, test cases, testStripedFileChecksumWithMissedDataBlocksRangeQueryXX, stack trace, PathIOException, block checksum, LocatedStripedBlock, DatanodeInfoWithStorage, FileSystemLinkResolver, DistributedFileSystem, getFileChecksum, TestFileChecksum, Query7, Query8. 
+
+Note: The keywords are not comprehensive and may not cover all the aspects of the bug report.

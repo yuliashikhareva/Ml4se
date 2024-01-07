@@ -1,0 +1,3 @@
+Summary: Scope, Session.active, QueryExecution 
+
+Description: SparkSession.active, thread local variable, SQLConf.get, different session, query processing, data frame, session.sql, withActive method, block of code.

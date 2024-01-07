@@ -1,0 +1,2 @@
+Summary: 10,000+ documents, map plot
+Description: Kibana, visualization, millions of points, high resolution data.

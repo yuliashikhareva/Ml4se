@@ -1,0 +1,5 @@
+Summary: Detection Rules, Tag Disappears, Filters, Deleted 
+
+Description: filtering, rule tags, matching rules, deleted, deselect, tag, filters, page refreshed, Kibana/Elasticsearch Stack, version 7.9.3, Server OS version: Ubuntu Server 20.04 LTS, Google Chrome 86.0.4240.183, Windows 10 Enterprise v2004, Debian Package, Functional Area: Detection Rules. 
+
+Keywords: Detection Rules, Tag, Filters, Deleted, Filtering, Rule tags, Matching Rules, Deselect, Page Refreshed, Kibana/Elasticsearch Stack, Ubuntu Server 20.04 LTS, Google Chrome, Debian Package.

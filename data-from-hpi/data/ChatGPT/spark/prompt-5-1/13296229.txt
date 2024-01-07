@@ -1,0 +1,2 @@
+Summary: Coalesce, Bucketed tables, Join, Applicable
+Description: Coalesce, Bucketed tables, Join, Full shuffle, Spark, Physical plan

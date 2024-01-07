@@ -1,0 +1,2 @@
+Summary: Fix, checking, table, used, materialized view, dropping
+Description: table, dropped, deriving, used, materialized views, error message, Metastore, check, advance, HiveMaterializedViewsRegistry.

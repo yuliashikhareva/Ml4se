@@ -1,0 +1,2 @@
+Summary: Remove "blacklist" and "whitelist" references 
+Description: Remove "blacklist" and "whitelist" references in the codebase to avoid cultural connotations and potential alienation of community members. This effort includes removing such terminology outside of the blacklisting feature, as filing SPARK-32037 for renaming the entire feature would require significant effort.

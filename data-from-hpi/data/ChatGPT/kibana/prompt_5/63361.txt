@@ -1,0 +1,2 @@
+Summary: CCR actions, keyboard accessibility 
+Description: tab, action, ENTER keypress,  element, keyboard accessibility, auto_follow_pattern_table, follower_indices_table, HOC components, EuiBasicTable, render option, onClick, context menu item.

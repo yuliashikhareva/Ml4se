@@ -1,0 +1,2 @@
+Summary: Standardize, Exception Types 
+Description: Hierarchy, Exception Types, Default Type, Plain Exception

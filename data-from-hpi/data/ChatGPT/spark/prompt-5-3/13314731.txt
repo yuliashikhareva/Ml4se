@@ -1,0 +1,2 @@
+Summary: Integer overflow, query plan string  
+Description: Integer.MAX_VALUE, query plan, StringUtils.PlanStringConcat, length field, overflow, spark.sql.maxPlanStringLength, NegativeArraySizeException, StringBuilder.

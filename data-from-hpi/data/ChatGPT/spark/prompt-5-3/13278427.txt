@@ -1,0 +1,5 @@
+Summary: Uncache, table, tempViews, session closed
+
+Description: Spark, cleanup, cached tables, tempViews, sql, risks, uncache table, session closed, user closed, temp views, lost, visit, other session, cached plan, CacheManager, leaks, failure, subsequent query, production environment, java.io.FileNotFoundException, File does not exist, updated, explicitly invalidate, cache, Spark, REFRESH TABLE, tableName, command, SQL, Dataset, DataFrame, underlying files, old cached plan. 
+
+Note: These are the most relevant and important keywords, but there may be additional keywords that could be included for better accuracy in duplicate bug report detection.

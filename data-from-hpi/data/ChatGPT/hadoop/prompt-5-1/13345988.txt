@@ -1,0 +1,2 @@
+Summary: Upgrade, ORC, 1.6.6 
+Description: AcidUtils, getAcidState, recursive listing, S3 FileSystem, delta, base directory, return, OrcInputFormat, submethods, collect, infos, state, data directory, final Directory object, parameters, methods, merge, class, duplications.

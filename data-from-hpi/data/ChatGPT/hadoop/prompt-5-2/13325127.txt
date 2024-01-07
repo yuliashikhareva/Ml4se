@@ -1,0 +1,2 @@
+Summary: Replace, multiple constraints, getAllTableConstraints, query planner
+Description: constraints, table, PrimaryKey, ForeignKey, UniqueConstraint, NotNullConstraint, DefaultConstraint, CheckConstraint, metastore call

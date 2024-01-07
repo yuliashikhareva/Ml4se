@@ -1,0 +1,2 @@
+Summary: Javadoc failure, hadoop-aws, branch-3.3
+Description: javadoc, failure, hadoop-aws, module, branch-3.3, ListingOperationCallbacks, getMaxKeys() error, pull request #2522.

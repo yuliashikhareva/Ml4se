@@ -1,0 +1,2 @@
+Summary: Use less resources, tests 
+Description: tests, threads, JVM, memory, contention, passes, parallelism, configuration, HDFS, DataXceivers, Server, Client, jetty, Volume, async disk, worker, cleanup, image savers, ipc clients, block responder threads, data nodes, Java Flight Recorder, recording, mvn, JDK Mission Control, JDK8, JDK11, patch, resource usage.

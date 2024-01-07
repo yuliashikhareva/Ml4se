@@ -1,0 +1,2 @@
+Summary: rename, file, space 
+Description: webhdfs, rename, file, space, bug, filename, encoding, URLEncoder, '+', '%20', CURL.

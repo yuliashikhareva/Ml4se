@@ -1,0 +1,3 @@
+Summary: [Reporting, Canvas, Elastic, Frame]
+
+Description: [Kibana, Elasticsearch, Cloud, Report, Template, PDF, Page, Branding, Customizable, User, Copy, Steps to reproduce, Expected behavior, Screenshots]

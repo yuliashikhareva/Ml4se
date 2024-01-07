@@ -1,0 +1,3 @@
+Summary: NameNode, load, group, datanodes.
+
+Description: HDFS cluster, HBase, 251 ssd datanodes, 30 hdd datanodes, HOT files, ALL_SSD, cold, NameNode, choose, writing, disk files, storage policy, HOT, NODE_TOO_BUSY, temporary solution, increase, dfs.namenode.redundancy.considerLoad.factor, unbalance, compute, load, group, separately, average load, compares, hdd group.

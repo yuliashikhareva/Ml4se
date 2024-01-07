@@ -1,0 +1,20 @@
+Summary: saved visualization, shared URL, query not executed 
+
+Description: Kibana 7.6.0, Elasticsearch 7.6.0, Docker container from the official image, Google Chrome 83.0.4103.61, not saved visualization that is shared by URL does not execute query when creating visualization with string query "foo bar" and opening the generated URL in the new tab or on another computer. Steps to reproduce: 
+
+- Create visualization of type Vertical Bar (applies to Line Chart, too)
+- Select index-pattern
+- Add "X-axis" bucket
+  - Sub Aggregation: Date Histogram
+  - Field: @timestamp
+- Add "Split series" bucket
+  - Aggregation: Terms
+  - Field: foo.keyword (string type)
+  - Order by: Metric: Count
+- Put "foo bar" query (KQL chosen)
+- Apply changes
+- Copy URL
+- Open URL in new tab
+
+Expected behavior:
+Opened URL should show the same chart as was created - with applied query.

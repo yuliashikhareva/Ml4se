@@ -1,0 +1,2 @@
+Summary: ParquetFileReader, read, new API, construct, Parquet footer
+Description: ParquetFileReader, Configuration, FileMetaData, Path, List, BlockMetaData, ColumnDescriptor, readFooter, meta data, footer, Skipping row groups, filter, ParquetReadOptions, InputFile, deprecated

@@ -1,0 +1,2 @@
+Summary: Send ValidWriteIDList, new HMS APIs, request/response form
+Description: ValidWriteIDList, new set of HMS APIs, request, switch, get_* APIs, HIVE-22017.

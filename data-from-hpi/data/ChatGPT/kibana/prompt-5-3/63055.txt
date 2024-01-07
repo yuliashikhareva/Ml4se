@@ -1,0 +1,2 @@
+Summary: test-failed, Chrome, X-Pack, UI, Functional Tests, monitoring, enable_monitoring, Monitoring app, Monitoring is turned off, Monitoring enabled 
+Description: Version 7.7.0, Chrome, X-Pack, UI, Functional Tests, monitoring, enable_monitoring, TimeoutError, element, located, clusterOverviewContainer, clusterName, retry.try, onFailure, retryForSuccess, cloud, Build Num 79

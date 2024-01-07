@@ -1,0 +1,2 @@
+Summary: Filter pane, add filter, rendering, flashes
+Description: Kibana, version 7.6.0 BC4, Elasticsearch, version 7.6.0 BC4, server OS, darwin_x86_64, browser, chrome latest, browser OS, OS X, install method, staging, bug, add filter, filter pane, flashes, field list, renders correctly, reproduce, discover, dashboard.

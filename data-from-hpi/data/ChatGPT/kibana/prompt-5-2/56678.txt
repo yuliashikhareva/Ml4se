@@ -1,0 +1,2 @@
+Summary: Filter pane, rendering, add filter 
+Description: Kibana, 7.6.0 BC4, Elasticsearch, darwin_x86_64, chrome, OS X, staging, bug, filter pane, field list, flashes, prominent, discover, dashboard, steps to reproduce.

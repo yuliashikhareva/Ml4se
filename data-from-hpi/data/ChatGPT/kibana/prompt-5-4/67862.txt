@@ -1,0 +1,5 @@
+
+
+Summary: Timelion, Kibana Filters 
+
+Description: Kibana 7.7.0, Elasticsearch 7.7.0, Windows Server 2012 R2, Chrome/FireFox, Windows 10, Download Page, Timelion visualization, TSVB, .es(index=example*,kibana=true,timefield=edge.timestamp).color(blue).label(Total).legend(columns=3,timeFormat="M/DD/YYYY h:mm:ss A"), filter, field value.

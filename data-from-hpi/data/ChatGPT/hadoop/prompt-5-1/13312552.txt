@@ -1,0 +1,2 @@
+Summary: [refactor] ValidTxnManager, getTxnWriteIds
+Description: Driver.java, ValidTxnManager, allocating, write IDs, consolidate, logic, move

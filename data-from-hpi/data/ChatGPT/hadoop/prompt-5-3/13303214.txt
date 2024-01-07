@@ -1,0 +1,2 @@
+Summary: Flip, Warehouse, getDefaultTablePath(), return, path, ext warehouse 
+Description: backward compatibility, initial fix, returned path, set, db, managed warehouse, external, tests, certain paths, address.

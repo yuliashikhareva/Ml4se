@@ -1,0 +1,2 @@
+Summary: KQL Filter, Controls Visualization 
+Description: Kibana version, Elasticsearch version, Server OS version, Browser version, Original install method, Controls Visualization, Region, CustomerType, Elastic Search data, KQL Query, Filter Control, pie chart, bar chart, sales, embed link, bug fix

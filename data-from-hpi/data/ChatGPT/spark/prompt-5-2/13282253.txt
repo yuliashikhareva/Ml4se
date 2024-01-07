@@ -1,0 +1,5 @@
+Summary: PySpark, Pipes 
+
+Description: PySpark's DataFrame is proposed to have a `pipe` method that allows functional programming pattern inspired by the tidyverse and pandas. The proposed `pipe` method would make it easier to split high-level code and low-level code, and allow method chaining. The issue lies in how the functions are applied, and the proposed `pipe` method would solve this issue. The code proposed to add the `pipe` method to PySpark's DataFrame is also included in the description.
+
+Selected Keywords

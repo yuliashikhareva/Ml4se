@@ -1,0 +1,5 @@
+Summary: Unable to hide Management application, Kibana 
+
+Description: Kibana version 7.9, Elasticsearch version 7.9. Feature Privileges in Kibana dashboard only mode does not mimic the existing/prior capability of hiding everything except the "Dashboard" tab. The deprecated kibana_dashboard_only_user does not hide the "Management" section with "Stack Management" in the side menu. Bug report is the need to only show access to Kibana Dashboards without Management access.
+
+Selected Keywords: Kibana, Feature Privileges, Dashboard, Management, Bug report, Elasticsearch, Deprecated, Stack Management.

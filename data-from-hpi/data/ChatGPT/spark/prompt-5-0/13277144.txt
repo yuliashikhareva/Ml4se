@@ -1,0 +1,3 @@
+Summary: ArrayKeyIndexType, Arrays.hashCode 
+
+Description: hashCode, array, identity hash, content, Arrays.hashCode

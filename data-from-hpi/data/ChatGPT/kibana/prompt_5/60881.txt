@@ -1,0 +1,11 @@
+Summary: creating new fields, end users
+Description: add new fields, ingestions, scripted fields, Kibana, use cases, issues, performance, painless syntax, ad-hoc fields, enrich fields, proximity to users, simple syntax
+
+Note: Some of the phrases have been combined to form a more concise keyword list.
+
+Selected Keywords: Creating new fields, end users, ingestions, scripted fields, Kibana, painless syntax, ad-hoc fields, enrich fields, proximity, simple syntax, use cases, issues, performance. 
+
+Output format: 
+
+Summary: Creating new fields, end users 
+Description: add new fields, ingestions, scripted fields, Kibana, use cases, issues, performance, painless syntax, ad-hoc fields, enrich fields, proximity, simple syntax.

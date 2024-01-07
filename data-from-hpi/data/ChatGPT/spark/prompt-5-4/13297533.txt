@@ -1,0 +1,3 @@
+Summary: datetime, fail, default, read/write, rebase 
+
+Description: Spark 3.0, Proleptic Gregorian calendar, Java 8 datetime APIs, ISO, SQL standard, backward compatibility, data files, Spark 2.4, read, perf regression.

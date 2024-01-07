@@ -1,0 +1,2 @@
+Summary: Remove, references, blacklist, whitelist, language 
+Description: problematic, alienate, community, blacklisting feature, racist origins, cultural connotations, debate, public-facing APIs, configurations, codebase, terminology.

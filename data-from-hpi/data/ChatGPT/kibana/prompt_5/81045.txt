@@ -1,0 +1,7 @@
+Summary: copy, dashboard, panel, another 
+
+Description: users, customized view, create, scratch, modified, existing, post by value, post by reference, visualization, name, library, unlink, edit mode, select, destination, intuitive, applications, Kibana
+
+Selected Keywords:
+Summary: copy, dashboard, panel, another
+Description: users, customized view, create, visualization, name, library, unlink, edit mode, select, destination, intuitive, applications, Kibana

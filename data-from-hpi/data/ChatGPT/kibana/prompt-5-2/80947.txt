@@ -1,0 +1,3 @@
+Summary: Bug, Kibana, calendar_interval, incorrect inputs 
+
+Description: Kibana, version 7.9.2, Elasticsearch version 7.9.2, RHEL7, browser, install method, honoring calendar interval, blocks some incorrect intervals, not all, supported intervals mentioned in Elasticsearch documentation, specifying unsupported intervals like 15d or 20d on a vertical bar chart with Date Histogram aggregation on timestamp field, expected behavior is Kibana blocks the incorrect intervals and reports an error, actual behavior is Kibana doesn't block the incorrect intervals.

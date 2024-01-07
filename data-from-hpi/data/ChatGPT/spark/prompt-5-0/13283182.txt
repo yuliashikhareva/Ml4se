@@ -1,0 +1,3 @@
+Summary: Spark, YARN, Execution, Failure 
+
+Description: running, spark-submit, class, org.apache.spark.examples.SparkPi, master, yarn, deploy-mode, cluster, driver-memory, executor-memory, executor-cores, queue, examples, jars, spark-examples, Error, JNI error, installation, NoClassDefFoundError, org.slf4j.Logger, java.lang.Class.getDeclaredMethods0, java.lang.Class.privateGetDeclaredMethods, java.lang.Class.getMethod0, sun.launcher.LauncherHelper.validateMainClass, sun.launcher.LauncherHelper.checkAndLoadMain, ClassNotFoundException, URLClassLoader, findClass, ClassLoader, AppClassLoader, loadClass, slf4j.

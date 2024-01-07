@@ -1,0 +1,2 @@
+Summary: CastSupport, HashJoin 
+Description: Cast, BroadcastExchange, AQE, TPCDS q5, unsupported exception, SparkPlan, RDDOperationScope, QueryStageExec, EnsureRequirements, outputPartitioning, distribution requirement check.

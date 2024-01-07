@@ -1,0 +1,2 @@
+Summary: GBTClassifier, OnevsRest, Multi-classification
+Description: GBTClassifier, multi-class classification, OnevsRest, error, HasRawPredictionCol

@@ -1,0 +1,2 @@
+Summary: Exported CSV, saved search, dashboard panel, date format pattern
+Description: Kibana version 7.6.2, Elasticsearch version 7.6.2, Server OS version Docker, Browser version Chrome 83.0.4103.61, Browser OS version Windows 10 Pro (10.0.18363), docker-compose, CSV report, date format pattern, dashboard panel, discover sharing, well-formatted dates values.

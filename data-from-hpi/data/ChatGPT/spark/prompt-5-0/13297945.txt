@@ -1,0 +1,2 @@
+Summary: additional fields, ExpressionDescription, granular category, documentation 
+Description: additional fields, ExpressionDescription, granular category, function documentation, window function, ranking functions, analytic functions.

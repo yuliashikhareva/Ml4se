@@ -1,0 +1,3 @@
+Summary: Chrome X-Pack UI Functional Tests1.x-pack/test/functional/apps/monitoring/enable_monitoring/index·js, Monitoring app, Monitoring is turned off, Monitoring enabled 
+
+Description: Version 7.7.0, Chrome X-Pack UI Functional Tests1.x-pack/test/functional/apps/monitoring/enable_monitoring/index·js, Stack Trace, Error, retry.try timeout, TimeoutError, Waiting for element to be located, clusterOverviewContainer, clusterName, process._tickCallback, onFailure, retryForSuccess, platform cloud, Build Num 79

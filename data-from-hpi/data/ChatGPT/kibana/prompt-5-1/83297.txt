@@ -1,0 +1,3 @@
+Summary: Timelion, 7.10.0, single quotations
+
+Description: Kibana, version 7.10.0, Timelion, error, undefined SyntaxError, incompleteFunction, es, parser, changed.

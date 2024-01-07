@@ -1,0 +1,3 @@
+Summary: TSVB, Math Aggregation, Division operator, No data to display, params, denominator 
+
+Description: Kibana version 7.5.0, Elasticsearch version 7.5.0, Browser Chrome, Browser OS Version 80.0.3987.149, TSVB Time Series visualization, Math Aggregation, division operator, "No data to display for the selected metrics", metric_1, metric_2, variable a, variable b, expression, params.a, params.b, params.a / params.b, 1 / params.a, 1 / params.b, params.a * (1 / params.b), Bucket Script Aggregation, Kibana switching from math.js to tinymath, Googling, workaround.

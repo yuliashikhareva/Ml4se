@@ -1,0 +1,3 @@
+Summary: Caused by, org.apache.spark.sql.catalyst.errors.package$, Binding attribute, tree, column name
+
+Description: excel, 90 columns, special character, @, %, ->, sourceDataSet, targetDataset, select, except, count, error, org.apache.spark.sql.catalyst.errors.package$, Binding attribute, column name.

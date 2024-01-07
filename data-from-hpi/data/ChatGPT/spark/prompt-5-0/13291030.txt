@@ -1,0 +1,2 @@
+Summary: interval value, extract expression, source
+Description: extract expression, source, datetime value expression, interval value expression, ANSI compliance, consistency.

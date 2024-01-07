@@ -1,0 +1,2 @@
+Summary: Support Map Filter Extent
+Description: Maps, Filter, Visualization, Extent, Draw bounds, Meta, Multiple maps, Filter-bar, Geospatial data, Discovery, Zooms, Pans, Bounds filter, Geometry filter.

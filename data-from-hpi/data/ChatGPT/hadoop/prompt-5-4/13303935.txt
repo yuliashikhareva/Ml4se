@@ -1,0 +1,3 @@
+Summary: SBN Read, IllegalStateException, failover 
+
+Description: Standby shutdown, dfs.ha.tail-edits.qjm.rpc.max-txns, replay all edits, catchupDuringFailover, streams.isEmpty(), FSEditLog#openForWrite, org.apache.hadoop.hdfs.server.namenode.RedundantEditLogInputStream, NN shutdown, txid 173922195318, org.apache.hadoop.hdfs.server.namenode.FSEditLog, org.apache.hadoop.hdfs.server.namenode.FSNamesystem, org.apache.hadoop.hdfs.server.namenode.NameNodeHAContext, org.apache.hadoop.hdfs.server.namenode.ha.ActiveState, org.apache.hadoop.hdfs.server.namenode.ha.HAState, org.apache.hadoop.hdfs.server.namenode.ha.StandbyState, NameNodeRpcServer.

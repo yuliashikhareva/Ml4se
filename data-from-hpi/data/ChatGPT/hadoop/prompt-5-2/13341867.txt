@@ -1,0 +1,2 @@
+Summary: branch-1, docker mode, yetus, fails 
+Description: gem install, rubocop, parallel, Ruby version, jaro_winkler, command, non-zero code, Docker, failed, yetus/hbase, b249092a5f.

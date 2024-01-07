@@ -1,0 +1,2 @@
+Summary: Deprecate, UserDefinedAggregateFunction 
+Description: SPARK-27296, merging, legacy methodology, implementing, custom, user defined, aggregators, untyped DataFrame, UserDefinedAggregateFunction, obsolete, annotated, deprecated, new capability, officially merged.

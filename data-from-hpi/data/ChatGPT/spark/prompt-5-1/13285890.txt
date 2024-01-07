@@ -1,0 +1,2 @@
+Summary: user guide, Adaptive Query Execution
+Description: Jira, detail, enable, AQE, features

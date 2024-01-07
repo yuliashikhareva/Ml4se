@@ -1,0 +1,3 @@
+Summary: Drop table, materialized view 
+
+Description: drop table, materialized view, metastore, inconsistency, partially deleted, reference, TBLS, MV_TABLES_USED, steps to reproduce, JDBC, Hive2, create table, create materialized view, select, desc, error.

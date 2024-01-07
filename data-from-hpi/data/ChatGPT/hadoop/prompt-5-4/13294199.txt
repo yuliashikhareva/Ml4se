@@ -1,0 +1,5 @@
+Summary: S3A creating folder level delete markers 
+Description: S3A URL scheme while writing Spark data to S3 creating folder level delete markers. Write mode is Append. Using S3 URL scheme while writing doesn't create any delete markers. Spark - 2.4.4, Hadoop - 3.2.1, EMR version - 6.0.0 
+
+Selected Keywords: 
+S3A, URL scheme, writing, Spark, data, S3, folder, level, delete markers, write mode, Append, Hadoop, EMR version

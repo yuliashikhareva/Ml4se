@@ -1,0 +1,2 @@
+Summary: Automated Package Testing 
+Description: QA, packages, testing, repository, CI checks, validation, manual testing, deb, RPM, Docker, tar, zip, phase 1, installation, environment, Elasticsearch, Vagrant, Docker, filesystem permissions, log output, successful installation, Kibana starts, functional tests, CPU, memory recommendations, phase 2, Docker package, phase 3, zip package, Windows.

@@ -1,0 +1,2 @@
+Summary: TSVB gauge rule dropdown
+Description: Kibana version, Elasticsearch version, Server OS version, Browser version, Browser OS version, select box, dropdown, visualization, tsvb, gauge, index pattern, time field, gauge max, color rules, metric, empty dropdown.

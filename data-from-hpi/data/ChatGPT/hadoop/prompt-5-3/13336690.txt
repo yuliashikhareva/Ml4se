@@ -1,0 +1,2 @@
+Summary: hbase, fasterxml jackson, vulnerabilities
+Description: hbase, htrace-core4, fasterxml jackson, vulnerabilities, CVE, plan

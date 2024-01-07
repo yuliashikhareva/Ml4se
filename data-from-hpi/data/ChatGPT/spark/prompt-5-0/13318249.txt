@@ -1,0 +1,17 @@
+Summary: pyspark, foreach, foreachPartition, http request, error 
+ Description: pyspark, foreach, foreachPartition, http request, error, urllib.request, obj[74094], fork(), Python worker, crashed, SparkException, send_http, url, req, resp, problem. 
+
+Selected Keywords: 
+- pyspark
+- foreach
+- foreachPartition
+- http request
+- error
+- urllib.request
+- fork()
+- Python worker
+- SparkException
+- send_http
+- url
+- req
+- resp

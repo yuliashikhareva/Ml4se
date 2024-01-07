@@ -1,0 +1,2 @@
+Summary: sun.misc.Cleaner, sun.nio.ch.DirectBuffer.cleaner(), method not found, spark-submit 
+Description: Spark submit, VM, Yarn cluster mode, java version 11, spark-2.4.5, yarn cluster java 8, spark-2.4.0, error.

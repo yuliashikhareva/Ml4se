@@ -1,0 +1,2 @@
+Summary: Upgrade, thrift version, hive
+Description: Hive, thrift, 0.9.3, newer releases, features, deprecation support, interoperability, older clients, newer servers, assess, break, documenting, change.

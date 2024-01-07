@@ -1,0 +1,2 @@
+Summary: pyspark, foreach, foreachPartition, http request, failed 
+Description: pyspark, foreach, foreachPartition, http request, error, Python worker, crashed, urllib.request, Request, urlopen.

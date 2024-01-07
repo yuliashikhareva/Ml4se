@@ -1,0 +1,2 @@
+Summary: KQL Filter, Controls Visualization 
+Description: Kibana 7.6.0, Elasticsearch v7.6.0, Cloud Deployment, Chrome Version 83.0.4103.106, Visualize, Controls, Filter, Pie chart, Bar chart, CustomerType, Region, Elastic Search data, KQL Query, Dashboard, Embed link, MultiSelect, DynamicOptions, Bug.

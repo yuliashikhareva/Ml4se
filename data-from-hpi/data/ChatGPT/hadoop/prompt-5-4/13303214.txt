@@ -1,0 +1,3 @@
+Summary: Warehouse, getDefaultTablePath(), ext warehouse, path 
+
+Description: backward compatibility, initial fix, returned path, db, managed warehouse, external, tests, certain paths, address.

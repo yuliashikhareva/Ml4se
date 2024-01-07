@@ -1,0 +1,3 @@
+Summary: catalyst, lateral view, explode, struct, error
+
+Description: spark, version, bug, table, double lateral view explode, error, binding attribute, tree, key, string, nullable, subarray, element, array, exception, schema, printSchema, spark.sql, show, recreate, import, Row, StructField, StructType, ArrayType, value, from_json, col, createDataFrame, parallelize, createOrReplaceTempView, select, showString, show, Array of Array of String.

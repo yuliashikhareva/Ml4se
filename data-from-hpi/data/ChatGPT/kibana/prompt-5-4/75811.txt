@@ -1,0 +1,3 @@
+Summary: kbn-plugin-generator, build procedure 
+
+Description: kbn-plugin-generator, build procedure, Kibana version, Elasticsearch version, macOS, git repository, plugin build, Kibana fails to run, module not found, kibana.json file, plugin bundles.

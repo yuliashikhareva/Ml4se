@@ -1,0 +1,2 @@
+Summary: X-Pack API Integration Tests, apis kibana stats, operational stats, usage stats, auth, return 200, no extended
+Description: Version 7.7.0, X-Pack API Integration Tests, supertest, error, assertStatus, callback, parser, IncomingMessage, res, endReadableNT, process, tickCallback, cloud, Build Num 79

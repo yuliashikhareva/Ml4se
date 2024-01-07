@@ -1,0 +1,3 @@
+Summary: Telemetry, Opt-in/out notifications, server, Kibana request, crash 
+
+Description: Kibana version 7.9, /api/telemetry/v2/optIn, remote telemetry service, user's final decision, config.sendUsageFrom, 500, telemetry banner, stored, server, handle, reach, telemetry service.

@@ -1,0 +1,2 @@
+Summary: configuration option, specific plugin, dependencies, focus mode 
+Description: developers, single plugin, configure, run, slower development environment, config option, --run-only, APM plugin, runtime, @kbn/optimizer, building bundles, --include-dependents, required dependency, optional dependency, feature, dev mode.

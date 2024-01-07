@@ -1,0 +1,2 @@
+Summary: Decommission, configurations, refreshable
+Description: configurations, increase speed, Decommissioning, runtime, reconfigurable, dfs.namenode.replication.work.multiplier.per.iteration, dfs.namenode.replication.max-streams-hard-limit, dfs.namenode.replication.max-streams.

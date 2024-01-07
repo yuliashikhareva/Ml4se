@@ -1,0 +1,2 @@
+Summary: JDK11, Javadoc errors
+Description: HTML version, HTML4, HTML5, Javadoc report generation, com.google.protobuf.GeneratedMessageV3, package does not exist, BUILD FAILURE.

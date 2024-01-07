@@ -1,0 +1,2 @@
+Summary: Visualizations filters, upgrade 
+Description: Kibana, Elasticsearch, Server OS, Browser, install method, Tag Cloud, Pie, dashboard, filter, click, Content Security Policy, inline script, rebuild, TSVB, refresh, modify, Link

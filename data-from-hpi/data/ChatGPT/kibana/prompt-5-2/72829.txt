@@ -1,0 +1,3 @@
+Summary: Discover, selected fields, changing index pattern 
+
+Description: bug, assess, Kibana, 2 index patterns, discover, selected fields, change, empty list, table display, without data, video, expected behavior, table display with '_source'.

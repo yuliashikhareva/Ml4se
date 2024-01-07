@@ -1,0 +1,2 @@
+Summary: branch-1, docker, yetus, fails 
+Description: gem, rubocop, parallel, Ruby, version, native extensions, jaro_winkler, command, non-zero code, Docker, failed, build, yetus, hbase.

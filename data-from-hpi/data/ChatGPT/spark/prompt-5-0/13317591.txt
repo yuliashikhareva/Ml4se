@@ -1,0 +1,2 @@
+Summary: Publish, Failed, Succeeded, Test Reports, GitHub Actions
+Description: Readability, Logs, Reporting, Results, Easy to Read, Jenkins Test Report, Check-run-reporter, GitHub Actions.

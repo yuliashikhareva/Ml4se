@@ -1,0 +1,3 @@
+Summary: Filter pane, add filter, flashes, rendering 
+
+Description: Kibana version, Elasticsearch version, Server OS version, Browser version, Browser OS version, install method, bug, user, clicks, add filter, filter pane, flashes, field list, renders, correctly, 7.5.2, 7.6.0, discover, dashboard.

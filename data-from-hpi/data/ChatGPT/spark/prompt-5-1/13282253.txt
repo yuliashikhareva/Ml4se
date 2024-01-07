@@ -1,0 +1,4 @@
+Summary: Pipes, PySpark
+Description: pipe method, Spark Dataframe, functional programming pattern, tidyverse, pandas community, session, outliers, functions, unit test, method chaining, mutation, debugging, code maintenance, monkey-patched, pyspark.sql.DataFrame. 
+
+Note: Some of the keywords may not be unique to this bug report and may be common in other reports as well.

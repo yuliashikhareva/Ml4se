@@ -1,0 +1,3 @@
+Summary: Refresh button, hits, histogram visualization
+
+Description: Kibana version, Elasticsearch version, server OS version, browser version, browser OS version, original install method, Discover page, relative time range selection, application state, start time, end time, query, elasticsearch, bucket, refresh, view window, white background, grey background, incomplete time buckets, bucket bars, reproduce, screenshots, issue, upgrade, .kibana index, saved objects, request, size, sort, aggs, date histogram, time zone, stored fields, script fields, docvalue fields, source, query, bool, must, filter, match all, range, highlight.

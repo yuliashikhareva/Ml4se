@@ -1,0 +1,3 @@
+Summary: Discover, visual, filtering, time 
+
+Description: Kibana, version 7.6.2, drag, current time, time picker, freaks out, video, random date.

@@ -1,0 +1,4 @@
+Summary: Creating new fields, end users  
+Description: new fields, ingestions, scripted fields, Kibana, index pattern, painless syntax, performance, categorization, transformation, ad-hock, enrich, proximity, simple syntax
+
+Note: Some of the keywords may be repeated in the summary and description.

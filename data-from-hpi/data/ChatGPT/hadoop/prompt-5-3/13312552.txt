@@ -1,0 +1,3 @@
+Summary: [refactor] ValidTxnManager, getTxnWriteIds 
+
+Description: logic, allocating, write IDs, consolidate, move, ValidTxnManager.

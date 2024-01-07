@@ -1,0 +1,2 @@
+Summary: Executing, example, https://spark.apache.org/docs/latest/running-on-yarn.html, fails
+Description: running, spark-submit, class, org.apache.spark.examples.SparkPi, master, yarn, deploy-mode, cluster, driver-memory, executor-memory, executor-cores, queue, examples/jars/spark-examples*.jar, JNI error, installation, NoClassDefFoundError, org.slf4j.Logger, ClassNotFoundException, install, slf4j, way around

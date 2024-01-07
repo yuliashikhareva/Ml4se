@@ -1,0 +1,2 @@
+Summary: uncache, table, tempViews, session closed
+Description: Spark, cleanup, cached tables, tempViews, sql, risks, uncache table, session closed, cached plan, CacheManager, leaks, failure, subsequent query, production environment, java.io.FileNotFoundException, underlying files, updated, invalidate cache, REFRESH TABLE, tableName, Dataset, DataFrame, exception, update data.

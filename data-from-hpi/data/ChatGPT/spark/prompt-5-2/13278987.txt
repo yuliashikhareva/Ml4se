@@ -1,0 +1,2 @@
+Summary: Pyspark, kubernetes, --py-files, remote storage, cluster mode 
+Description: spark-submit, yarn, remote storage, PYTHONPATH, k8s, import errors, zip file, link, unsupported, PYTHONPATH, /opt/spark/python/lib/pyspark.zip, /opt/spark/python/lib/py4j-*.zip, s3://bucket/packages.zip

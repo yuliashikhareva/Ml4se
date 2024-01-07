@@ -1,0 +1,2 @@
+Summary: normalize, column name, AlterTable 
+Description: case insensitive resolution, match, table schema, ease, DS v2 implementations, Spark, normalize, column name, v2 catalogs, users, case sensitive config.

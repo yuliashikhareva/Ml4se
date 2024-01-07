@@ -1,0 +1,6 @@
+Summary: BROADCAST hint, weird message, column can't be resolved, Spark 2.4 
+Description: easily reproduced, run, same code, Spark 2.4.3, Spark 3.0.0, SQL parser, invalid error message, SQL statement, works fine 
+
+Selected Keywords:
+Summary: BROADCAST hint, column can't be resolved, Spark 2.4 
+Description: easily reproduced, same code, Spark 2.4.3, Spark 3.0.0, SQL parser, invalid error message, SQL statement

@@ -1,0 +1,2 @@
+Summary: invalid repo url, fix, pom
+Description: Build, hive, source code, mvn, clean, install, skipTests, Pdist, xml file, jar, invalid repository, maven, logs, downloading, druid-apache-rc-testing, orc-core-1.5.9.jar, fix, pom.

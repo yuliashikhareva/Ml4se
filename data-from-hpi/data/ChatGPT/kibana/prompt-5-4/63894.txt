@@ -1,0 +1,3 @@
+Summary: Remove, auto_create_index, SavedObjectsClient, error view
+
+Description: Kibana, index template, auto-creating, saved object migrations system, remove, server, public, 503s, missing index, create requests, Kibana index, Elasticsearch, action.auto_create_index, 503 error.

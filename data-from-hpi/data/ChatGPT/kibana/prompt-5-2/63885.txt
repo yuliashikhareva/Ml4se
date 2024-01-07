@@ -1,0 +1,4 @@
+Summary: show/hide, AlertTypes, display context
+Description: control, context, display, filter, UI, specific, omit, mechanism, disable, create, management view, out of context, message, redirect, hide, types, flyout, trigger, selection, application. 
+
+(Note: some of the keywords are repeated in the summary and description for emphasis.)

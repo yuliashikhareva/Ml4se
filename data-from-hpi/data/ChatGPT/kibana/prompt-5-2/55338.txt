@@ -1,0 +1,3 @@
+Summary: Uptime, Monitor List, unexpected behaviors, omitting, monitors
+
+Description: Kibana Version, Testing #49366, monitors, page refreshes, refresh constantly, two monitors, heartbeat.monitors, http, down-host, downer, hosts, http://www.elastic.co:9292, down-dns, nodns, http://noahost.elastic.co, urls, http://localhost:9200, schedule, timeout, monitor 'downer', goes missing.

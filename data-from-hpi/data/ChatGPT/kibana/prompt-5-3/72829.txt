@@ -1,0 +1,3 @@
+Summary: [Discover] fields persist, index pattern change 
+
+Description: Discover, fields, index pattern, selected fields list, table, empty list, table displays without data, video, expected behavior, '_source'.

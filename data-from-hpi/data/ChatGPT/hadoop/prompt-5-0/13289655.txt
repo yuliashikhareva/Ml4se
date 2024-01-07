@@ -1,0 +1,4 @@
+Summary: Update, Netty, 4.1.46Final 
+Description: Netty, 4.1.44, HTTP, header, colon, incorrect syntax, invalid fold, CVE-2019-20444. 
+
+Selected Keywords: Netty, Update, 4.1.46Final, HTTP, header, colon, incorrect syntax, invalid fold, CVE-2019-20444.

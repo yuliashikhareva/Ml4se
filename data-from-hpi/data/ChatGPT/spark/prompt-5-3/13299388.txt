@@ -1,0 +1,2 @@
+Summary: numbers, thousands separator, locale specific decimal separator, parsed, correctly
+Description: CSV files, numbers, thousands separator, locale specific decimal separators, parsed, null, France, float, US, Integer value, UnivocityParser, locale aware, NumberFormatter, Spark, StructType, DataFrame, header, csv, NumberFormat, instance, parse, intValue, Excel, export, analyze, internet.

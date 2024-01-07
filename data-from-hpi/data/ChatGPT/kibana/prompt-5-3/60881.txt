@@ -1,0 +1,4 @@
+Summary: creating, new fields, end users 
+Description: add new fields, ingestions, scripted fields, Kibana, use cases, location, failures, loading, painless syntax, performance, normalization, transformation, calculated fields, runtime fields, ad-hock, enrich, proximity, simple field
+
+Note: Some of the phrases have been merged for better representation as keywords.

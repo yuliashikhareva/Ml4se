@@ -1,0 +1,16 @@
+
+
+Summary: Create user role, empty error message 
+Description: Kibana 7.9, Elasticsearch 7.9, Cloud, security role, empty error window, document-level security, valid or invalid query, create role, error message, screenshot. 
+
+Selected Keywords:
+- Create user role
+- Empty error message
+- Kibana 7.9
+- Elasticsearch 7.9
+- Cloud
+- Security role
+- Document-level security
+- Valid or invalid query
+- Error window
+- Screenshot.

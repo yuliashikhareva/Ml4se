@@ -1,0 +1,2 @@
+Summary: Support, INET, data type
+Description: PostgreSQL, support, INET, data type, customers, native, IP addresses, matches, subnet, parquet bloom filters.

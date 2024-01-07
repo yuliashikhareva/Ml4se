@@ -1,0 +1,3 @@
+Summary: [Uptime] Pagination, ping list, broken 
+
+Description: Kibana version, Elasticsearch version, Server OS version, Browser version, Browser OS version, install method, pings list, detail page, Uptime, broken pagination, single page, no ability, look at later pages, modify, size parameter, older items, later pages, remove pagination features, functioning pagination.

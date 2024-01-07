@@ -1,0 +1,4 @@
+
+
+Summary: Session timed out, login again
+Description: Kibana, Elasticsearch, OpenSUSE 15.1, Chrome stable 81, Windows 10 64, zypper, xpack.security.session.idleTimeout, 180d, 1Y, immediate logout.

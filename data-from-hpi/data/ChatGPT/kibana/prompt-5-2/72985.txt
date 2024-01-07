@@ -1,0 +1,2 @@
+Summary: [Maps, Upload, GeoJSON, 408 error, Cloud] 
+Description: Kibana 7.9.0-snapshot, Elasticsearch 7.9.0-snapshot, ESS cloud, Firefox 78.0.2, MacOS Mojave, Deployed on Elastic Cloud, Upload GeoJSON, 50MB limit, ingest step fails, Cloud environments, 408 Request Timeout, TypeError: indexDataResp.failures is undefined.

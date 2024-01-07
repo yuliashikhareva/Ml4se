@@ -1,0 +1,2 @@
+Summary: JDBCV2, catalog functionalities 
+ Description: SPARK-24355, event loop group, ChunkFetchRequests, threads, connection requests, latency, configuration value, spark.shuffle.server.chunkFetchHandlerThreadsPercent, secondary event loop group, behavior.

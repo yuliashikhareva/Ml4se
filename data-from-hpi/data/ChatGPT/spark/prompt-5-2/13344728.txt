@@ -1,0 +1,2 @@
+Summary: HiveGenericUDTF, initialize(), latest version 
+Description: HiveGenericUDTF, initialization methods, StructObjectInspector, ObjectInspector[], deprecated function, UDFArgumentException, IllegalStateException, Spark SQL, exception, FeatureParseUDTF1.

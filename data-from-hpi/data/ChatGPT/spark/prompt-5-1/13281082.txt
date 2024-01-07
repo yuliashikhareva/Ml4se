@@ -1,0 +1,2 @@
+Summary: Update, testthat, dependency 
+Description: SparkR, fix, testhat, version, 1.0.2, SPARK-22817, removal, run_tests, testthat 2.0.0, replacement, test_package_dir, internal, upgrade, latest, testhat, release.

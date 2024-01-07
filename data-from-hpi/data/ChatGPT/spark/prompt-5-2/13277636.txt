@@ -1,0 +1,3 @@
+Summary: File source V2, partition pruning
+
+Description: Data Source V2, partition pruning, FileScan, partitions method, fileIndex, listFiles, partition filter.

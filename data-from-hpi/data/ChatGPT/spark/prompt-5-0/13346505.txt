@@ -1,0 +1,3 @@
+Summary: CastSupport.cast, HashJoin 
+
+Description: AQE, TPCDS q5, UnsupportedOperationException, BroadcastExchange, SparkPlan, ReusedExchange, BroadcastQueryStage, distribution, EnsureRequirements.

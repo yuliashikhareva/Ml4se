@@ -1,0 +1,4 @@
+Summary: auto, interval, histogram, AggConfig 
+Description: histogram, aggConfig, preflight request, min, max, auto interval option, autoIntervalTarget, barTarget, logic, multiple, roundish value, request, maxBars, advanced settings, editor, Lens 
+
+Note: These keywords are not an exhaustive list and may need to be refined based on the specific needs of the duplicate bug report detection system.

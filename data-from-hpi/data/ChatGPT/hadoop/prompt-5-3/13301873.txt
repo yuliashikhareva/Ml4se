@@ -1,0 +1,2 @@
+Summary: TestExportSnapshotWithTemporaryDirectory, fails, No such file or directory 
+Description: TestExportSnapshotWithTemporaryDirectory, failure, org.apache.hadoop.yarn.exceptions.YarnRuntimeException, org.apache.hadoop.service.ServiceStateException, ExitCodeException, chmod, /private/tmp/hadoop-yarn-ndimiduk/node-attribute/nodeattribute.mirror.writing, No such file or directory.

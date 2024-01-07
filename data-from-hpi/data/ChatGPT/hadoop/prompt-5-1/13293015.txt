@@ -1,0 +1,3 @@
+Summary: Spotbugs, putIfAbsent, ignored
+
+Description: regression, HBASE-23561, putIfAbsent, ignored, node, reused, org.apache.hadoop.hbase.master.assignment.RegionStates.createRegionStateNode, Bug type RV_RETURN_VALUE_OF_PUTIFABSENT_IGNORED, org.apache.hadoop.hbase.master.assignment.RegionStates, org.apache.hadoop.hbase.master.assignment.RegionStates.createRegionStateNode, java.util.concurrent.ConcurrentSkipListMap.putIfAbsent, org.apache.hadoop.hbase.master.assignment.RegionStateNode, loaded, node, RegionStates.java, line 133.

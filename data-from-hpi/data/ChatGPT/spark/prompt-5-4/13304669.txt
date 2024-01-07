@@ -1,0 +1,2 @@
+Summary: PandasUDFType.GROUPED_AGG, Java 11
+Description: example, error, Java 11, Java 8, directBuffer, UnsupportedOperationException, SparkException, Task, stage, executor driver.

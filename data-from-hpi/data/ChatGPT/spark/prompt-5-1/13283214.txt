@@ -1,0 +1,2 @@
+Summary: ANSI SQL, LAST_VALUE function 
+Description: PostgreSQL, Vertica, Oracle, Redshift, Presto, Teradata, FIRST_VALUE, LAST_VALUE, window function, aggregate function, re-implement, discussion, GitHub, spark, pull request.

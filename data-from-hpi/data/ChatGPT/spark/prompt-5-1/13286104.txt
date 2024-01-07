@@ -1,0 +1,2 @@
+Summary: catalyst, lateral view explode, struct, error 
+Description: spark 3.0.0.preview2, bug, table, double lateral view explode, error, org.apache.spark.sql.catalyst.errors.package$TreeNodeException, recreation of bug, import, Array of Array of String.

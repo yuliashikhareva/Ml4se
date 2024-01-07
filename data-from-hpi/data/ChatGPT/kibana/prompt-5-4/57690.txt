@@ -1,0 +1,2 @@
+Summary: Kibana 7.6.0 Auto-Refresh bug, metrics page 
+Description: Kibana version 7.6.0, Elasticsearch version 7.6.0, Server OS version Centos 7, Browser version Latest firefox, Browser OS version Latest debian, Auto-Refresh, metrics page, machine metrics box, context menu, disappear, reappear.

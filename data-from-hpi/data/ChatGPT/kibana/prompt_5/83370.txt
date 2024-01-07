@@ -1,0 +1,2 @@
+Summary: Timelion, global, shared, synchronized, hover, context, stopped working, 7.9.2 
+Description: Kibana, version 7.9.2, Elasticsearch, version 7.9.2, Server OS version, Red Hat Enterprise Linux 7.5, Browser version, Version 86.0.4240.193, Browser OS version, Windows 7, shared time hover, crosshair, vertical line, useful feature, setting, enable, two timelion charts, dashboard, mouse, not displayed, broke, upgraded, expected behavior, hover line, sync, all charts, screenshots, errors in browser console, logs, server output, additional context.

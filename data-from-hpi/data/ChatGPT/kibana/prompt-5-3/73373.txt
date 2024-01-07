@@ -1,0 +1,4 @@
+
+
+Summary: links, clusters, stack monitoring
+Description: Kibana, Elasticsearch, Ubuntu 16.04, Chrome, Windows 10, tar.gz, default dist, multiple clusters, clicking, state, second click, remote cluster, breadcrumb, other cluster, alternate clicks, monitoring page, expected behavior.

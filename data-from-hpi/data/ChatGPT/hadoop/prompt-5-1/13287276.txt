@@ -1,0 +1,4 @@
+Summary: s3a mkdirs(), dest, dir marker
+Description: S3A innerMkdirs(), getFileStatus(), probe, file, dir, HEAD path, 404, S3 load balancers, subsequent probes, parent, LIST, marker entry, walk, existing empty dir marker, non-empty dir, cached 404s. 
+
+Note: Please keep in mind that these are just suggestions and the final selection of keywords for duplicate detection may vary depending on the specific needs and criteria of the system.

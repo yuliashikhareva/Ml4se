@@ -1,0 +1,7 @@
+Summary: histogram, AggConfig, auto interval
+Description: histogram, AggConfig, preflight request, min, max, auto interval option, autoIntervalTarget, interval, intervalBase, logic, multiple, roundish value, request, histogram:maxBars, editor, Lens
+
+Note: Some of the keywords may be repeated or paraphrased in the summary and description.
+
+Summary: histogram, AggConfig, auto interval 
+Description: histogram, AggConfig, preflight request, min, max, auto interval option, autoIntervalTarget, interval, intervalBase, logic, multiple, roundish value, request, histogram:maxBars, editor, Lens

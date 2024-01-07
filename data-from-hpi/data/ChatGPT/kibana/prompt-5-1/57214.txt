@@ -1,0 +1,3 @@
+Summary: categorical styling, lines, polygons
+
+Description: Kibana version, Ubuntu 9.10, Chromium 79, Firefox 72, categorical styling, lines, polygon, GeoJSON upload, keyword field, browser freeze, legend, rendering, Other category, OSM datasets, Halle, Belgium.

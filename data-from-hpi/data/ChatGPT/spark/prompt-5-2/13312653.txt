@@ -1,0 +1,2 @@
+Summary: Exchange reuse, DPP, subqueries
+Description: Exchange, ReuseExchange, PhysicalPlan, DPP, Subquery, filter, different stages, compute, ReuseBroadcastOnly, autoBroadcastJoinThreshold, query, Plan, ReusedExchange, Child node, incorrect, exchange reuse, ReuseSubquery, self join, compute twice.

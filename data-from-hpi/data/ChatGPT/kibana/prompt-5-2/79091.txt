@@ -1,0 +1,3 @@
+Summary: Kibana, Users overview, Roles, spacing 
+
+Description: Kibana version 7.9.2, Elasticsearch version 7.9.2, Users overview, Roles, spacing, visual glitch, screenshot.

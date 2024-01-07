@@ -1,0 +1,2 @@
+Summary: refactor, allocating, write IDs, ValidTxnManager, getTxnWriteIds
+Description: logic, spread, Driver.java, ValidTxnManager.java, consolidate, allocating, write IDs, ValidTxnManager.

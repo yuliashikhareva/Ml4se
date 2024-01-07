@@ -1,0 +1,2 @@
+Summary: Move, MetaTableAccessor, hbase-client 
+Description: AsyncMetaTableAccessor, client side, MetaTableAccessor, internal methods, implementing, assignment, hbase-server, hbase-balancer.

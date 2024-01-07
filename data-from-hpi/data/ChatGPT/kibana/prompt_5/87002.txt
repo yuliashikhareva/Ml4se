@@ -1,0 +1,4 @@
+
+
+Summary: Bug, Data streams, storage size, numerically sorting
+Description: Kibana version, Elasticsearch version, data streams tab, index management, stats, storage size column, alphabetically sorted.

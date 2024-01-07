@@ -1,0 +1,2 @@
+Summary: Spark SQL, LIKE, ESCAPE 
+Description: Spark SQL, LIKE, ESCAPE, table, select, logical plan, StartsWith

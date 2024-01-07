@@ -1,0 +1,5 @@
+Summary: Upgrade, googletest, 1.10.0 
+Description: Google test library, libhdfspp module, Hadoop HDFS Native Client project, old, third party code, checked in, Hadoop codebase. 
+
+Selected Keywords: 
+Upgrade, googletest, 1.10.0, Google test library, libhdfspp module, Hadoop HDFS Native Client project, old, third party code, checked in, Hadoop codebase.

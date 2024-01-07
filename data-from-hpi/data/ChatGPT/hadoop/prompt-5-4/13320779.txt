@@ -1,0 +1,2 @@
+Summary: Support, AvailableSpaceBlockPlacementPolicy, BlockPlacementPolicyRackFaultTolerant
+Description: BlockPlacementPolicyRackFaultTolerant, one block, rack, Heterogeneous datanodes, change, AvailableSpaceBlockPlacementPolicy, place, feature.

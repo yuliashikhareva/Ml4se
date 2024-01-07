@@ -1,0 +1,3 @@
+Summary: catalyst, lateral view, struct, explode, error
+
+Description: spark 3.0.0.preview2, bug, table, double lateral view explode, error message, couldn't find _gen_alias_127#127, Array of Array of String

@@ -1,0 +1,2 @@
+Summary: TSVB gauge rule dropdown not selectable 
+Description: Kibana version, Elasticsearch version, Server OS version, Browser version, Browser OS version, TSVB gauge, select box, dropdown, empty, color rules.

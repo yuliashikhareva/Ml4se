@@ -1,0 +1,3 @@
+Summary: ITestS3GuardOutOfBandOperations, versioned S3 buckets
+
+Description: org.apache.hadoop.fs.s3a.ITestS3GuardOutOfBandOperations, testListingDelete, auth=true, deleted file, can still be read, s3guard entry, versionId, FS versioned, file status, versionID, switch to tests, assert, file is readable

@@ -1,0 +1,4 @@
+Summary: Automated Package Testing
+Description: QA, testing, repository, CI checks, PRs, validation, manual testing, deb, RPM, Docker, tar, zip, environment, Vagrant, Docker, filesystem permissions, log output, successful installation, Kibana, functional tests, CPU, memory recommendations, support, Windows
+
+Note: Some of the words are repeated multiple times, as they are important keywords for the context.

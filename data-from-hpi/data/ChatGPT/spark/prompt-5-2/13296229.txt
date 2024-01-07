@@ -1,0 +1,2 @@
+Summary: Coalesce, Bucketed Tables, Join, Applicable 
+Description: Coalesce, Shuffle, Join, Bucketed Tables, Optimization

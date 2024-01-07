@@ -1,0 +1,2 @@
+Summary: invalid_index_name_exception, Setup Mode 
+Description: Kibana 7.6.0, Elasticsearch 7.6.0, Debian GNU/Linux 9.11, Google Chrome, macOs Catalina, apt, "Enter setup mode" button, monitoring, _security index, create index API.

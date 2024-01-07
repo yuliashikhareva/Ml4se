@@ -1,0 +1,3 @@
+Summary: Ability, Convert, Count, Rate, RPS
+
+Description: Kibana, Basic Visualizations, Lens, Data Count, Rate, Request per Second, Metrics, Instances, Easily Available, Use Case, ES, Discrete Form, Logs per Second, Derivative agg, Moving Avg, Bucket agg, Smoothing, Time Window, TSVB, Scale Interval, Timelion.

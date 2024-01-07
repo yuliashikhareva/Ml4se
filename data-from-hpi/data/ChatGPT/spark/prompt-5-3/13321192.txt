@@ -1,0 +1,3 @@
+Summary: Ambiguous self join error, non self join, window
+
+Description: code, fails, ambiguous self join analysis, self join, val v1, spark, range, 3, toDF, m, val v2, d, v3, join, v1, m, v2, d, v4, v3, d, w1, Window, partitionBy, v4, out, select, v4, a, sum, over, w1, b, org.apache.spark.sql.AnalysisException, Column a#45L, ambiguous, several Datasets, same, column, points, one, Spark, unable, figure out, alias, Datasets, different names, Dataset.as, join, specified column, qualified name, e.g., df.as("a").join(df.as("b"), $"a.id" > $"b.id"), set, spark.sql.analyzer.failAmbiguousSelfJoin, false, disable, check.

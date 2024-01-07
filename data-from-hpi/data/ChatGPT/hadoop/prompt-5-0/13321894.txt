@@ -1,0 +1,3 @@
+Summary: HiveMetaStoreAuthorizer, Optimise, createHiveMetaStoreAuthorizer 
+
+Description: table, partitions, time, HiveMetaStoreAuthorizer, create, HiveConf, partition request.

@@ -1,0 +1,2 @@
+Summary: TestSnappyCompressorDecompressor, failure, fix, CentOS 8 
+Description: testSnappyCompressDecompress, testSnappyCompressDecompressInMultiThreads, reproducibly fails, CentOS 8, no issue, CentOS 7.

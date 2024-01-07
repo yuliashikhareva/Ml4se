@@ -1,0 +1,9 @@
+Summary: Exported CSV, saved search, dashboard panel, date format pattern 
+
+Description: Kibana 7.6.2, Elasticsearch 7.6.2, Docker, Chrome 83.0.4103.61, Windows 10 Pro, CSV report, date format pattern, dashboard panel, discover sharing, well-formatted dates 
+
+Steps to reproduce: Clone docker-elk repo, use docker-compose to setup ELK, add sample flight data, go to [Flights] Global Flight Dashboard, download CSV report from [Flights] Flight Log panel 
+
+Expected behavior: CSV report with well-formatted date values 
+
+Additional context: None

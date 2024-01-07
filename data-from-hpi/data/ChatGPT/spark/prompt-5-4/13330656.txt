@@ -1,0 +1,3 @@
+Summary: Fetch, topic partitions, offset ranges 
+
+Description: fetch, topic partition, twice, fetchPartitionOffsets, KafkaOffsetReader, offset, reduce, unnecessary poll.

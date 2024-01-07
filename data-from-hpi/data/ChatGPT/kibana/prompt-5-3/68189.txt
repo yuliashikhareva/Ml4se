@@ -1,0 +1,2 @@
+Summary: Reporting, Exported CSV, saved search, dashboard panel, date format pattern 
+Description: Kibana version, Elasticsearch version, Server OS version, Browser version, Browser OS version, docker-compose config, CSV report, date format pattern, dashboard panel, discover sharing, well-formatted dates values.

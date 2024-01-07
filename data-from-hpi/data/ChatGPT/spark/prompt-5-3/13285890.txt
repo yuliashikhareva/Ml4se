@@ -1,0 +1,3 @@
+Summary: Add, User Guide, Adaptive Query Execution
+
+Description: Jira, add, detail, user guide, describe, enable, AQE, three, main features.

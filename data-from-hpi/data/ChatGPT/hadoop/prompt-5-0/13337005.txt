@@ -1,0 +1,2 @@
+Summary: NPE, MiniYARNCluster, hadoop-client-minicluster
+Description: NPE, MiniYARNCluster, starting, hadoop-client-minicluster, exclude, resource files, hadoop-yarn-server-nodemanager, dependency, test classes, main classes, shaded jar, ResourceManager, NodeManager, resource files missing.

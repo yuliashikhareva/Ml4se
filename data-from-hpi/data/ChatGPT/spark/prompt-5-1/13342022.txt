@@ -1,0 +1,2 @@
+Summary: Upgrade, Scala 2.13, 2.13.3, 2.13.4
+Description: Scala, released, 2.13.4, GitHub

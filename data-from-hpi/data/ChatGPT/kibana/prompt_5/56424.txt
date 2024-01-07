@@ -1,0 +1,3 @@
+Summary: Console error, edit, filter, ES query DSL 
+
+Description: BC4, cloud, edit, DSL query, filter, error, console, ace/theme/, couldn't load module

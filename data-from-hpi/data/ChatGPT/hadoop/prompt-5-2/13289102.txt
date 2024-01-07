@@ -1,0 +1,5 @@
+Summary: HiveParser, quotes, parameters, built-in functions, UDFs 
+
+Description: Parsing, query, single quotes, double quotes, translate function, 2.3*, 3.1.1 version, hive, successful, 2.1.1 version, exception, NoViableAltException, string, from/to, escaped, buggy, interpreting, ending quote, duplicate, built-in functions, UDFs. 
+
+Note: I have included some additional keywords to cover the main concepts and make the selection more effective for duplicate detection.

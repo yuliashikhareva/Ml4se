@@ -1,0 +1,4 @@
+
+
+Summary: Create user role, empty error message
+Description: Kibana version 7.9, Elasticsearch version 7.9, Cloud, Chrome, MacOS, security role, empty error window, document-level security, valid or invalid query.

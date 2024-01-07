@@ -1,0 +1,2 @@
+Summary: Local cluster, shutdown, gracefully
+Description: sc.stop, local cluster mode, exceptions, RpcEnvStoppedException, asynchronous, RPC message, KillExecutor, Master, message loop, Worker.

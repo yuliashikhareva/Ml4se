@@ -1,0 +1,3 @@
+Summary: Change name, slaves file, consistent, parsing SQL, -0.0, 0.0, operators, sorts, equi-join, aggregate, odd results, Hive, non-ieee complaint behavior, java implementation, Double.compare, Float.compare, open JDK, java docs, Double.equals, corner case, frustrating, debug
+
+Description: SPARK-26021, consistent, parsing SQL, -0.0, 0.0, operators, sorts, equi-join, aggregate, odd results, filtering, Hive, non-ieee complaint behavior, MySQL, Oracle, Postgres, SQLite, java implementation, Double.compare, Float.compare, open JDK, java docs, Double.equals, corner case, frustrating, debug

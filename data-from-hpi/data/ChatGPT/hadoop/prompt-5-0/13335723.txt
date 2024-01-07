@@ -1,0 +1,2 @@
+Summary: NameNode, load, group, datanodes 
+Description: HDFS, cluster, ssd datanodes, hdd datanodes, storage policy, HOT, NODE_TOO_BUSY, dfs.namenode.redundancy.considerLoad.factor, unbalance, compute load, separate groups, average load, compare load.

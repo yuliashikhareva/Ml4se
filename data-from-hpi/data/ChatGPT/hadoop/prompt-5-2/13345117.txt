@@ -1,0 +1,2 @@
+Summary: Replace, HTrace, No-Op tracer
+Description: Remove, HTrace, dependency, old jackson jars, no-op tracer, potential security issues, code, PR#1846, faster review.

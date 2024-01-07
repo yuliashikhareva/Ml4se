@@ -1,0 +1,3 @@
+Summary: test-failed, Chrome UI Functional Tests, newsfeed
+
+Description: Chrome, UI, Functional Tests, newsfeed, fixture, simulation, Staging, cloud, 7.6, stack trace, error, Assertion, eql, actual, expected, Platform, Build Num

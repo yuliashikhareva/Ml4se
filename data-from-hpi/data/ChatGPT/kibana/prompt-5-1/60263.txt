@@ -1,0 +1,2 @@
+Summary: TSVB gauge rule dropdown 
+Description: TSVB, gauge, dropdown, select, option, empty, color rules, metric, index pattern, time field, chrome 80, windows 10

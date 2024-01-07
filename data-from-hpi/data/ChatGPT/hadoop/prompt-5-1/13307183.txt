@@ -1,0 +1,3 @@
+Summary: Resourcemanager, recover, failed, fair scheduler, queue, acl 
+
+Description: Resourcemanager, recover, failed, fair scheduler, queue, acl, application, addApplication(), rejected, applicationAttempt, addApplicationAttempt(), Application is null, RM is at standby, long running application, permission, restart, NullPointerException.

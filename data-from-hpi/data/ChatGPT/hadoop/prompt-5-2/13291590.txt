@@ -1,0 +1,3 @@
+Summary: mkdir, s3a, trailing '/' 
+
+Description: mkdir, s3a, directory, calls, AmazonDynamoDBException, empty string, hdfs dfs, log4j, bigtop-detect-javahome

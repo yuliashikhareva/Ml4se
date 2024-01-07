@@ -1,0 +1,2 @@
+Summary: CastSupport.cast, HashJoin
+Description: unsupported exception, TPCDS q5, AQE enabled, BroadcastExchange, Cast, timeZoneId, child.outputPartitioning, distribution requirement check, EnsureRequirements

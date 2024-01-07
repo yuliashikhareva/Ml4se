@@ -1,0 +1,3 @@
+Summary: Timelion, Kibana Filters 
+
+Description: Kibana version, Elasticsearch version, Server OS version, Browser version, Browser OS version, Original install method, Timelion, visualizations, filters, time block, TSVB, field value.

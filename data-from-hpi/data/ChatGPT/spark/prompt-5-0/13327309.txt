@@ -1,0 +1,2 @@
+Summary: Append, toMap, Map#filterKeys, result, concatenated, Map, Scala 2.13 
+Description: Scala 2.13, Map#filterKeys, MapView, original Map type, compile error, DataFrameReader.scala, type mismatch, Iterable, java.util.Map, Error, default arguments, dsOptions, CaseInsensitiveStringMap, finalOptions, asJava.

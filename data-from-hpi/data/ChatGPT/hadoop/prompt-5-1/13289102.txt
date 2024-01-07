@@ -1,0 +1,2 @@
+Summary: HiveParser, quotes, parameters, built-in functions, UDFs
+Description: Parsing, query, single quotes, double quotes, from string, to string, translate function, 2.3*/3.1.1 version, 2.1.1 version, exception, NoViableAltException, query fails, successful, steps to reproduce, create table, insert values, select statement, escaping double quotes, buggy behavior, interpreting double quote, ending quote, successful queries, built-in functions, UDFs.

@@ -1,0 +1,2 @@
+Summary: QB compaction, FileSinkOperators, data loss, original file 
+Description: temp files, bucket_id, data loss, FileSinkOperator.commit, overwrite, OrcFileMergeOperator, one original file

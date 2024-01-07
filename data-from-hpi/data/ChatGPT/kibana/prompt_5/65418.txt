@@ -1,0 +1,2 @@
+Summary: Sorting, Field column, Removed, Active
+Description: Kibana, Elasticsearch, Server OS, Browser, Original install, Discover, Illegal_argument_exception, Non-keyword type, Query, Reset, Not taken into account.

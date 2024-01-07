@@ -1,0 +1,3 @@
+Summary: SQL, ANSI SQL, exception, format, overflow, casting, String, IntegerType.
+
+Description: Spark, cached tables, tempViews, sql, CACHE TABLE, uncache table, session, risks, lost, visit, other session, CacheManager, leaks, failure, production environment, java.io.FileNotFoundException, File does not exist, underlying files, updated, REFRESH TABLE, tableName, Dataset, DataFrame, involved, update, old cached plan.

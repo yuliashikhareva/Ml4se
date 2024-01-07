@@ -1,0 +1,4 @@
+Summary: Lazy load, Dashboard, off-screen, visualizations 
+Description: Dashboard, loading, render, visualizations, below viewport, slow experience, errors, visible parts, intersection observer API, react-intersection-observer library. 
+
+Note: Some additional keywords could be extracted depending on the desired level of granularity for the duplicate bug report detection.

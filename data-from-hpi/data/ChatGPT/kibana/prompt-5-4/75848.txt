@@ -1,0 +1,2 @@
+Summary: Accessibility, field list size limit
+Description: Kibana version 7.8.0, Elasticsearch version 7.7.0, server OS version darwin_x86_64, browser version Chrome latest, browser OS version OS X, field list length, index, filter, first 18 characters, distinguish fields, same prefix, full field name shown.

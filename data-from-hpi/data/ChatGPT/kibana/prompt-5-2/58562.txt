@@ -1,0 +1,2 @@
+Summary: Kibana, line visualization, hover labels, incorrect values 
+Description: Kibana version, Elasticsearch version, Windows 10 Pro, Chrome Build 80.0.3987.87, creating visualization, labels showing incorrect values when adding sub-buckets, second item label pulling value from third item, steps to reproduce, expected behavior, no errors in browser console, occurring in Kibana versions 7.5.2 and 7.6.0.

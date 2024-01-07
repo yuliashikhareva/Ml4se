@@ -1,0 +1,14 @@
+
+
+Summary: configuration option, specific plugin, dependencies, focus mode
+
+Description: developers, single plugin, Kibana, configure, run only, CLI flag, APM plugin, runtime, @kbn/optimizer, building bundles, include dependents, embeddables plugin, required, optional dependency, feature, dev mode
+
+Note: Some of the keywords are repeated in the summary and description, and that is intentional to capture the essence of the bug report. 
+
+Therefore, the selected keywords for duplicate bug report detection are:
+
+Selected Keywords: configuration option, specific plugin, dependencies, focus mode, developers, Kibana, run only, CLI flag, APM plugin, runtime, @kbn/optimizer, building bundles, include dependents, embeddables plugin, required, optional dependency, feature, dev mode. 
+
+Summary: configuration option, specific plugin, dependencies, focus mode 
+Description: developers, single plugin, Kibana, configure, run only, CLI flag, APM plugin, runtime, @kbn/optimizer, building bundles, include dependents, embeddables plugin, required, optional dependency, feature, dev mode.

@@ -1,0 +1,2 @@
+Summary: X-Pack API Integration Tests, kibana, stats, operational stats, usage stats, auth, return 200, no extended
+Description: X-Pack API Integration Tests, kibana, stats, error, 401, unauthorized, Test._assertStatus, superagent, parser, IncomingMessage, res, endReadableNT.

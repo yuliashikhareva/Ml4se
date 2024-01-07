@@ -1,0 +1,2 @@
+Summary: visual, filtering, time 
+Description: Kibana, version 7.6.2, time picker, current time, red bar, freaks out, video, random date.

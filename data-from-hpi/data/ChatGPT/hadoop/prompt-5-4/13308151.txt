@@ -1,0 +1,2 @@
+Summary: special_character_in_tabnames_1.q, unstable 
+Description: job, lock, quick check, new triggers

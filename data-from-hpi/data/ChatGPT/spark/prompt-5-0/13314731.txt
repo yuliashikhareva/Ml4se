@@ -1,0 +1,2 @@
+Summary: Integer overflow, large query plan string 
+Description: Integer.MAX_VALUE, string representation, query plan, org.apache.spark.sql.catalyst.util.StringUtils.PlanStringConcat, spark.sql.maxPlanStringLength, NegativeArraySizeException, length field, StringConcat class.

@@ -1,0 +1,5 @@
+Summary: [Discover] Selected fields, index pattern
+
+Description: Kibana, bug, assess, index patterns, discover, selected fields, available fields list, change index pattern, empty selected fields list, table displays fields without data, video, expected behavior, table displayed with '_source'.
+
+Note: Some keywords are repeated in both the summary and description to capture the main meaning of the bug report.

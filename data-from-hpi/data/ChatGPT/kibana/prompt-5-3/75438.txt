@@ -1,0 +1,8 @@
+Summary: histogram, AggConfig, auto interval
+Description: histogram, AggConfig, preflight request, min, max, auto interval option, autoIntervalTarget, barTarget, interval, intervalBase, maxBars, multiple, roundish value, request
+
+Note: Some keywords such as "editor" and "Lens" might be relevant in the context of the bug report but they do not capture the main idea of the report, so they have not been included in the selected keywords.
+
+Selected Keywords:
+Summary: histogram, AggConfig, auto interval 
+Description: histogram, AggConfig, preflight request, min, max, auto interval option, autoIntervalTarget, barTarget, interval, intervalBase, maxBars, multiple, roundish value, request

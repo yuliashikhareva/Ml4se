@@ -1,0 +1,2 @@
+Summary: Sibling bucket agg, Terms, Line Visualization, browser hang 
+Description: Kibana version, Firefox 74, Chrome 80.0.3987.149, Mac OS Mojave, Download page, browser locks up, new Line Visualization, Y axis, Average Bucket, Terms, Bucket aggregation, Field select box, browser freezes, Error, Script terminated by timeout, createElementWithValidation, agg_params, DefaultEditorAggParams

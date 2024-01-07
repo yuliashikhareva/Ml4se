@@ -1,0 +1,5 @@
+Summary: Choose data source, visualization, "-", match 
+
+Description: Kibana 7.9.1, Elasticsearch 7.9.1, Server OS, demo.elastic.co, Chrome v. 86 (64-bit), data source, visualization, "-", index patterns, space, display, production environments, 7.8 and later, reproduce, expected behavior, screenshots, errors, logs, server output, context. 
+
+(Note: Some of the keywords may appear redundant or repetitive, but including them all will help with more accurate duplicate detection.)

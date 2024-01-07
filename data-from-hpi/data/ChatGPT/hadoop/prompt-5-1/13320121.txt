@@ -1,0 +1,2 @@
+Summary: NM, PC allocation tags, completed containers
+Description: placement constraints, anti-affinity, node label, containers, nodemanager, pending container, ResourceManager, allocation tags, hbase, scheduler, YARN-8511, released container, RM restart.

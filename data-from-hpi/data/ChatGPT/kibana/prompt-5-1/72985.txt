@@ -1,0 +1,2 @@
+Summary: Maps, Upload GeoJSON, 408 error, cloud
+Description: Kibana, Elasticsearch, ESS cloud, Firefox, MacOS, bug, Upload GeoJSON, 50MB limit, ingest step, Cloud environments, Steps to reproduce, Cloud deployment, Maps, layer, UI, browser console, network tab.

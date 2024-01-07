@@ -1,0 +1,2 @@
+Summary: CTAS, HMS translation, empty results 
+Description: CTAS, managed table, query planner, location, HMS translation, non-acid, EXTERNAL, purge, external warehouse directory, data copy, select, workarounds, hive.create.as.acid, hive.create.as.insert.only, MANAGED acid table, transactional table.

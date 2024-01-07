@@ -1,0 +1,2 @@
+Summary: Kerberos, authentication, provider, API, JDBC connector 
+Description: embedded provider, maintenance cost, Spark, API, implement, providers, independently, JDBC connection providers, delegation token providers.

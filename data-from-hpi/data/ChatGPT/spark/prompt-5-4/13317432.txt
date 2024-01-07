@@ -1,0 +1,2 @@
+Summary: BROADCAST hint, weird message, column can't be resolved, Spark 2.4 
+Description: code, Spark 2.4.3, Spark 3.0.0, SQL parser, invalid error message, SQL statement, reproduce, wrong error message, AnalysisException, cannot resolve, input columns, Join, SubqueryAlias

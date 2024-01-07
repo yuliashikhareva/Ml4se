@@ -1,0 +1,2 @@
+Summary: BroadCastJoin, failure, keys, join side, cast, DateTyte, String 
+Description: spark, create table, parquet, select, BROADCAST, table1, table2, join, cast, to_date, string, exception, NoSuchElementException, zoneId, dateFormatter.

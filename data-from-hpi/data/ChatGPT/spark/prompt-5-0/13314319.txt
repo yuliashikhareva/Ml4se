@@ -1,0 +1,2 @@
+Summary: Python 2, Python 3.4, Python 3.5, codes, documentation, drop 
+Description: pandas udf, dataframe, date object, pyarrow 0.17.0, ARROW_PRE_0_15_IPC_FORMAT, error, stage failure, Task 0, PythonException, spark, serializer, iterator, arrow_to_pandas, pandas, generic, getattr, datetimelike values.

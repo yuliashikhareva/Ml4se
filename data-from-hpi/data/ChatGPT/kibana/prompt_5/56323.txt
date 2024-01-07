@@ -1,0 +1,2 @@
+Summary: Display empty screen, readonly mode, dashboards, access permissions, view 
+Description: PR, release, behaviour, user, logs, view, dashboards, access privileges, use case, reproduce, space_a, sample data, role, spacey, error messages, panels.

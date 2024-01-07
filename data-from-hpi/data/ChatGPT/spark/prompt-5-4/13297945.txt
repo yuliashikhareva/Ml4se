@@ -1,0 +1,2 @@
+Summary: additional fields, ExpressionDescription, granular category, documentation 
+Description: additional fields, ExpressionDescription, granular category, function documentation, window function, finer categories, ranking functions, analytic functions, Hyukjin's comment, GitHub, Spark, pull request, issue comment.

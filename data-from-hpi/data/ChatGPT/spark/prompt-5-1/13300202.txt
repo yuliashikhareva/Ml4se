@@ -1,0 +1,2 @@
+Summary: SparkR, orderBy, multiple columns, descending, error
+Description: SparkR, orderBy, two columns, descending order, error, magrittr, createDataFrame, mutate, over, rank, windowPartitionBy, column, mpg, disp, subscript out of bounds.

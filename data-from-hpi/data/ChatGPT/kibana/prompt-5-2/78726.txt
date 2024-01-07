@@ -1,0 +1,2 @@
+Summary: [Reporting, Canvas, Elastic branding]
+Description: [Kibana version, Elasticsearch version, Cloud, report template, PDF report, full page design, customizable, copy of each page, branding, Canvas for reporting]

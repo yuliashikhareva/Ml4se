@@ -1,0 +1,2 @@
+Summary: Metrics UI, bottom Metrics Inventory, waffle map, truncated, hidden, status/action bar.
+Description: Kibana version, Elasticsearch version, Server OS version, Browser version, Browser OS version, Original install method, bug, bottom waffle map, Metrics Inventory, truncated, hidden, new action/status bar, expected behavior, full display, screenshots, 7.8.0, 7.9.0-SNAPSHOT.

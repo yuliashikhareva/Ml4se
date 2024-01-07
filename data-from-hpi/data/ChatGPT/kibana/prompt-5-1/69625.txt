@@ -1,0 +1,2 @@
+Summary: Stack Monitoring, Logstash Pipeline UI, 404 
+Description: Kibana version, Elasticsearch version, Server OS version, Browser version, Original install method, Monitoring Logstash Pipeline UI, broken, stack monitoring, Pipelines, Logstash, pipeline ID, error, load, UI, browser console, URL, missing, "/app/monitoring#"

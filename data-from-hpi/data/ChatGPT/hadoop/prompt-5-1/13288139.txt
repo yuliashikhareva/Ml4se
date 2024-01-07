@@ -1,0 +1,2 @@
+Summary: Upgrade, jackson-databind, 2.9.10.3 
+Description: RCE, jackson-databind, 2.0.0, 2.9.10.2, patched, 2.9.10.3, critical, HADOOP-16882, backport, lower-version branches, ASAP.

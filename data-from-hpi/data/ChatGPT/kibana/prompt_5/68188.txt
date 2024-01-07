@@ -1,0 +1,3 @@
+Summary: Dashboard Filters, Timelion, Applied 
+
+Description: Kibana, 7.7.0, dashboards, filters, Timelion, visualizations, don't get applied, normally, Kibana 6.8.2.

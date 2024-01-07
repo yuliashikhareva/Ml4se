@@ -1,0 +1,2 @@
+Summary: SQL, ANSI SQL, exception, format invalid, overflow, casting, String, IntegerType
+Description: Spark, cleanup, cached tables, tempViews, sql, CACHE TABLE, uncache table, session closed, risks, lost, visit, other session, cached plan, CacheManager, leaks, failure, subsequent query, production environment, java.io.FileNotFoundException, File does not exist, updated, explicitly invalidate cache, REFRESH TABLE, tableName, Dataset, DataFrame, underlying files, old cached plan.

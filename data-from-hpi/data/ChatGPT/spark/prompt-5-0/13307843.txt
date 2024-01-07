@@ -1,0 +1,3 @@
+Summary: Dataset.repartition, adaptive execution 
+
+Description: adaptive query execution, Dataset.groupBy, repartition, hardcoded number, optimal number of partitions, advisoryPartitionSizeInBytes, spark-shell, Scala version, toDF, getNumPartitions, count.

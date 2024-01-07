@@ -1,0 +1,2 @@
+Summary: Support DDL, SHOW VIEWS 
+Description: SHOW VIEWS command, Hive, new feature, regression bug, Apache Spark, PowerBI, Tableau, Simba ODBC driver, Spark 3.0, Hive 2.3, SQLGetTables call.

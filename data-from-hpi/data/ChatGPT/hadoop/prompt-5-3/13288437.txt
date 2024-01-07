@@ -1,0 +1,3 @@
+Summary: invalid repo url, pom 
+
+Description: hive, source code, build, mvn, clean, install, skipTests, dist, xml file, jar, invalid repository, maven, logs, fix

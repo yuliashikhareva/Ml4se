@@ -1,0 +1,2 @@
+Summary: ML, filedatavisualizer, create, index
+Description: Kibana version, Elasticsearch version, Server OS version, Official Docker Image, Browser version, Browser OS version, Original install method, import process, /api/ml/index_exists, 403 forbidden, /app/ml#/filedatavisualizer, CSV, Import Button, greyed out, clickable, elastic superuser, basic license.

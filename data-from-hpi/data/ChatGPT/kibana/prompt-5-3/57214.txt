@@ -1,0 +1,2 @@
+Summary: categorical styling, lines, polygons
+Description: Kibana, categorical styling, lines, polygons, GeoJSON, keyword field, browser, freezing, legend, rendering, Other category, OSM datasets, Halle, Belgium.

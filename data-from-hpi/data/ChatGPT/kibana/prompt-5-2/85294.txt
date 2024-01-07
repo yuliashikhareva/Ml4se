@@ -1,0 +1,3 @@
+Summary: Global filter, visualization, ignored, bucket filter, courier:ignoreFilterIfFieldNotInIndex 
+
+Description: Kibana version 7.10.0, Elasticsearch version 7.10.0, Windows 10, Chrome 86.0.4240.198, Unpacked Tarball, courier:ignoreFilterIfFieldNotInIndex, clicked filters, not applied properly, bucket aggregation, pie chart, filter ignored.

@@ -1,0 +1,5 @@
+Summary: [ML] filedatavisualizer, create index 
+
+Description: Kibana version: 7.9, Elasticsearch version: 7.9, Server OS version: Official Docker Image, Browser version: Most recent Firefox and Chrome, Browser OS version: Mac OS Catalina, Original install method: Official Docker Image, bug report: Cannot complete import process due to a failed request to /api/ml/index_exists with a 403 forbidden error. Steps to reproduce: go to /app/ml#/filedatavisualizer, choose a CSV file, click "Import", choose an index name, and the import button remains greyed out and unclickable. Expected behavior: the import button is clickable. Error: /api/ml/index_exists endpoint is always returning 403 FORBIDDEN. Additional context: Running Kibana/Elastic with a basic license. 
+
+Selected Keywords: [ML], filedatavisualizer, create index, Kibana version, Elasticsearch version, Docker Image, import process, 403 forbidden, CSV file, import button, endpoint, basic license.

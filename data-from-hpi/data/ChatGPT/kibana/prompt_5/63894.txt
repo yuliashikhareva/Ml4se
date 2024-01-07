@@ -1,0 +1,2 @@
+Summary: Remove auto_create_index / SavedObjectsClient/autoCreateIndex, error view 
+Description: Kibana, index template, auto-creating index, saved object migrations, remove functionality, server, public, missing index, create requests, Kibana index, Elasticsearch, action.auto_create_index, setting, special 503, Elasticsearch settings.

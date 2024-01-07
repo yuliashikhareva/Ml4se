@@ -1,0 +1,2 @@
+Summary: categorical styling, lines, polygons 
+Description: Kibana version, Ubuntu 9.10, Chromium, Firefox, categorical styling, lines, polygons, GeoJSON upload, keyword field, browser freezes, legend, Other category, OSM data, amenity field, highway field, Halle.

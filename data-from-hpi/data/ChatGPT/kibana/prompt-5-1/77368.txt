@@ -1,0 +1,2 @@
+Summary: Maps, Filter, Tooltip, Broken, 7.9.1 
+Description: Maps, Filter, Tooltip, Broken, 7.9.1, Master, Branch, Reporting, Kibana version, Elasticsearch version, Server OS version, Browser version, Browser OS version, Original install method, Add, Sample data, Documents layer, Fields, Steps to reproduce, Errors, Browser console.

@@ -1,0 +1,2 @@
+Summary: TSVB, gauge, dropdown, not selectable 
+Description: Kibana 7.6.1, Elasticsearch 7.6.1, AZURE.KIBANA.E32SV3, chrome 80, windows 10, select box, empty dropdown, visualization, index pattern, time field, gauge max 200, color rules, metric, expected behavior, screenshots, browser console, logs, additional context.

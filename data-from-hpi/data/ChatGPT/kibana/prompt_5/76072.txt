@@ -1,0 +1,3 @@
+Summary: Horizontal bars, Vertical bars, Split series, X-axis, Normal mode, Kibana v.7.9 
+
+Description: Kibana version, Elasticsearch version, Server OS version, Browser version, Browser OS version, Bar charts, X-axis, Split series, Normal mode, Stacked mode, Data presentation, Bucket plotting, Space reservation, Upgrade from v7.8.0, Date histogram, Comparison between v7.8.0 and v7.9.0

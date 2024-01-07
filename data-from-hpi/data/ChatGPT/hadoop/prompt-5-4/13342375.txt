@@ -1,0 +1,6 @@
+Summary: hbase-connector, Apache Spark 3.0
+Description: hbase-spark connector, Spark 2.x, compatibility, release, changes, compile, dependency. 
+
+Therefore, the selected keywords are:
+Summary: hbase-connector, Apache Spark 3.0
+Description: hbase-spark connector, Spark 2.x, compatibility, release, changes, compile, dependency.

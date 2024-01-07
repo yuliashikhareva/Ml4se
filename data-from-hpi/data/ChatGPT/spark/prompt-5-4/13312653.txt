@@ -1,0 +1,3 @@
+Summary: Exchange, ReuseExchange, DPP, subqueries, filter 
+
+Description: Exchange, PhysicalPlan, ReuseExchange, DPP, Subquery, filter, repeated, multiple places, different stages, compute, broadcast, join, threshold, query, plan, pointing, incorrect, Child node, ReuseSubquery, view, self, compute twice.

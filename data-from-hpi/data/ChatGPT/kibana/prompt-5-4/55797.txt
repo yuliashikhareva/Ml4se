@@ -1,0 +1,2 @@
+Summary: Chrome UI Functional Tests, test-failed, visualize app, chart types, correct chart types
+Description: Chrome UI Functional Tests, visualize app, chart types, Lens, Area, Controls, Data Table, Gauge, Goal, Heat Map, Horizontal Bar, Line, Maps, Markdown, Metric, Pie, TSVB, Tag Cloud, Timelion, Vega, Vertical Bar, expected, actual, Assertion.assert, Assertion.eql, Cloud, Build Num 42.

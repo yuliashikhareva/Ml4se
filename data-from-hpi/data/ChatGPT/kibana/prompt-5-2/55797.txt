@@ -1,0 +1,2 @@
+Summary: Chrome UI Functional Tests, visualize app, chart types, correct chart types.
+Description: Chrome UI Functional Tests, apps, visualize, chart types, expected, actual, Assertion, sort, equal, packages, kbn-expect, Context, process, tickCallback, internal, expected, actual, Area, Controls, Coordinate Map, Data Table, Gauge, Goal, Heat Map, Horizontal Bar, Line, Maps, Markdown, Metric, Pie, Region Map, TSVB, Tag Cloud, Timelion, Vega, Vertical Bar.

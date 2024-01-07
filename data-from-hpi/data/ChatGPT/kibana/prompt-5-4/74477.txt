@@ -1,0 +1,2 @@
+Summary: TSVB color picker, fully open 
+Description: TSVB, color picker, palette, render, cut off, bottom, browser window, no scroll bar, related, #52084, no scroll bars, fresh install, index, time series data, define, index pattern, Top N Panel Options, set bar color, expected behavior, screenshots, errors, browser console, logs, server output.

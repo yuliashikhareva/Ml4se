@@ -1,0 +1,2 @@
+Summary: Bug, ALSModel, Python, Documentation 
+Description: ALSModel, documentation, bug, data frame, creation, fail, error, Py4JJavaError, SparkException, Job aborted, stage failure, Task 0, PythonException, name 'long' is not defined, replicate, train, fix, change, int, ratingsRDD, parts, lambda function, Row, userId, movieId, rating, timestamp, example code, update.

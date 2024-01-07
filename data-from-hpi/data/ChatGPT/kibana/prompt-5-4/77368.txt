@@ -1,0 +1,2 @@
+Summary: Maps, Filter, Tooltip, Broken, 7.9.1 
+Description: Kibana, Elasticsearch, Ubuntu 20.04 LTS, Chromium, Filter, Tooltip, Broken, 7.9, Master, Docker, elastic.co cloud, source branch, Reproduce, Documents layer, Fields, Error, Console.

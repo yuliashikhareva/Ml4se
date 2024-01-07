@@ -1,0 +1,2 @@
+Summary: Cannot rename file, space in name
+Description: webhdfs, rename file, space, filename, bug, URLEncoder, '+', CURL, '%20', encoding

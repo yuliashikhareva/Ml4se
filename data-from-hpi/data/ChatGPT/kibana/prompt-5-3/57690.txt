@@ -1,0 +1,2 @@
+Summary: Kibana 7.6.0 Auto-Refresh bug, metrics page
+Description: Kibana version 7.6.0, Elasticsearch version 7.6.0, Centos 7 Server OS, Latest firefox Browser version, Latest debian Browser OS, yum rpm install method. Auto-Refresh on metrics page causes context menu box to disappear and reappear after a few seconds. Steps to reproduce: 1) Click metrics section and enable auto-refresh 2) Click a machine metrics box to show context menu 3) Wait 3 seconds, all boxes disappear.

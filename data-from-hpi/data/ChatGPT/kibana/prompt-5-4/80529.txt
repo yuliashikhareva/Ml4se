@@ -1,0 +1,2 @@
+Summary: ML, filedatavisualizer, index creation 
+Description: Kibana version, Elasticsearch version, Server OS version, Browser version, Browser OS version, Original install method, import process, /api/ml/index_exists, 403 forbidden error, CSV file, index name, Import button, elastic superuser, basic license.

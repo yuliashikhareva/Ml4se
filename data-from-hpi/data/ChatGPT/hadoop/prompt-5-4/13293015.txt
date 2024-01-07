@@ -1,0 +1,3 @@
+Summary: Spotbugs, putIfAbsent, ignored 
+
+Description: regression, HBASE-23561, putIfAbsent, ignored, node reused, RegionStates, createRegionStateNode, ConcurrentSkipListMap, RegionStateNode, loaded, RegionStates.java: line 133

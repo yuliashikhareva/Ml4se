@@ -1,0 +1,2 @@
+Summary: PandasUDFType.GROUPED_AGG, Java 11 
+Description: error, java 11, works with java 8, PandasUDFType.GROUPED_AGG, pyspark, SparkException, Task failed, UnsupportedOperationException

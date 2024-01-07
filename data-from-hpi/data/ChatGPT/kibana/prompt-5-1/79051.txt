@@ -1,0 +1,3 @@
+Summary: Dashes, Dashboard, Search
+
+Description: Kibana, Elasticsearch, Server OS, Browser, Browser OS, Cloud Instances, Dashboard, Search, Query, Dashes, Name, Fail, Results

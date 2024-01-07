@@ -1,0 +1,4 @@
+
+
+Summary: Data streams, storage size, numerically sorting
+Description: Kibana 7.10.1, Elasticsearch 7.10.1, data streams tab, index management, stats, sorting, storage size, alphabetically, screenshots.

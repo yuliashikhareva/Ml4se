@@ -1,0 +1,3 @@
+Summary: TestRefreshCallQueue, failing, CallQueue constructor changed
+
+Description: TestRefreshCallQueue, MockCallQueue, instantiated, missing parameter, constructor, HADOOP-17010 added.

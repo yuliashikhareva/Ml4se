@@ -1,0 +1,3 @@
+Summary: Dataset.repartition, adaptive execution 
+
+Description: adaptive query execution, Dataset.groupBy, Dataset.repartition, hardcoded number of partitions, optimal number of partitions, spark-shell, spark.sql.adaptive.enabled, spark.sql.adaptive.advisoryPartitionSizeInBytes.

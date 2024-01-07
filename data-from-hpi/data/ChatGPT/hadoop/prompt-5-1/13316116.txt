@@ -1,0 +1,3 @@
+Summary: Incorrect checksum calculation, saveVersion.sh 
+
+Description: saveVersion.sh, checksum calculation, srcChecksum, releasing process, dev-support/create-release/hbase-rm/Dockerfile, missing source checksum, Master UI, HBase Source Checksum.

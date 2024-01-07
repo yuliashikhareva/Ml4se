@@ -1,0 +1,2 @@
+Summary: Update, Jetty, hadoop, dependency 
+Description: Vulnerability, fixes, Jetty, hadoop, dependency, library, CVEs, found, Jetty, version 9.4.20.v20190813, jetty-server-9.4.20.v20190813.jar, CVE-2020-27216, Jetty-http, version 9.4.20.v20190813, jetty-http-9.4.20.v20190813.jar, CVE-2020-27216.

@@ -1,0 +1,9 @@
+Summary: `auto`, `interval`, `histogram`, `AggConfig`
+
+Description: `histogram`, `aggConfig`, `auto`, `interval`, `min/max`, `autoIntervalTarget`, `barTarget`, `intervalBase`, `maxBars`, `rounding`, `request`
+
+Final Output: 
+
+Summary: `auto`, `interval`, `histogram`, `AggConfig` 
+
+Description: `histogram`, `aggConfig`, `auto`, `interval`, `min/max`, `autoIntervalTarget`, `barTarget`, `intervalBase`, `maxBars`, `rounding`, `request`

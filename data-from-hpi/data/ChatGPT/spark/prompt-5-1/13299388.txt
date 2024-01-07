@@ -1,0 +1,2 @@
+Summary: Numbers, thousands separator, locale specific, decimal separator, not parsed correctly 
+Description: CSV files, numbers, thousands separator, locale specific, decimal separators, not parsed correctly, reported as null, France, US, float, integer, UnivocityParser, NumberFormatter, Spark, Locale, StructType, DataFrame, NumberFormat, PR, review, Excel, internet, workflow, analysis.

@@ -1,0 +1,3 @@
+Summary: `r-lib/actions/setup-r`, GitHub Action
+
+Description: `r-lib/actions/setup-r`, stabler, maintained, 3rd party action, Bug, broken branch.

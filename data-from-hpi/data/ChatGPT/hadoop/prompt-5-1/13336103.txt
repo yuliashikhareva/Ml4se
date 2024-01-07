@@ -1,0 +1,2 @@
+Summary: checksum computation, native encoders 
+Description: failures, TestFileChecksumCompositeCrc, testStripedFileChecksumWithMissedDataBlocksRangeQueryXX, stack trace, PathIOException, block checksum, LocatedStripedBlock, DatanodeInfoWithStorage, indices, FileChecksumHelper, StripedFileNonStripedChecksumComputer, DFSClient, DistributedFileSystem, FileSystemLinkResolver, TestFileChecksum

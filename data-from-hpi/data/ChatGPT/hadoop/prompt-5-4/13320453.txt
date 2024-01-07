@@ -1,0 +1,2 @@
+Summary: Table, owner info, not passed, show tables, database 
+Description: Table, owner information, not passed, HiveMetaStore, user, unable, view, tables, created, self.

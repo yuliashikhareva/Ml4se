@@ -1,0 +1,2 @@
+Summary: NM, PC allocation tags, completed containers 
+Description: placement constraints, anti-affinity, node label, two containers, nodemanager down, pending container, allocation tags, container_e68_1595886973474_0005_01_000003, DEBUG message, removing tags, scheduler, YARN-8511

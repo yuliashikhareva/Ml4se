@@ -1,0 +1,2 @@
+Summary: Cast, Aggregate expressions, wrong result 
+ Description: Cast, Aggregate expressions, wrong result, Spark SQL, HAVING query, ResolveAggregateFunctions, ResolveReferences, grouping columns, analyzer rule

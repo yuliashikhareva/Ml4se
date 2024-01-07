@@ -1,0 +1,2 @@
+Summary: pyspark, foreach, foreachPartition, http request, failed
+Description: pyspark, foreach, foreachPartition, http request, error, urllib.request, objc[74094], Python worker, crashed, SparkException, send_http, url, 192.168.1.1, 5000, index.html.

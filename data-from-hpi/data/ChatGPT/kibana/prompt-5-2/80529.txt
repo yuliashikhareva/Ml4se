@@ -1,0 +1,2 @@
+Summary: [ML] filedatavisualizer, create, index 
+Description: Kibana version, Elasticsearch version, Server OS version, Browser version, Browser OS version, Original install method, import process, request, /api/ml/index_exists, fails, 403 forbidden, /app/ml#/filedatavisualizer, file, CSV, Import Button, greyed out, not clickable, index name, errors, browser console, endpoint, always returning, elastic superuser, basic license.

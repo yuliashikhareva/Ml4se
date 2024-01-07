@@ -1,0 +1,4 @@
+Summary: Import, vega viz, saved object, filter, error, importing, 6.8.13 
+Description: Kibana, version, 6.8.13, 7.10.0, 7.9.3, Elasticsearch, Server OS, darwin_x86_64, Browser, chrome, OS X, install method, staging, bug, user, exports, json, logstash data, tutorial, load sample data, build dashboard, associate, index patterns, visualize, relationship, saved objects table, undefined response, error, browser console, index-pattern, id, re-create, screenshots, relevant, errors, relevant, core.entry.js, fetchResponse, savedObjectsManagement.plugin.js, getRelationships, 2.plugin.js, UNSAFE_componentWillMount. 
+
+Note: The keywords are selected based on their relevance to the bug report and their frequency in the report. Some of the keywords may not be very useful for duplicate bug report detection, but including them ensures that the essential information is not missed.

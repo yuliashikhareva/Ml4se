@@ -1,0 +1,2 @@
+Summary: incorrect, javadoc, format
+Description: mvn, package, dist, skipTests, error, bad use, >, samples, kMinimumReads, record, return, true.

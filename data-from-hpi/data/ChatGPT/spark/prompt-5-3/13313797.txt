@@ -1,0 +1,2 @@
+Summary: Change name, slaves file, acceptable 
+Description: SPARK-26021, parsing SQL, 0.0, -0.0, operators, sorts, equi-join, aggregate, odd results, Hive, non-ieee complaint behavior, MySQL, Oracle, Postgres, SQLite, Double.compare, Float.compare, open JDK, java docs.

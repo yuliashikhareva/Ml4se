@@ -1,0 +1,2 @@
+Summary: Bump, jackson, version, 2.10.0
+Description: exclude, transitive dependency, com.fasterxml.jackson.core, jackson-databind, 2.6.5.

@@ -1,0 +1,2 @@
+Summary: Webhdfs, getTrashRoot(), internal, AccessControlException
+Description: HDFS-10756, getTrashRoot(), WebHdfs, FileSystem instance, namenode, unacceptable, implementation, security, internal client, AccessControlException, HDFS-11156, reverted, reworked, performance bug, branch-2.10.

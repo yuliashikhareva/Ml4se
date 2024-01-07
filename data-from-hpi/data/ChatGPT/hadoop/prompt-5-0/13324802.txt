@@ -1,0 +1,2 @@
+Summary: HDFS-13934, unit test 
+Description: unit test, HDFS-13934, AbstractContractMultipartUploaderTest, testConcurrentUploads, Exception, java.lang.IllegalArgumentException, ProportionalRetryInterval, intervalMillis, maxIntervalMillis, Preconditions.checkArgument, TestHDFSContractMultipartUploader, timeToBecomeConsistentMillis.

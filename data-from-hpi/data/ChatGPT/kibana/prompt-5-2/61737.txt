@@ -1,0 +1,2 @@
+Summary: Aggregation, Sum Bucket, Crash
+Description: Kibana, Elasticsearch, Ubuntu 16.4, Firefox 74, Download page, Sum Bucket aggregation, terms aggregation, choose field, interface crashes.

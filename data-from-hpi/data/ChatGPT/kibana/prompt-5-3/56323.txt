@@ -1,0 +1,3 @@
+Summary: Display, empty screen, readonly mode, dashboards, user, access permissions, view
+
+Description: feature, PR, 7.6.0 release, user, logs in, view dashboards, index, access privileges, use case, space_a, sample data dashboards, role, spacey, access permissions, sample_ecommerce data, user, spacey role, login, error messages, logs dashboard, flights dashboard, panel.

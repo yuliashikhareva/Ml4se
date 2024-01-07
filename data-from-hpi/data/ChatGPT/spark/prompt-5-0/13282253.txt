@@ -1,0 +1,2 @@
+Summary: Pipes, PySpark 
+Description: pipe method, functional programming pattern, Spark DataFrame, tidyverse, pandas community, outlier removal, session threshold, minimum number of rows, method chaining, code maintenance, monkey-patching, PySpark DataFrame.

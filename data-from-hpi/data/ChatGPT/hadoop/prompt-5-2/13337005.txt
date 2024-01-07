@@ -1,0 +1,3 @@
+Summary: NPE, MiniYARNCluster, hadoop-client-minicluster 
+
+Description: NPE, MiniYARNCluster, hadoop-client-minicluster, resource files, exclusion, WebServer, TERMINAL, NodeManagerWrapper, BaseYarnClusterSuite.

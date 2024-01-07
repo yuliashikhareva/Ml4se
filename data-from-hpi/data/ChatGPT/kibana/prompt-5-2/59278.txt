@@ -1,0 +1,4 @@
+
+
+Summary: [Maps] localized characters missing 
+Description: Kibana 7.5.2, Elasticsearch 7.5.2, Ubuntu 18.04 LTS, Firefox 73.0.1 (64-bit), missing localized characters (åäö) when zooming in Sweden on maps. Expected behavior is to display the correct spelling of the city names.

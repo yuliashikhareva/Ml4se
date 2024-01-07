@@ -1,0 +1,2 @@
+Summary: Assign table, default RSGroup, exception, RSGroup enabled 
+Description: create, extra_500000039, RSGroup default, unable, table state not found, move table regions, move tables, postCreateTable, RSGroup enable, throw exception, branch-2

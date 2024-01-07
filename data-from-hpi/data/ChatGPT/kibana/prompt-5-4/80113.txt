@@ -1,0 +1,2 @@
+Summary: Map, Filter, Extent 
+Description: Users, Dashboard, Maps, Visualizations, Pie charts, Histograms, Draw bounds, Filter option, Current map extent, Meta, Multiple maps, Extent filter, Filter-bar, User interaction, Geospatial data, Discovery, Zoom, Pan, Bounds filter, Geometry filter, Existing filter, Replace, Previous filter.

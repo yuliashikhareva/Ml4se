@@ -1,0 +1,2 @@
+Summary: Enable, SpotBugs, PreCommit 
+Description: Yetus, SpotBugs, module, maven_add_install, Jenkinsfile_GitHub, module definitions, general check plugins, compile, maven, spotbugs check, HBASE-23767, single yetus.

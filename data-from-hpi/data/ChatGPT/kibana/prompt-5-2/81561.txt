@@ -1,0 +1,4 @@
+
+
+Summary: Canvas, PDF Generation 
+Description: Kibana, Elasticsearch, Firefox, Ubuntu, Elastic Cloud, Share, Process, Downloadable PDF, Stack Management, Alerts, Insights, Reporting.

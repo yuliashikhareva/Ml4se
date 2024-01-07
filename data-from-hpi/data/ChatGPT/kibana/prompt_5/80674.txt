@@ -1,0 +1,2 @@
+Summary: [Index Management] [docs] Missing data streams, component templates 
+Description: Update documentation, screenshot missing new tabs, data streams and component templates not mentioned, UI v7.9.2

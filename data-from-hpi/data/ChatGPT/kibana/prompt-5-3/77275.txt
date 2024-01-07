@@ -1,0 +1,2 @@
+Summary: Unable, hide, Management application, Kibana
+Description: Kibana version 7.9, Elasticsearch version 7.9, Feature Privileges, dashboard only mode, Kibana_dashboard_only_user role, mimic, behavior, deprecated, Management section, Stack Management, access, bug.

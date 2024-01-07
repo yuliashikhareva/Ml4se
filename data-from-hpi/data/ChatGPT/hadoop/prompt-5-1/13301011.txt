@@ -1,0 +1,2 @@
+Summary: TestDelegationToken, broken
+Description: reverting, HBASE-23881, fine.

@@ -1,0 +1,5 @@
+Summary: Move, MetaTableAccessor, hbase-client 
+
+Description: master branch, AsyncMetaTableAccessor, client side, MetaTableAccessor, internal methods, assignment, not part, client code, move, hbase-server, future, hbase-balancer. 
+
+Note: Some of the keywords are repeated in both parts.

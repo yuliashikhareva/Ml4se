@@ -1,0 +1,2 @@
+Summary: Javadoc format, fix 
+Description: mvn package, Pdist, skipTests, error, SimpleExponentialSmoothing.java, bad use of >, number of samples, kMinimumReads, record.

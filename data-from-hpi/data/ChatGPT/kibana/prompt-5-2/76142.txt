@@ -1,0 +1,3 @@
+Selected Keywords:
+Summary: Control visualizations, resetting, multi-select drop down, bottom, visualization
+Description: Kibana version, Elasticsearch version, Server OS version, Browser version, Browser OS version, Docker install, behavior, control selector, white space, scroll, selected items, list, production cluster.

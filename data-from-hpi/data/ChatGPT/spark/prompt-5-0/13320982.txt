@@ -1,0 +1,2 @@
+Summary: Query, Broadcast Hints, WITH Clause 
+Description: Query, WITH Clause, Query Hint, BROADCAST, Fails, Code Sample, Spark2.4.0

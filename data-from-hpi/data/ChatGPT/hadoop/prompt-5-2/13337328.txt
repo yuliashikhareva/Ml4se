@@ -1,0 +1,3 @@
+Summary: TestBPOfferService, testMissBlocksWhenReregister, intermittently 
+
+Description: TestBPOfferService, testMissBlocksWhenReregister, flaky, assertTrue, fullBlockReportCount, totalTestBlocks, incrBlockReportCount, race condition, time, synchronize, concurrent threads, slow server, addNewBlockThread, join, stop, implementation, wait, DataNodeFaultInjector, longer wait_time, count, waitFor, increase waiting time, 10 seconds, Stacktrace, java.lang.AssertionError, org.junit.Assert.fail, org.junit.Assert.assertTrue, nioEventLoopGroup-2-30, prio=10, tid=190, timed_waiting, java.lang.Thread.State, TIMED_WAITING, java.lang.Thread.sleep

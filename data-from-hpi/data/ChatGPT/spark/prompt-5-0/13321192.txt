@@ -1,0 +1,2 @@
+Summary: Ambiguous self join error, non self join, window 
+Description: code fails ambiguous self join analysis, spark, range, join, partitionBy, select, alias, qualified name, disable check

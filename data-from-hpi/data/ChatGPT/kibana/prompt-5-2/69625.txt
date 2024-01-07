@@ -1,0 +1,2 @@
+Summary: Stack Monitoring, Logstash Pipeline UI, 404 
+Description: Kibana 7.8.0, Elasticsearch 7.8.0, Elastic Cloud, Chrome, ESS, Monitoring, Logstash Pipeline UI, broken, Stack Monitoring, Pipelines, ID, error, 404, load, UI, URL, "/app/monitoring#"

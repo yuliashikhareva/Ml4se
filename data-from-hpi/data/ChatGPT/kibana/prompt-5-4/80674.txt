@@ -1,0 +1,2 @@
+Summary: Index Management, docs, Missing, data streams, component templates 
+Description: Update documentation, current features, specific use case, screenshot, interface tabs, data streams, component templates, Elastic webpage, UI v7.9.2.

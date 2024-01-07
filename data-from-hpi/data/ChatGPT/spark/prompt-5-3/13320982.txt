@@ -1,0 +1,2 @@
+Summary: Query, Broadcast Hints, WITH clause
+Description: Query, WITH clause, Query Hint, BROADCAST, Fails

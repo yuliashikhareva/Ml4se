@@ -1,0 +1,9 @@
+
+
+Summary: server side telemetry data, gather, store 
+Description: server-side telemetric data, basic data gathering, counter, server-side event, aggregating, storing data, Saved Objects, Elasticsearch, easy to use API, data collection disabled, waste, standardized approach, telemetry purposes, instrument code, aggregate, save data. 
+
+Selected Keywords:
+
+Summary: server side telemetry data, gather, store 
+Description: server-side telemetric data, data gathering, aggregating, storing data, Saved Objects, Elasticsearch, telemetry status, standardized approach, instrument code, save data.

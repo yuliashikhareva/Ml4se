@@ -1,0 +1,2 @@
+Summary: Accessibility, field list size, limited
+Description: Kibana version, Elasticsearch version, Server OS version, Browser version, Browser OS version, field list length, small, full name, fields, limited, 18 characters, index, filter, edit filter, screenshot, distinguish, same prefix, full field name.

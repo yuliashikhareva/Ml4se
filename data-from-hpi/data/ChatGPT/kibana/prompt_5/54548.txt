@@ -1,0 +1,2 @@
+Summary: Visualizations filters, upgrade
+Description: Kibana, Elasticsearch, filters, dashboard, tag cloud, pie, upgrade, click, filter, TSVB, rebuilt, refreshes, modifications, working, removed, menu, Link.

@@ -1,0 +1,2 @@
+Summary: Maps, global filter button, layer, auto-scaling, clusters
+Description: Kibana, version 7.9.0-snapshot, browser, Firefox 78.0.2, Documents layer, Scaling, Show clusters when results exceed 10000, infinite loop, Apply global filter to layer data, > 10000 documents, < 10000 documents, toggling, off, on, repeatedly, Upload GeoJSON, ingest, file, map, global filter, foo > 0, Layer Settings.

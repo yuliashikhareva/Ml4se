@@ -1,0 +1,9 @@
+Selected Keywords: 
+
+Summary: session, timed out, login, xpack.security.session.idleTimeout, 180d 
+Description: Kibana, Elasticsearch, OpenSUSE 15.1, Chrome stable 81, Windows 10 64, zypper, bug, 4-cluster ES, dashboard, import sample data, redirect, SESSION_EXPIRED, provider, basic, value, 1Y, idleTimeout, log out, bug, reproduce. 
+
+Output: 
+
+Summary: session, timed out, login, xpack.security.session.idleTimeout, 180d 
+Description: Kibana, Elasticsearch, OpenSUSE 15.1, Chrome stable 81, Windows 10 64, zypper, bug, 4-cluster ES, dashboard, import sample data, redirect, SESSION_EXPIRED, provider, basic, value, 1Y, idleTimeout, log out, reproduce.

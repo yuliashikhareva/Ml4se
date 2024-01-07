@@ -1,0 +1,2 @@
+Summary: Job History, pool properties table 
+Description: Stage, Pool Name column, hyperlink, redirect, Pool Properties Table.

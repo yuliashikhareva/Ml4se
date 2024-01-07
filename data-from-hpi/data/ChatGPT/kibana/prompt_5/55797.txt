@@ -1,0 +1,2 @@
+Summary: test-failed, Chrome UI Functional Tests, visualize app, chart types, correct chart types
+Description: expected, sort, Lens, Area, Controls, Data Table, Gauge, Goal, Heat Map, Horizontal Bar, Line, Maps, Markdown, Metric, Pie, TSVB, Tag Cloud, Timelion, Vega, Vertical Bar, equal, Coordinate Map, Region Map, packages/kbn-expect/expect.js, test/functional/apps/visualize/_chart_types.ts, Platform: cloud, Build Num: 42

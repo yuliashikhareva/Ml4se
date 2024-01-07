@@ -1,0 +1,2 @@
+Summary: DistCp, -update option, hdfs, S3
+Description: distcp, -update option, copy, hdfs, S3, overwrite, same files, modify time, S3 files, CopyMapper.java, S3AFileSystem.java, blockSize, unused, fileSize, compare, default value, offs.s3a.block.size, HDFS, Object Store, no need.

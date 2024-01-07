@@ -1,0 +1,2 @@
+Summary: UI bug, discoverChart, moves elements 
+Description: Kibana version 7.8.1, Elasticsearch version 7.8.1, Server OS version Ubuntu 16.04, Browser version 84.0.4147.135, Browser OS version Mac OS X Mojave 10.14.6, UI bug on discoverChart that moves timestamps and charts to the sides. Steps to reproduce: open Kibana/Discover, perform query, switch to another tab, return to Kibana tab. Expected behavior: no changes.

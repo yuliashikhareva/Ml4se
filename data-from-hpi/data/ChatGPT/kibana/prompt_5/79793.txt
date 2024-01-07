@@ -1,0 +1,2 @@
+Summary: Debug logging, Metrics, JS bundle sizes, Page weight, Reporting 
+Description: Page weight, Performance, Metrics, Kibana app, Memory, Export, Bundle size, Browser, Screenshot job, Debug level, JSON formatted string, Data points.

@@ -1,0 +1,2 @@
+Summary: ERROR log, wrong user info, distcp
+Description: user test, group hadoop, distcp, cp, directory, owner super, failed, error log, org.apache.hadoop.security.AccessControlException, setOwner, FSDirAttrOp, FSNamesystem, NameNodeRpcServer, ClientNamenodeProtocolServerSideTranslatorPB, current user, print wrong user info.

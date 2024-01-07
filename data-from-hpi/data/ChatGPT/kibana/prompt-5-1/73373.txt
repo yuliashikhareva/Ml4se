@@ -1,0 +1,2 @@
+Summary: links, clusters, stack monitoring 
+Description: Kibana, Elasticsearch, multiple clusters, monitoring, clicking links, second click, remote cluster, breadcrumb, alternating clicks, expected behavior.

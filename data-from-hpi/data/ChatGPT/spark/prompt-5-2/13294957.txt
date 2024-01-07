@@ -1,0 +1,6 @@
+Summary: Structured streaming, offset, checkpoint, reset, earliest
+Description: Spark, structured streaming, Kafka, ListOffsetRequest, partition, earliest, latest, documentation, offsets, LSO, stable offset, duplicate data, logs, DEBUG mode, consumer, clientId, groupId, broker, partitionTimestamps, READ_UNCOMMITTED
+
+Selected Keywords: 
+Summary: structured streaming, offset, checkpoint, reset, earliest 
+Description: Spark, Kafka, ListOffsetRequest, partition, earliest, documentation, offsets, LSO, stable offset, duplicate data, logs, DEBUG mode, consumer, clientId, groupId, broker, partitionTimestamps, READ_UNCOMMITTED

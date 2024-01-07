@@ -1,0 +1,3 @@
+Summary: Choose data source, visualization, dash character, index patterns 
+
+Description: Kibana version, Elasticsearch version, server OS version, browser version, browser OS version, creating new visualization, source data, "-" character, index patterns, space, demo elastic environment, production environments, 7.8, expected behavior, searching, existing index patterns, "discourse-", "discourse-users", "discourse-metrics-*".

@@ -1,0 +1,4 @@
+Summary: histogram, AggConfig, auto interval
+Description: histogram, AggConfig, preflight request, min, max, auto interval option, autoIntervalTarget, barTarget, interval, intervalBase, multiple, roundish value, maxInterval, maxBars, editor, Lens, ignore maxBars
+
+Note: It's worth noting that while these keywords may help with duplicate bug report detection, they may not capture all aspects of the report and may not be sufficient for identifying all duplicates.

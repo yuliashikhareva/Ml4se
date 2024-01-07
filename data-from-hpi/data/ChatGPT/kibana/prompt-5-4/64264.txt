@@ -1,0 +1,3 @@
+Summary: session timed out, login again, xpack.security.session.idleTimeout, 180d 
+
+Description: Kibana version, Elasticsearch version, Server OS version, Browser version, Browser OS version, original install method, session timed out, login again, xpack.security.session.idleTimeout, 180d, bug, 4-cluster ES, redirected to login page, "Your session has timed out. Please log in again.", tinkering, "1Y", logging out immediately, bug, steps to reproduce.

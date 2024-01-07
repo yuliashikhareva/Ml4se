@@ -1,0 +1,7 @@
+
+
+Summary: Horizontal bars, vertical bars, split series, x-axis, Normal mode, Kibana v.7.9
+
+Description: Kibana version 7.9.0, Elasticsearch version 7.9.0, bar charts, X-axis, Split series, Normal mode, problem, split series bars, X-axis bucket, plotted on top of each other, not stacked, required space reserved but not used, Stacked mode works fine, difference between version 7.8 and 7.9, date histogram, upgrade to v.7.9.0, expected behavior same as v7.8.0, screenshots, version 7.8, version 7.9, Windows 10.0.18363, Chrome Version 84.0.4147.135 (Officiel version) (64-bit), centos-release-7-6.1810.2.el7.centos.x86_64.
+
+Note: Please keep in mind that these keywords may not be the only ones needed for duplicate bug report detection, but they should cover the main points of the bug report.

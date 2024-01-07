@@ -1,0 +1,2 @@
+Summary: TSVB, color picker, not fully open 
+Description: Kibana 7.6.0, Elasticsearch 7.6.0, Linux, Chrome, macOS Catalina, tarball, color palette, render, cut off, browser window, no scroll bar, TSVB Top N Visualization, related to #52084, no scroll bars, set bar color.

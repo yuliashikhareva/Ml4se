@@ -1,0 +1,2 @@
+Summary: Accessibility, Dashboard, Table, Scope, Caption
+Description: Kibana Home Page, Side Navigation Bar, Dashboard, Caption, Column Scope Parameters, Row Scope Parameters, Actions Column, Data, AT, Windows 7, Chrome, Screen reader, NVDA, WCAG Criterion, Level A/AA/AAA, 1.3.1, Info and Relationships, ARIA spec

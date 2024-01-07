@@ -1,0 +1,3 @@
+Summary: Choose data source, visualization, "-", match 
+
+Description: Kibana 7.9.1, Elasticsearch 7.9.1, demo.elastic.co, Chrome v. 86, Windows 10, creating new visualization, selecting source data, "-" character not matching on index patterns, index patterns matching on space, seen in production environments running 7.8 and later, expected behavior of "-" to match existing index patterns, unable to type existing index pattern with a "-", expected result 0.

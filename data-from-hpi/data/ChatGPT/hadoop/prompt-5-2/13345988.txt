@@ -1,0 +1,2 @@
+Summary: Upgrade, ORC, 1.6.6 
+Description: AcidUtils, getAcidState, recursive listing, S3 FileSystem, delta, base directory, OrcInputFormat, AcidDirInfo, TxnBase, merge, class.

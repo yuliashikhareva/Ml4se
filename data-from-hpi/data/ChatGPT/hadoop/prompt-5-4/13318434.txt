@@ -1,0 +1,3 @@
+Summary: Simplify, special character, tab names 
+
+Description: Move, similar queries, unit tests, parser module, only one, q test, explain, executing queries, focusing, parser testing.

@@ -1,0 +1,2 @@
+Summary: partition columns, casts, MetaException 
+Description: Filtering, partition keys, string, integer, MetaException, create table, insert, select, show, cast, filter, misleading message.

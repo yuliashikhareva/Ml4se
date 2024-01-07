@@ -1,0 +1,5 @@
+Summary: CSV report generation fails w/ index_closed_exception
+
+Description: Kibana version 7.3.0, Elasticsearch version 7.3.0, unable to generate CSV report from a saved Discover query, error message: "Couldn't create report for search 'dhcp' - [index_closed_exception] closed,". Steps to reproduce include opening the saved Discover query and selecting Share -> Generate CSV. Expected behavior is for the CSV report to be generated and available to download via Management -> Reports. Errors are shown in the browser console and the complete error message is available from Management -> Reporting -> details of error message, which includes the relevant query and response. Additional context is not provided. 
+
+Selected keywords: CSV report, index_closed_exception, Kibana, Elasticsearch, saved Discover query, error message, Management -> Reports, browser console.

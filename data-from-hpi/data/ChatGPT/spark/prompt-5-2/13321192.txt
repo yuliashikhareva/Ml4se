@@ -1,0 +1,3 @@
+Summary: Ambiguous self join error, non self join, window 
+
+Description: code, fails, ambiguous self join analysis, Datasets, Spark, alias, qualified name, spark.sql.analyzer.failAmbiguousSelfJoin, false, check.

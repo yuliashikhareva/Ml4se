@@ -1,0 +1,2 @@
+Summary: Map Panel, Print Layout, PDF export 
+Description: Kibana version, Elasticsearch version, Server OS version, Browser version, Browser OS version, ECommerce Sample Data Set, Dashboard, PDF export, Print Layout, Map visualization, title

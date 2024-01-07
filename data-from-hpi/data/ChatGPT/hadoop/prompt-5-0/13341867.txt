@@ -1,0 +1,2 @@
+Summary: branch-1, docker mode, yetus, fails 
+Description: gem, rubocop, parallel, Ruby version, non-zero code, Docker, failed, yetus/hbase, b249092a5f

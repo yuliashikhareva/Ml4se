@@ -1,0 +1,2 @@
+Summary: Hadoop, Build Setup, Spark 2.4.7, Kubernetes 
+Description: Hadoop DIR, SPARK class path, Docker entry point, add

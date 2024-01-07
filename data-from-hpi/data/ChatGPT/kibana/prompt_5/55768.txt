@@ -1,0 +1,3 @@
+Summary: Kibana, Edit, index lifecycle policy, GUI, 0, delete phase timing 
+
+Description: Kibana, 7.4.1, Elasticsearch, 7.4.1, Linux, Chrome, Docker, GUI, editing, index lifecycle policy, min_age, delete phase, 0, error message, client-side validation, ElasticSearch, Management, save, red line, input box, error, "Value must be greater than or equal to 1."

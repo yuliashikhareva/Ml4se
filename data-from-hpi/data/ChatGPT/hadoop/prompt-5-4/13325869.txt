@@ -1,0 +1,2 @@
+Summary: NPE, DatanodeDescriptor, updateStorageStats, handle DN Lifeline
+Description: NameNode, cluster, processing, lifeline messages, DataNode, maxLoad exception, NN, busy, allocate available nodes, choose DataNode, program loop execution, high CPU, reduces processing performance, exception stack, IPC Server handler, DatanodeLifelineProtocol, sendLifeline, Null Pointer Exception, org.apache.hadoop.hdfs.server.blockmanagement.DatanodeDescriptor.updateStorageStats, reports, StorageReport, storageMap, failedStorageInfos, receivedHeartbeat, StorageType.

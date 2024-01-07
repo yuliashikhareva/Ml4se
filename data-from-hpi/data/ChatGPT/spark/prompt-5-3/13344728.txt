@@ -1,0 +1,3 @@
+Summary: HiveGenericUDTF, initialize()
+
+Description: HiveGenericUDTF, initialization methods, StructObjectInspector, ObjectInspector[], deprecated, UDFArgumentException, IllegalStateException.

@@ -1,0 +1,2 @@
+Summary: Integer overflow, large query plan string 
+Description: org.apache.spark.sql.catalyst.util.StringUtils.PlanStringConcat, length field, overflow, java.lang.NegativeArraySizeException, StringBuilder.

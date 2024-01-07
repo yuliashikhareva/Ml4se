@@ -1,0 +1,3 @@
+Summary: Visualizations filters, upgrade
+
+Description: Kibana 7.0.0 -> 7.5.1, Elasticsearch 7.0.0 -> 7.5.1, RHEL 7.6, Chrome, filter, tag cloud, pie, dashboard, TSVB, content security policy.

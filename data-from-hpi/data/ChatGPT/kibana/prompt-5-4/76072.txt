@@ -1,0 +1,7 @@
+
+
+Summary: 'split series', 'x-axis', 'Normal mode', 'plotted', 'top', 'bar charts'
+
+Description: Kibana version, Elasticsearch version, Server OS version, Browser version, Browser OS version, 'bar charts', 'horizontal', 'vertical', 'data properly', 'X-axis', 'split series', 'Normal', 'bars', 'plotted', 'top', 'stacked', 'date histogram', 'upgrade', 'v7.9.0', 'v7.8.0', 'screenshots' 
+
+Note: These are the selected keywords from the bug report, which can be used for duplicate bug report detection.

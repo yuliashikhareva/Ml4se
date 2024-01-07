@@ -1,0 +1,3 @@
+Summary: Timed out error, toasts, randomly 
+
+Description: Kibana 7.10.0-SNAPSHOT, Elasticsearch 7.10.0-SNAPSHOT, Docker, timed out errors, appearing randomly.

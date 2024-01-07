@@ -1,0 +1,2 @@
+Summary: Detection Rules, Tag, Filters, Deleted 
+Description: filtering, rule tags, matching rules, deselect, tag, filters, refreshed, Kibana, Elasticsearch, version 7.9.3, Ubuntu Server 20.04 LTS, Google Chrome, Windows 10 Enterprise v2004, Debian Package, Detection Rules, Okta, pre-built detection rules, delete, removed, unable to remove filter.

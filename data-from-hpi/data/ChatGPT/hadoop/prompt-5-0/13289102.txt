@@ -1,0 +1,4 @@
+Summary: HiveParser, quotes, parameters, built-in functions, UDFs 
+Description: parsing, query, fails, single quote, double quote, translate function, 2.3*/3.1.1 version, successful, 2.1.1 version, exception, NoViableAltException, from/to string, next translate function, buggy, ending quote, escaped, double quote, built-in functions, UDFs. 
+
+Note: Some of the selected keywords may not be helpful in duplicate bug detection, as they are common words used in programming, but I have included them as they are mentioned multiple times in the bug report.

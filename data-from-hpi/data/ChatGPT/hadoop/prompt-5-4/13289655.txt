@@ -1,0 +1,2 @@
+Summary: Update, Netty, 4.1.46Final
+Description: HttpObjectDecoder.java, Netty, 4.1.44, HTTP header, colon, incorrect syntax, invalid fold, CVE-2019-20444

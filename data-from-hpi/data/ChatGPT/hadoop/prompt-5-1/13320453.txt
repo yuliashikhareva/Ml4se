@@ -1,0 +1,2 @@
+Summary: Table owner, show tables, database 
+Description: Table owner, HiveMetaStore, ranger policy, view tables

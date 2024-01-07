@@ -1,0 +1,2 @@
+Summary: Reading parquet rdd, non columnar mode, multithreaded environment
+Description: Reading parquet rdd, non columnar mode, Spark 3, multithreaded environment, NoSuchElementException, FileSourceScanExec, needsUnsafeRowConversion.

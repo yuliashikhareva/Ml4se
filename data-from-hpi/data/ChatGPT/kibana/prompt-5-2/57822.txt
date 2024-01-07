@@ -1,0 +1,3 @@
+Summary: Auto interval, date histogram, timestamp, x-axis bucket, collapsed 
+
+Description: Kibana 8.0.0, chrome, OS X, source install, auto interval, date histogram, x-axis bucket, timestamp per 0 milliseconds, collapsed bucket details, visualize, area chart, flights data, reproduce.

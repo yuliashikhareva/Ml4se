@@ -1,0 +1,2 @@
+Summary: PandasUDFType.GROUPED_AGG, Java 11 
+Description: error, Java 11, works with Java 8, example, PandasUDFType.GROUPED_AGG, SparkException, Job aborted, UnsupportedOperationException, directBuffer, NettyArrowBuf, ArrowRecordBatch, ArrowWriter, ArrowPythonRunner

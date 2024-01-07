@@ -1,0 +1,2 @@
+Summary: CCR actions, keyboard accessible 
+Description: tab, action, auto-follow patterns, follower index, ENTER keypress,  element, keyboard accessibility, onClick, unfollowLeaderIndex, data-test-subj, linter, error, code, visible, non-interactive elements, click handlers, keyboard listener, HOC components, EuiBasicTable, render options, nested buttons, tab order, behavior, fix, EUI.

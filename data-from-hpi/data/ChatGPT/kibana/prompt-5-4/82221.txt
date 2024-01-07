@@ -1,0 +1,3 @@
+Summary: Uncaught FieldFormatNotFoundError, Heatmap 
+
+Description: Kibana version, Elasticsearch version, Server OS version, Browser version, Snapshots, Loading, Logs, Web Traffic, sample data, dashboards, error, Heatmap, browser console error, FieldFormatNotFoundError, formatId, field_formats_registry, getInstance, IndexPattern, BucketAggType, AggConfig, toSerializedFieldFormat, createSchemaConfig, getSchemas, callee.

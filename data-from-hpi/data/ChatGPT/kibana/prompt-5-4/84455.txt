@@ -1,0 +1,2 @@
+Summary: bitd numeral formatter, 7.10.0
+Description: Kibana 7.10.0, Elasticsearch 7.10.0, bitd numeral formatter, no longer works, expected behavior, 7.9.3, visualization, upgrade.

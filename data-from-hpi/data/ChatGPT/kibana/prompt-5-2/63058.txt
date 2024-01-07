@@ -1,0 +1,2 @@
+Summary: X-Pack API Integration Tests, Kibana Stats API, operational stats, usage stats, no auth, 200 response, no extended
+Description: X-Pack API Integration Tests, Kibana Stats API, expected 200 "OK", got 401 "Unauthorized", Test._assertStatus, Test.assert, platform: cloud, Build Num: 79

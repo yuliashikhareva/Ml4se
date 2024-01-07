@@ -1,0 +1,5 @@
+Summary: Allow hidden saved-objects imported/exported 
+Keywords: hidden, saved-objects, import/export
+
+Description: Saved-objects can't be imported/exported if they are hidden, which restricts users from using standard SavedObjectsClient and HTTP APIs. Custom clients are being used for saved-objects due to reasons like custom authorization, attribute validation, and encrypted API keys. However, this has drawbacks, and potential solutions include supporting custom logic for import/export or implementing use-case specific import/export UI and API. 
+Keywords: saved-objects, hidden, standard, SavedObjectsClient, HTTP APIs, custom clients, custom authorization, attribute validation, encrypted API keys, drawbacks, import/export, custom logic, use-case specific, UI, API.

@@ -1,0 +1,2 @@
+Summary: CVE, Guava 14.0.1, fix
+Description: CVE, Guava 14.0.1, security team, spark, pom file, maven, shaded, network common, LimitedInputStream, copy-paste, Twistlock, Palo Alto Networks, Prisma Cloud Compute Edition, fix.

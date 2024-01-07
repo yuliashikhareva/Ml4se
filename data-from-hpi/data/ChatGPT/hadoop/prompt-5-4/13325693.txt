@@ -1,0 +1,2 @@
+Summary: s3a, bucket names, unsupported 
+Description: Spark, S3, error, bucket, period, Java, trace, hostname restrictions, top level domain pattern, hadoop-aws, NullPointerException, uri host, S3xLoginHelper, authority, AWS, handling, Scala shell, URI, getHost(), getAuthority(), bucket name, console, documentation

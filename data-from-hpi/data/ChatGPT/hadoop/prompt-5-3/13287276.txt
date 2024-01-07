@@ -1,0 +1,4 @@
+Summary: s3a mkdirs(), dest, dir marker 
+Description: S3A innerMkdirs(), getFileStatus(), dest path, file, dir, HEAD path, 404 error, S3 load balancers, probes, LIST, parent, marker entry, walk, empty dir marker, non-empty dir, cached 404s. 
+
+Note: These are the keywords that I believe are important based on their frequency and relevance to the bug report. Other keywords could also be relevant depending on the specific implementation details.

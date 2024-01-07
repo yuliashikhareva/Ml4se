@@ -1,0 +1,2 @@
+Summary: Unable to load, RandomForestClassificationModel, Spark 2.x 
+Description: load, RandomForestClassificationModel, trained, Spark 2.x, Spark 3.x, exception, raised, schema incompatibility, saved data, expected data, existing, random forest models, upgrade.

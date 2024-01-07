@@ -1,0 +1,2 @@
+Summary: Accessibility, Dashboards, Table, Scope
+Description: Table, scope="row", scope="col", assistive technology, unique, cell, row, HTML5, TD element, WCAG Quick Reference, ARIA spec, Kibana Version, BC5, instance 7.6.0 BC4, OS, Windows, Browser, Chrome

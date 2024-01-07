@@ -1,0 +1,2 @@
+Summary: invalid_index_name_exception, Setup Mode
+Description: Kibana version 7.6.0, Elasticsearch version 7.6.0, Server OS version Debian GNU/Linux 9.11, Browser version Google Chrome: Version 80.0.3987.116 (Official Build) (64-bit), Browser OS version macOS Catalina: 10.15.3, Original install method Debian repositories (apt), error occurs when clicking on "Enter setup mode" button in Kibana monitoring, error message: [invalid_index_name_exception] Invalid index name [_security], must not start with '_', '-', or '+', with { index_uuid=\"_na_\" & index=\"_security\" }.

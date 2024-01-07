@@ -1,0 +1,3 @@
+Summary: PySpark, documentation, redesign
+
+Description: PySpark, documentation, poorly written, compared, other projects, pandas, important, Spark, improve, people, easily follow, reference, koalas.

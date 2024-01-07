@@ -1,0 +1,3 @@
+Summary: Timelion, Kibana filters 
+
+Description: Kibana 7.7.0, Elasticsearch 7.7.0, CentOS 7.8.2003, Chrome Version 83.0.4103.116, Windows 10, yum, Timelion not respecting Kibana filters in dashboard visualization.

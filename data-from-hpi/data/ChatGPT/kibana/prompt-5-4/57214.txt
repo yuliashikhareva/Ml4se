@@ -1,0 +1,3 @@
+Summary: categorical styling, lines, polygons
+
+Description: Kibana version, server OS version, browser version, browser OS version, original install method, categorical styling, lines, polygon, GeoJSON upload, keyword field, freezing browser, legend, rendering, Other category, OSM data, category field, amenity field, highway field, Halle, Brussels.

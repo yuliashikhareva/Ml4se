@@ -1,0 +1,2 @@
+Summary: RBF, datanode report, cache, federation, WebHDFS operations 
+Description: WebHDFS, CREATE, OPEN, APPEND, GETFILECHECKSUM, router, namenode, datanodes, chooseDatanode, slower, affect, tens of milliseconds, 2 seconds, cache, actively refresh, configured interval, exclude, random datanode.

@@ -1,0 +1,2 @@
+Summary: Sorting, field column, removed, still active 
+Description: Kibana version, Elasticsearch version, Server OS version, Browser version, Browser OS version, sorting, field column, view, illegal_argument_exception errors, non-keyword type, X of Y shard error, reset filter, query.

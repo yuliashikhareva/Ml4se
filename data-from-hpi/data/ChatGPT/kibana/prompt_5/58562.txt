@@ -1,0 +1,2 @@
+Summary: Kibana line visualization, hover labels, incorrect values
+Description: Kibana version, Elasticsearch version, Server OS version, Browser version, bug, line visualization, labels, hover, sub-buckets, second item, third item, value, name, count, location, expected behavior, screenshot, errors, additional context.

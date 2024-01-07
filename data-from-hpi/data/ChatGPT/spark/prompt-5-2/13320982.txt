@@ -1,0 +1,3 @@
+Summary: Query, Broadcast hints, WITH clause 
+
+Description: Query, WITH clause, Query hint, Broadcast, Fails, Code sample, SQL1, SQL2, Inner join, Tables, Spark, Version 2.4.0

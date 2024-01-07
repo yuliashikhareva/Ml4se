@@ -1,0 +1,2 @@
+Summary: Export data table, CSV format, filename, visualization name 
+Description: Kibana 7.8.0, Elasticsearch 7.8.0, CentOS 7, Safari 13.11, macOS Catalina 10.15.5, RPM, exporting a data table, CSV format, filename not pre-populated with visualization name, observed in 7.7.0 but not in 7.6.1, steps to reproduce: create data table viz, save data table viz, click on Raw and Formatted, filename pre-populated as table.csv instead of viz name, expected behavior: filename pre-populated with viz name.

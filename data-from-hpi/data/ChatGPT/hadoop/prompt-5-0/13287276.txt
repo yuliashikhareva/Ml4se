@@ -1,0 +1,4 @@
+Summary: s3a, mkdirs(), dir marker 
+Description: S3A, innerMkdirs(), getFileStatus(), dest path, file, dir, reject, no-op, HEAD path, 404, S3 load balancers, subsequent probes, LIST, parent, marker entry, existing empty dir marker, non-empty dir, cached 404s. 
+
+Note: Some of the keywords may not make sense without the context of the bug report.

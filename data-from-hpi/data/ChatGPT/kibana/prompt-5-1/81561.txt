@@ -1,0 +1,4 @@
+
+
+Summary: [Canvas] PDF Generation not working 
+Description: Kibana version, Elasticsearch version, Browser version, Browser OS version, Elastic Cloud deployment, pdf generation, share tab, Stack Management, Alerts and Insights, Reporting.

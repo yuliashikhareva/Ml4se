@@ -1,0 +1,2 @@
+Summary: Console error, edit, filter, change, ES query DSL.
+Description: BC4, cloud, AWS, edit, DSL query, filter, console error, kbn-ui-shared-deps.js, module, ace/theme/, couldn't load, define.

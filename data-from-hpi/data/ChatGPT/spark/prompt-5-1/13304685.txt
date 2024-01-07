@@ -1,0 +1,17 @@
+Summary: Push more possible predicates through Join via CNF 
+Description: Rewrite join condition to conjunctive normal form to push more conditions to filter.
+
+Selected Keywords: 
+- Push
+- Predicates
+- Join
+- CNF
+- Rewrite
+- Conjunctive Normal Form
+- Filter
+- Conditions
+
+Therefore, the output format would be:
+
+Summary: Push, Predicates, Join, CNF, Rewrite, Conjunctive Normal Form, Filter, Conditions
+Description: Rewrite, Join, Conjunctive Normal Form, Push, Conditions, Filter

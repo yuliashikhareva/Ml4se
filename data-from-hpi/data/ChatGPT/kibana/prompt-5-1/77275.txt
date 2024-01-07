@@ -1,0 +1,2 @@
+Summary: Unable to hide Management application 
+Description: Kibana, Management, Feature Privileges, Dashboard-only mode, Kibana_dashboard_only_user role, Stack Management, bug.

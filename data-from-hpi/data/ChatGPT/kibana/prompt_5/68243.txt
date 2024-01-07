@@ -1,0 +1,2 @@
+Summary: Canvas, Configuration, Panel title, Visualization 
+Description: Kibana 7.7, Elasticsearch 7.7, Chrome 83.0.4103.97 64bits, bug, deactivate, embed visualization, slide, save, back, expected behavior, screenshots.

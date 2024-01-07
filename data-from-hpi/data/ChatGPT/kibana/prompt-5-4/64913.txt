@@ -1,0 +1,2 @@
+Summary: Search string, visualization, displayed 
+Description: Kibana version, Elasticsearch version, Server OS version, Browser version, Browser OS version, Original install method, visualise interface, link, text query, graph, filtered, UI, regenerate, search, query, update, field, "Top 5 values", graphic, unfiltered data, time range, filters, request, amount of data, inspect function.

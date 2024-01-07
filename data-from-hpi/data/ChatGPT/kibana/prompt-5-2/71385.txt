@@ -1,0 +1,2 @@
+Summary: Failing test, X-Pack API Integration Tests, fleet_install, supported OS
+Description: test failed, tracked branch, expected 200 "OK", got 500 "Internal Server Error", Jenkins Build

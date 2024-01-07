@@ -1,0 +1,2 @@
+Summary: ERROR log, wrong user info, distcp 
+Description: user test, group hadoop, distcp, directory, owner, failed, error log, access control exception, non-super user, change owner, print wrong user info

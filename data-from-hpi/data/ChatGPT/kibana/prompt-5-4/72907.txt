@@ -1,0 +1,5 @@
+
+
+Summary: Maps, global filter button, layer, auto-scaling, clusters.
+
+Description: Kibana version, Firefox, edge case, data, zoom level, filters, nyc_taxis, Documents layer, Scaling, Show clusters, results, infinite loop, Apply global filter to layer data, > 10000 documents, off, clusters, Steps to reproduce, Upload GeoJSON, file, map, global filter, foo, Layer Settings, repeatedly toggles.

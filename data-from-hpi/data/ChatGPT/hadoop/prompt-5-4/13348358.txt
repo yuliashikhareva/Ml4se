@@ -1,0 +1,3 @@
+Summary: Jetty 9.4.20, NPE, resourceBase 
+
+Description: TestDistributedShell logs, Warning, resourceBase, webAppContext.setBaseResource, jar file, file.resource.toURI().getPath(), Jetty version, upgrade

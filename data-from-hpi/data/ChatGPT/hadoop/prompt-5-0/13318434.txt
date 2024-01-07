@@ -1,0 +1,5 @@
+Summary: Simplify special_character_in_tabnames_1.q 
+Selected Keywords: Simplify, special character, tab names
+
+Description: move similar queries, unit tests, parser module, q test, explain, executing, queries, parser testing
+Selected Keywords: similar queries, unit tests, parser module, q test, explain, parser testing

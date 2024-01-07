@@ -1,0 +1,10 @@
+Summary: (Accessibility) field list size limited  
+Selected Keywords: Accessibility, field list, size, limited 
+
+Description: Kibana version: 7.8.0
+Elasticsearch version: 7.7.0
+Server OS version: darwin_x86_64
+Browser version: chrome latest
+Browser OS version: OS X
+Describe the bug: Kibana field list length is too small to see the full name of fields and pick the good one (please see the screenshot below). The size seems limited to the first 18 characters.
+Selected Keywords: Kibana, field list, length, small, full name, fields, pick, good, screenshot, first 18 characters, distinguish, same prefix.

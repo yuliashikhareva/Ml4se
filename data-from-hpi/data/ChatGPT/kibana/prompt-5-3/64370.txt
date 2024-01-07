@@ -1,0 +1,9 @@
+Summary: Alerting, Kibana, context variables, alerting actions, links
+
+Description: mustache template variables, Kibana details page, Kibana alert management page, messages, external link, URL, index threshold, default message, exceeded threshold, group, value, function, window, date
+
+Selected Keywords:
+
+Summary: Alerting, Kibana, context variables, alerting actions, links
+
+Description: mustache template variables, Kibana details page, Kibana alert management page, messages, external link, URL, index threshold, default message, exceeded threshold, group, value, function, window, date

@@ -1,0 +1,2 @@
+Summary: ParquetFileReader, API, read, footer 
+Description: configuration, Hadoop, fileMetaData, filePath, blocks, columns, readFooter, meta data block, footer, skipping, row groups, filter, ParquetFileReader, deprecated, use, InputFile, ParquetReadOptions, getFooter, ParquetMetadata.

@@ -1,0 +1,2 @@
+Summary: Kibana, Edit, Index Lifecycle Policy, GUI, 0, Delete Phase, Timing 
+Description: Kibana, 7.4.1, Elasticsearch, 7.4.1, Linux, Chrome, Docker, GUI, Edit, Index Lifecycle Policy, min_age, Delete Phase, 0, error, client-side validation, ElasticSearch, Management, save, red line, input box, error message, greater than or equal to 1.

@@ -1,0 +1,3 @@
+Summary: Prevent, Observer, NameNode, StandBy
+
+Description: cluster, failover, NN1, NN2, cede, active state, transit, StandBy, Observer, participating, block, promote.

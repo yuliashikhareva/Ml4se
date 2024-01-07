@@ -1,0 +1,4 @@
+Selected Keywords: Control visualizations, multi-select drop down, reset, visualization, scrolling, Kibana version, Elasticsearch version, Linux, Chrome, Firefox, Docker install. 
+
+Summary: Control visualizations, multi-select drop down, reset, scrolling 
+Description: Kibana version, Elasticsearch version, Linux, Chrome, Firefox, Docker install, control visualizations, multi-select drop down, reset, scrolling, behavior change, white space, padding, selected items, scrolling, screenshot.

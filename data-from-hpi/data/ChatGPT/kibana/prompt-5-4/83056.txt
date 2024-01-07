@@ -1,0 +1,2 @@
+Summary: Import, vega viz, saved object, filter, error, importing, 6.8.13
+Description: Kibana version, 6.8.13, 7.10.0, 7.9.3, Elasticsearch version, server OS version, browser version, browser OS version, original install method, vega viz, filter, logstash data, export, json, importing, saved objects, index patterns, logstash dashboard, visualize, error, relationship, undefined response, browser console, saved objects table.

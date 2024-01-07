@@ -1,0 +1,2 @@
+Summary: Support Map "Filter to Extent"
+Description: Maps, Filter, Visualization, Dashboard, Current Map Extent, Filter Option, Meta, Multiple Maps, Extent Filter, Filter-bar, Geospatial Data, Discovery, Zoom, Pan, Bounds Filter, Geometry Filter, Existing Filter, Replace.

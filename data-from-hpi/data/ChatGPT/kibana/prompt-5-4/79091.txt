@@ -1,0 +1,3 @@
+Summary: Kibana, Users overview, Roles, spacing 
+
+Description: Kibana version, Elasticsearch version, Users overview, Roles, spacing, visual glitch, separate role links, screenshot.

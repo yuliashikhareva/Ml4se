@@ -1,0 +1,2 @@
+Summary: Cannot edit user, @ in name 
+Description: Kibana version, user edit URL encoded with %40, error "user doesn't exist", workaround copy URL and replace %40 with @ manually, reproduce by creating a user with name test@test, expected behavior is to handle @ as part of username, not allowing it is not a solution, introduced by #81562.

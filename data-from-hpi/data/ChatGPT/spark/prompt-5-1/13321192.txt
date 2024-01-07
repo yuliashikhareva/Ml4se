@@ -1,0 +1,4 @@
+Summary: Ambiguous self join error, non self join, window 
+Description: code fails, ambiguous self join analysis, spark.range, toDF, join, partitionBy, select, sum, over, AnalysisException, Column ambiguous, joined Datasets, alias with different names, qualified name, spark.sql.analyzer.failAmbiguousSelfJoin, disable check. 
+
+Note: Some of the selected keywords are repeated in both the summary and description.

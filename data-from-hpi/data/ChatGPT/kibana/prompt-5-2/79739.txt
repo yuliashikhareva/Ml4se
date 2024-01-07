@@ -1,0 +1,2 @@
+Summary: Map Panel, Print Layout, PDF export, title 
+Description: Kibana 7.9.1, Elasticsearch, ECommerce Sample Data Set, Dashboard, PDF export, Print Layout, Map visualization, title

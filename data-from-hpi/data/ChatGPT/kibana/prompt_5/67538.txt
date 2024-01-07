@@ -1,0 +1,2 @@
+Summary: Ingest Manager, Datasource API, Internal server error, non-existing, invalid UUID, policy details URL 
+Description: Kibana version, 7.9, from source, endpoint/metadata API, Policy details' route, Internal Server Error, 404 Not Found, invalid data types, non-existing policy details UUID, existing policy details UUID, special characters, JS embed, unicode, empty string, multiple policy details UUID, Ingest Manager, Elastic Endpoint data source, policy tab, screenshot, Mac OS Mojave version 10.14.6, Chrome.

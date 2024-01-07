@@ -1,0 +1,2 @@
+Summary: Add, additional fields, ExpressionDescription, granular category, documentation
+Description: Add, additional fields, ExpressionDescription, granular category, function documentation, group, window function, finer categories, ranking functions, analytic functions, Hyukjin's comment, details, https://github.com/apache/spark/pull/28170#issuecomment-611917191

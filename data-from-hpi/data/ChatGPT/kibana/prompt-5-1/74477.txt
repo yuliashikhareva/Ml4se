@@ -1,0 +1,18 @@
+Summary: TSVB color picker, fully open 
+
+Description: Kibana version: 7.6.0, Elasticsearch version: 7.6.0, Linux, Chrome, macOS Catalina, tarball 
+When trying to pick a color from the palette to color the bars in a TSVB Top N Visualization, the color palette doesn't fully open. It get's cut off at the bottom of the browser window, with no scroll bar available. Possible relation to issue #52084, as no scroll bars are visible. 
+Steps to reproduce: 
+1. Fresh install
+2. Index time series data & define index pattern
+3. In TSVB Top N Panel Options, attempt to set the bar color to any color. 
+
+Expected behavior: The color palette should fully open, and allow the user to select any color from the palette. 
+
+Screenshots (if relevant): 
+
+Errors in browser console (if relevant): 
+
+Provide logs and/or server output (if relevant): 
+
+Any additional context:

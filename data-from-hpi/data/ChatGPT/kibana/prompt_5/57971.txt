@@ -1,0 +1,2 @@
+Summary: Sorting, column removed, Discover 
+Description: Kibana 7.6.0, Elasticsearch 7.6.0, Elastic Cloud, Chrome 74.0.3729.131, MacOS 10.14.6, sorting, column removal, Discover, kibana_sample_data_ecommerce, taxless_total_price, order_date, strange sorting, expected behavior, URL, Inspect, saved sorting.

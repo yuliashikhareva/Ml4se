@@ -1,0 +1,2 @@
+Summary: `spark.ui.port`, Yarn Cluster Mode 
+Description: Spark Web UI port, Yarn cluster mode, random number, disable configuration, specified range, security concerns.

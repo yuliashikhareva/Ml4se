@@ -1,0 +1,2 @@
+Summary: NPE, MiniYARNCluster, hadoop-client-minicluster
+Description: MiniYARNCluster, exception, java.lang.NullPointerException, org.apache.hadoop.yarn.server.nodemanager.webapp.WebServer, resource files, exclusion, hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-nodemanager/src/main/resources/TERMINAL, dependency, hadoop-yarn-server-nodemanager, hadoop-client-minicluster, shaded jar, ResourceManager, NodeManager, testing, unusable.

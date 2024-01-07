@@ -1,0 +1,9 @@
+Summary: DistCp, -update option, invalid, distcp, files, hdfs, S3
+
+Description: distcp, -update option, copy, dir, hdfs, S3, overwrite, same files, modify time, S3 files, CopyMapper.java, S3AFileSystem.java, blockSize, unused, fileSize, compare, default value, offs.s3a.block.size, HDFS, Object Store, no need. 
+
+Output format: 
+
+Summary: DistCp, -update option, invalid, files, hdfs, S3 
+
+Description: distcp, -update option, copy, dir, hdfs, S3, overwrite, same files, modify time, S3 files, CopyMapper.java, S3AFileSystem.java, blockSize, unused, fileSize, compare, default value, offs.s3a.block.size, HDFS, Object Store, no need.

@@ -1,0 +1,2 @@
+Summary: Flaky test cases, Fair Scheduler 
+Description: test cases, failing, unrelated patches, often, hadoop.yarn.server.resourcemanager.scheduler.fair.TestFairScheduler, hadoop.yarn.server.resourcemanager.scheduler.fair.TestFairSchedulerPreemption, ERROR, MetricsException, PartitionQueueMetrics, queue, pending resources, resource requests, allocation, relaxation, locality, preemption, containers, MinSharePreemption, AssertionError

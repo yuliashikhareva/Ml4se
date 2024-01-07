@@ -1,0 +1,3 @@
+Summary: Convert count to rate, RPS 
+
+Description: Kibana, Lens, data count, rate, request per second, metrics, instances, logs per second, Derivative agg, moving avg, bucket agg, time window, TSVB, scale_interval, Timelion.

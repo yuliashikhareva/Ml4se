@@ -1,0 +1,2 @@
+Summary: TSVB Math Aggregation, Division operator, params in denominator, "No data to display"
+Description: Kibana 7.5.0, TSVB Time Series visualization, Math Aggregation, Division operator, "No data to display" error, params.a, params.b, Bucket Script aggregation workaround, switching from math.js to tinymath.

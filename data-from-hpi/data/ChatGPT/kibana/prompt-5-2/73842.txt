@@ -1,0 +1,2 @@
+Summary: Timelion, Kibana filters 
+Description: Timelion, Kibana version 7.7.0, Elasticsearch version 7.7.0, CentOS 7.8.2003, Chrome Version 83.0.4103.116, Windows 10, yum, visualization, dashboard, regression, chart.

@@ -1,0 +1,3 @@
+Summary: Coalesce, bucketed tables, join 
+
+Description: Coalesce, bucketed tables, join, full shuffle, spark, autoBroadcastJoinThreshold, DataFrame, Parquet, saveAsTable, table, explain, Physical Plan, SortMergeJoin, Sort, Exchange, Project, Filter, ColumnarToRow, FileScan.

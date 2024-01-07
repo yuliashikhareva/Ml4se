@@ -1,0 +1,3 @@
+Summary: Dashes, Dashboard, Search
+
+Description: Kibana, Elasticsearch, Server OS, Browser, Original install method, Dashboard, Name, Query, Fail, Results.

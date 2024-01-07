@@ -1,0 +1,2 @@
+Summary: GrokDebugger plugin, empty, error, toast, no match 
+Description: Kibana, 8.0.0, ES, 8.0.0, toast, no match, fix

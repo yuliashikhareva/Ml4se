@@ -1,0 +1,2 @@
+Summary: parameter, Show Values, removed
+Description: parameter, Show Values, Chart, removed, version 7.7.0

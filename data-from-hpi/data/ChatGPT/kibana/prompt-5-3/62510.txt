@@ -1,0 +1,3 @@
+Summary: Error, Visualizations, pop up, dashboard 
+
+Description: BC4, 7.7.0, GCP, Azure, AWS, Kibana, sample data, flights, dashboard, console output, commit id, request payload, URL, method, status code, remote address, referrer policy, access-control-allow, cache-control, content-type, date, kbn-license-sig, kbn-name, kbn-xpack-sig, set-cookie, x-cloud-request-id, x-found-handling-cluster, x-found-handling-instance, x-found-handling-server, authority, accept, encoding, language, pragma, referer, sec-fetch-dest, sec-fetch-mode, sec-fetch-site, user-agent, params, serverStrategy, bad request, error message.

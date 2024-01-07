@@ -1,0 +1,8 @@
+Summary: BROADCAST, message, column can't be resolved, Spark 2.4 
+Description: bug, reproduced, code, Spark 2.4.3, Spark 3.0.0, SQL parser, invalid error message, SQL statement, works fine. 
+
+Selected Keywords: BROADCAST, message, column can't be resolved, Spark 2.4, bug, reproduced, code, SQL parser, invalid error message, SQL statement. 
+
+Output: 
+Summary: BROADCAST, message, column can't be resolved, Spark 2.4 
+Description: bug, reproduced, code, SQL parser, invalid error message, SQL statement.

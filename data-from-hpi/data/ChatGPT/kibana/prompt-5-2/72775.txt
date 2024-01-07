@@ -1,0 +1,2 @@
+Summary: [Maps] Unable to load Configured Tile Map Service 
+Description: Kibana version, Elasticsearch version, Server OS version, Cloud, Browser version, Firefox, Browser OS version, freeze, lock up, tile service layer, configured, kibana.yml, Maps, JavaScript, tilemap.url, tilemap.options, attribution, maxZoom, add, webpage slowing, browser console, error.

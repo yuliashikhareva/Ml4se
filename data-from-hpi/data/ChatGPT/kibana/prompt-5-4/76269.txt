@@ -1,0 +1,2 @@
+Summary: UI bug, discoverChart, elements 
+Description: Kibana version, Elasticsearch version, Server OS version, Browser version, Browser OS version, UI bug, discoverChart, timestamps, charts, idle, switching, hours ago, days ago, screenshots.

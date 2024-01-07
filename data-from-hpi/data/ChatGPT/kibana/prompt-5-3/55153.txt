@@ -1,0 +1,2 @@
+Summary: Control visualizations, filtering issue 
+Description: dropdown list, control visualization, document_type filter issue

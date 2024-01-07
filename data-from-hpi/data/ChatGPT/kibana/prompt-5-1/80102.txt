@@ -1,0 +1,2 @@
+Summary: error, role UI, invalid query
+Description: invalid query, document level security, /api/security/role/, 400 error, useful information, UI, broken query, error.

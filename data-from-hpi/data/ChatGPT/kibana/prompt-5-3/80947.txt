@@ -1,0 +1,2 @@
+Summary: Kibana, bug, calendar_interval, incorrect inputs
+Description: Kibana, bug, calendar_interval, incorrect inputs, supported intervals, Elasticsearch, vertical bar chart, Date Histogram aggregation, timestamp field, blocking behavior, error message, ES calendar interval check, GH issue #60494.

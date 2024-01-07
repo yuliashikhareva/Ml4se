@@ -1,0 +1,2 @@
+Summary: Python 2, Python 3.4, Python 3.5, codes, documentation
+Description: pandas udf, dataframe, date object, pyarrow 0.17.0, ARROW_PRE_0_15_IPC_FORMAT, error, stage failure, executor, PythonException, arrow_to_pandas, series, datetimelike values.

@@ -1,0 +1,2 @@
+Summary: spark, yarn, example, fails
+Description: running, spark-submit, cluster, queue, error, JNI, installation, NoClassDefFoundError, org.slf4j.Logger, install, workaround.

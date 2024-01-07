@@ -1,0 +1,2 @@
+Summary: double locking, CapacityScheduler, reinitialize, branch-3.1 
+Description: double locking, blocks, ResourceManager, submitApplication, lock, example MR applications, testing, hadoop-3.1.4-RC2, RM-HA enabled deployment.

@@ -1,0 +1,7 @@
+Summary: BROADCAST, message, column can't be resolved, Spark 2.4 
+Description: BROADCAST, SQL parser, invalid error message, Spark 2.4.3, Spark 3.0.0, SQL statement, inner join, wrong error message. 
+
+Output: 
+
+Summary: BROADCAST, message, column can't be resolved, Spark 2.4 
+Description: BROADCAST, SQL parser, invalid error message, Spark 2.4.3, Spark 3.0.0, SQL statement, inner join, wrong error message.

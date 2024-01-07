@@ -1,0 +1,2 @@
+Summary: JDK 11, Upgrade, SpotBugs, 4.1.3, false-positive warnings 
+Description: Java 11, false-positive, findbugs warnings, try-with-resources, fix, https://ci-hadoop.apache.org/job/hadoop-qbt-trunk-java11-linux-x86_64/1/artifact/out/branch-findbugs-hadoop-common-project_hadoop-common-warnings.html, https://github.com/spotbugs/spotbugs/pull/1248, no releases.

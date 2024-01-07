@@ -1,0 +1,3 @@
+Summary: HiveGenericUDTF, latest version, initialize()
+
+Description: HiveGenericUDTF, initialization methods, StructObjectInspector, ObjectInspector[], deprecated, UDFArgumentException, exception, UDF/UDAF/UDTF, FeatureParseUDTF1.

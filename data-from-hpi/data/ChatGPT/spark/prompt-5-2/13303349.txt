@@ -1,0 +1,4 @@
+Summary: CSV Writer, header, empty DataFrames
+Description: DataFrame, csv, Header option, not written, empty, failures, read back, example, limit(0), Python version 2.7.17, SparkSession, SELECT, write mode, OVERWRITE, option, data/test/csv, spark.read, show(), expected behavior. 
+
+Note: Please keep in mind that the selection of keywords is subjective and there might be other important words that can be used for duplicate detection.

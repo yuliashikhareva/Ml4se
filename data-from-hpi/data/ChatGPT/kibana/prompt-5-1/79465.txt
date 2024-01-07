@@ -1,0 +1,44 @@
+
+
+Summary: Automated Package Testing
+Keywords: Automated, Package, Testing
+
+Description: While QA has long since taken on the burden of testing our packages, it's time that we bring this testing into the repository. Having these CI checks on the PRs not only brings validation and testing to the changes, but it should also assist with manual testing.
+Keywords: QA, burden, testing, repository, CI checks, PRs, validation, changes, manual testing
+
+What assets are we testing:
+
+deb
+RPM
+Docker
+tar
+zip
+Keywords: assets, testing, deb, RPM, Docker, tar, zip
+
+Phase 1
+Phase 1 will include testing of deb, RPM, and tar archives. All of these installation steps should follow current documentation.
+Keywords: Phase 1, testing, deb, RPM, tar, archives, installation, documentation
+
+We need to determine what environment we are going to use. Elasticsearch uses Vagrant, but Docker might also be an option. We need to weigh both of these options.
+Keywords: determine, environment, Elasticsearch, Vagrant, Docker, option, weigh
+
+For testing, we need the ability to assert:
+
+Filesystem permissions
+Log output, ensuring it's written to /var/log
+Successful installation
+Kibana successfully starts
+Keywords: testing, ability, assert, filesystem permissions, log output, /var/log, successful installation, Kibana, starts
+
+In addition to the tests outlined above, we should also run a subset of functional tests. Running functional tests also ensures that Kibana can run within the recommended CPU and memory recommendations.
+Keywords: addition, tests, outlined, subset, functional tests, Kibana, CPU, memory, recommendations
+
+Phase 2
+In phase 2, we will add support for testing the Docker package.
+Keywords: Phase 2, support, testing, Docker, package
+
+Phase 3
+In phase 3, we will add support for testing the zip package for Windows.
+Keywords: Phase 3, support, testing, zip package, Windows.
+
+Selected Keywords: Automated, Package, Testing, QA, burden, repository, CI checks, PRs, validation, changes, manual testing, assets, deb, RPM, Docker, tar, zip, Phase 1, installation, documentation, determine, environment, Elasticsearch, Vagrant, option, weigh, testing, ability, assert, filesystem permissions, log output, /var/log, successful installation, Kibana, starts, addition, outlined, subset, functional tests, CPU, memory, recommendations, Phase 2, support, Phase 3, Windows.

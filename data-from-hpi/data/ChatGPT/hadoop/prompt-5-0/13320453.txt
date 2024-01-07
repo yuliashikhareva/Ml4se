@@ -1,0 +1,3 @@
+Summary: Table owner info, show tables, database 
+
+Description: Table owner information, not passed, HiveMetaStore, user, unable, view, tables, created, self.

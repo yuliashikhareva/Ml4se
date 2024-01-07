@@ -1,0 +1,2 @@
+Summary: RLIKE, LIKE, compiles, used
+Description: org.apache.spark.sql.catalyst.expressions, regexpExpressions.scala, cache, Pattern, Literal, StringType, UTF8String

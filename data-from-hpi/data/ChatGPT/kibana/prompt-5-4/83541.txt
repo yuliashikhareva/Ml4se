@@ -1,0 +1,2 @@
+Summary: Cannot edit user, @ in name
+Description: Kibana version, edit URL, encoded, %40, error, workaround, copy URL, replace %40 with @, steps to reproduce, create user with name test@test, expected behavior, handle @ as part of the username, not allowing it not a solution, additional context, introduced by #81562.

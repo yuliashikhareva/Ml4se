@@ -1,0 +1,2 @@
+Summary: Sibling bucket agg, Terms, Line Visualization, browser hang 
+Description: Kibana version, Firefox, Chrome, Mac OS Mojave, browser freeze, new Line visualization, Y axis, Average Bucket, Bucket aggregation, Field select box, browser freeze, browser should not freeze, Firefox error, script terminated by timeout.

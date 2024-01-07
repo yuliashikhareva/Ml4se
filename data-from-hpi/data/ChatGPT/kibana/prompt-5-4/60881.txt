@@ -1,0 +1,4 @@
+Summary: Creating new fields, end users
+Description: add new fields, ingestions, scripted fields, Kibana, visualization, index pattern, painless syntax, performance, categorization, transformation, calculated fields, runtime fields, ad-hoc, enrichment, proximity, easy syntax
+
+Note: These keywords are selected based on their frequency and importance in conveying the main ideas and issues discussed in the bug report. Some details may be lost in this selection process.

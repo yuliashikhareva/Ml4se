@@ -1,0 +1,3 @@
+Summary: Resourcemanager, recover failed, fair scheduler, queue acl changed
+
+Description: Resourcemanager, recover failed, fair scheduler, queue acl changed, application, addApplication(), fairscheduler, rejected, applicationAttempt, addApplicationAttempt(), Application is null, two RM is at standby, user, long running application, aclSubmitApps, permission, restart, NullPointerException, RMAppImpl, RMAppAttemptImpl, RMAppManager, ResourceManager.

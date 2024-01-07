@@ -1,0 +1,2 @@
+Summary: Accessibility, Dashboards, Table, Scope
+Description: Table, scope="row", scope="col", assistive technology, unique table cell, row, HTML5, TD element, WCAG, Kibana, version, OS, browser, screen reader, ARIA spec.

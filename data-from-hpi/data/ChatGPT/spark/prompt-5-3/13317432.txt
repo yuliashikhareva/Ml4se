@@ -1,0 +1,5 @@
+Summary: BROADCAST hint, message, "column can't be resolved", Spark 2.4
+Selected Keywords: BROADCAST hint, message, column, resolved, Spark 2.4
+
+Description: SQL parser, invalid error message, Spark 2.4.3, Spark 3.0.0, SQL statement, inner join
+Selected Keywords: SQL parser, invalid error message, Spark 2.4.3, Spark 3.0.0, SQL statement, inner join

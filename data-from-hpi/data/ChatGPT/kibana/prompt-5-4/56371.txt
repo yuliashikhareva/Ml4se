@@ -1,0 +1,2 @@
+Summary: Timezone, CSV files, Bug
+Description: Kibana version, exporting data, discovery, CSV file, timestamp field, dashboard, UTC, Madrid, queries, date range, time conversion scripted field, "Copy POST URL", "Export CSV", timezone configuration.

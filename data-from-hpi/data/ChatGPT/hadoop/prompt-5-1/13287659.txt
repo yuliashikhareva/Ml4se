@@ -1,0 +1,2 @@
+Summary: ERROR log, print, wrong user info, run, distcp
+Description: user test, group hadoop, run, distcp, with-pbugpaxt, cp, directory, owner, super, failed, error log, non-super user, change owner, current user, test, log print, wrong user info.

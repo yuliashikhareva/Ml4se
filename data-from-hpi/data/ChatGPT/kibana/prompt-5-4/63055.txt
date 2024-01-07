@@ -1,0 +1,5 @@
+Summary: 
+test-failed, Chrome, X-Pack, UI, Functional Tests1.x-pack, monitoring, enable_monitoring, app, Monitoring, turned off, enabled
+
+Description:
+Version 7.7.0, Chrome, X-Pack, UI, Functional Tests1.x-pack, monitoring, enable_monitoring, index·js, Stack Trace, error, retry.try timeout, TimeoutError, Waiting, element, located, css selector, data-test-subj, clusterOverviewContainer, clusterName, process, tickCallback, onFailure, retryForSuccess, platform, cloud, Build Num, 79

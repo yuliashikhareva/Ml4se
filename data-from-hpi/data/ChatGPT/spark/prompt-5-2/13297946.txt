@@ -1,0 +1,9 @@
+Summary: bug, approximate quantile computation 
+
+Description: bug, lower relative error, approxQuantile function, incorrect result, partitions, relative error, equal values, quantiles, coalescing, 1 partition, correct results, spark version 2.4.5, testing 3.0.0-preview, df, csv, repartition, localCheckpoint, seconds, 0.8, 0.9, 1.0, 0.0001, 0.00001, 0.000001. 
+
+Selected Keywords:
+
+Summary: bug, approximate quantile computation
+
+Description: bug, lower relative error, approxQuantile function, incorrect result, partitions, relative error, equal values, quantiles, coalescing, 1 partition, correct results, spark version 2.4.5, testing 3.0.0-preview, df, csv, repartition, localCheckpoint, seconds, 0.8, 0.9, 1.0, 0.0001, 0.00001, 0.000001.

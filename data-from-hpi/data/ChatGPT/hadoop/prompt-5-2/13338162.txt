@@ -1,0 +1,2 @@
+Summary: Intermittent, S3AInputStream, failures, Premature end, Content-Length delimited message body 
+Description: S3AInputStream, intermittent, exceptions, com.amazonaws.thirdparty.apache.http.ConnectionClosedException, Premature end, Content-Length delimited message body, expected, received, javax.net.ssl.SSLException, SSL peer shut down incorrectly, S3Object, garbage collected, stream closed.

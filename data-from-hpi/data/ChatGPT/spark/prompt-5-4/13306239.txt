@@ -1,0 +1,3 @@
+Summary: org.apache.spark.sql.catalyst.errors.package$TreeNodeException, Binding attribute 
+
+Description: loading, excel, 90 columns, special character, @ % -> ., use case, sourceDataSet, select, except, targetDataset, count, org.apache.spark.sql.catalyst.errors.package$TreeNodeException, Binding attribute, column name, runtime exception, couldn't find, name, column.

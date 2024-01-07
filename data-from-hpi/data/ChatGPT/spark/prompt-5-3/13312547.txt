@@ -1,0 +1,2 @@
+Summary: "blacklist", "whitelist"
+Description: "problematic language", "references", "renaming", "public-facing APIs", "configurations", "codebase", "terminology"

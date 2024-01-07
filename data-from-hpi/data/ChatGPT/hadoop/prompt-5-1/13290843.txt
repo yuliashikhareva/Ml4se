@@ -1,0 +1,5 @@
+Summary: test runs, less resources 
+
+Description: tests, threads, JVM, memory, contention, HDFS, configuration, data nodes, Flight Recorder, recording, JDK Mission Control, patch. 
+
+Note: Please keep in mind that these keywords might not be the most optimal for duplicate bug detection, as they are selected based on the main meaning of the report and might not include all important details.

@@ -1,0 +1,4 @@
+Summary: Creating new fields, end users  
+Description: new fields, ingestions, scripted fields, index pattern, painless syntax, performance, categorization, transformation, ad-hoc, visualization, enrich, proximity, syntax, users not admins. 
+
+Note: Some of the selected keywords are phrases or multiple words.

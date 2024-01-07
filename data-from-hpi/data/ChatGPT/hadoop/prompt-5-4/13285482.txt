@@ -1,0 +1,2 @@
+Summary: ABFS, Test code, Delegation, SAS generation logic 
+Description: sample, delegation, SAS token generation, code, test framework, reference, authorizer, adopters, SAS authentication.

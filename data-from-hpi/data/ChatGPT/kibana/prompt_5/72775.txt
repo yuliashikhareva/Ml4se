@@ -1,0 +1,3 @@
+Summary: [Maps, Configured Tile Map Service, Unable to load]
+
+Description: [Kibana version, Elasticsearch version, Cloud, Browser version, Firefox, Mac Mojave, Original install method, tile service layer, kibana.yml, JavaScript freeze, lock up, add Configured Tile Map Service, frozen, webpage slowing, browser console error]

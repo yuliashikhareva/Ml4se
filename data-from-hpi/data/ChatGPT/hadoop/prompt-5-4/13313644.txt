@@ -1,0 +1,3 @@
+Summary: Send, ValidWriteIDList, request, new HMS APIs, get_*
+
+Description: ValidWriteIDList, request, new HMS APIs, switch, required, get_* APIs, request/response form.

@@ -1,0 +1,2 @@
+Summary: Dataset.repartition, adaptive execution 
+Description: adaptive query execution, Dataset.groupBy, Dataset.repartition, hardcoded number of partitions, optimal number of partitions.

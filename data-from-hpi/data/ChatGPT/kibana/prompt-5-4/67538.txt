@@ -1,0 +1,3 @@
+Summary: Ingest Manager, Datasource API, Internal server error, non-existing, invalid UUID, policy details URL
+
+Description: Kibana version, 7.9, install method, source, Issue, endpoint-app-team, metadata uri, endpoint/endpoints, endpoint/metadata, Policy details' route, Internal Server Error, 404 Not Found, invalid data types, UUID, special characters, JS embed, unicode, empty string, multiple, To Reproduce, Create new configuration, Assign name, Assign to Elastic Endpoint data source, Navigate to Endpoint app, Click on policy tab, Click on policy, Add non-existing policy details ID to policy details URL, Press enter, Observe Internal Server Error, Expected behavior, Screenshots, Browser, Chrome, OS, Mac OS Mojave version 10.14.6.

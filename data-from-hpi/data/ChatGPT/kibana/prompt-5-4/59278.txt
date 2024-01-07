@@ -1,0 +1,4 @@
+
+
+Summary: [Maps] localized characters missing
+Description: Kibana 7.5.2, Elasticsearch 7.5.2, Ubuntu 18.04 LTS, Firefox 73.0.1, missing localized characters (åäö) when zooming in on the map. Example: Göteborg displayed as Goteborg.

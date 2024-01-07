@@ -1,0 +1,2 @@
+Summary: Control visualizations, filtering, document_type
+Description: dropdown, names, control visualization, document_type, filter option, Kibana version 7.4, Elasticsearch version 7.4.

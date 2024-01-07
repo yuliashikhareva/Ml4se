@@ -1,0 +1,3 @@
+Summary: Kibana, Elasticsearch, OSS, incompatible
+
+Description: Default distribution, configuration, mistake, error message, browser, logs, saved objects, migrations, index, X-Pack, monitoring, mapper_parsing_exception, plugins, login form, problem, fix.

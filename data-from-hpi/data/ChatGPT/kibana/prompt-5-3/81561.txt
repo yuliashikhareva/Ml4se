@@ -1,0 +1,3 @@
+Summary: [Canvas] PDF Generation 
+
+Description: Canvas, PDF Generation, Kibana version 7.9.1, Elasticsearch version 7.9.1, Firefox 81.0.2, Ubuntu, Elastic Cloud deployment, Share, Stack Management, Alertst and Insights, Reporting.

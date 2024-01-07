@@ -1,0 +1,2 @@
+Summary: Choose data source, "-" character, not matching 
+Description: Kibana version 7.9.1, Elasticsearch version 7.9.1, Server OS version demo.elastic.co, Browser version Chrome v. 86 (64-bit), Browser OS version Windows 10, new visualization, index pattern, "-" not matching, space vs. dash, demo.elastic.co, production environments, 7.8 and later, expected behavior: "-" to match on existing index patterns, searching for "discourse-" to match "discourse-users" and "discourse-metrics-*".

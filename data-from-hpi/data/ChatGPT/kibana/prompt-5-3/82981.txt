@@ -1,0 +1,2 @@
+Summary: Detection Rules, Tag Disappears, Filters, Deleted Items 
+Description: Filtering, Rule tags, Matching rules, Delete, Deselect, Refresh, Kibana, Elasticsearch, Version 7.9.3, Server OS Ubuntu Server 20.04 LTS, Google Chrome 86.0.4240.183, Windows 10 Enterprise v2004, Debian Package, Functional Area Detection Rules.

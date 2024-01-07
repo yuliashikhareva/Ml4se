@@ -1,0 +1,2 @@
+Summary: SM4 encryption, HDFS
+Description: SM4, block cipher, Chinese National Standard, Wireless LAN, WAPI, IEEE 802.11i, rejection, ISO, opposition, fast-track proposal, Hadoop KMS, test, openssl version, encryption method, HDFS, key creation, cipher, CTR, NoPadding, benchmarks, crypto, createZone, keyName, path.

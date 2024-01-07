@@ -1,0 +1,2 @@
+Summary: PandasUDFType.GROUPED_AGG, Java 11 
+Description: error, java 11, java 8, example, docs, Py4JJavaError, SparkException, unsupported operation exception, lost task, direct buffer, netty arrowbuf, compute body length, message serializer, arrow writer, ArrowPythonRunner, writer thread, PythonRunner

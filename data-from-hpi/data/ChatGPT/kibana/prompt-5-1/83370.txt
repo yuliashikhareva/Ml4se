@@ -1,0 +1,2 @@
+Summary: Timelion, global, shared, synchronized, hover context, 7.9.2 
+Description: Kibana, Elasticsearch, Red Hat Enterprise Linux 7.5, browser, Windows 7, install method, shared time hover, crosshair, vertical line, setting, enable, two timelion charts, dashboard, mouse hover, not displayed, upgraded, Kibana 7.9.2, sync, charts, expected behavior.

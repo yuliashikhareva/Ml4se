@@ -1,0 +1,2 @@
+Summary: Console error, edit, filter, change, ES query DSL
+Description: BC4, cloud, edit, DSL query, filter, error, console, ace/theme, define, load module, AWS.

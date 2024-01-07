@@ -1,0 +1,3 @@
+Summary: Default distribution, Kibana, incompatible, Elasticsearch, OSS 
+
+Description: Default distribution, Kibana, Elasticsearch, OSS, start, error message, browser, logs, saved objects, migrations, index, config, flattened, mapper parsing exception, plugins, licensing, monitoring, login form, problem, fix

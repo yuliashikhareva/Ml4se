@@ -1,0 +1,3 @@
+Summary: ERROR, log, print, wrong user info, distcp 
+
+Description: user, test, group, hadoop, run, distcp, with-pbugpaxt, cp, directory, owner, super, failed, error, log, org.apache.hadoop.security.AccessControlException, non-super user, change owner, org.apache.hadoop.hdfs.server.namenode.FSDirAttrOp.setOwner, org.apache.hadoop.hdfs.server.namenode.FSNamesystem.setOwner, org.apache.hadoop.hdfs.server.namenode.NameNodeRpcServer.setOwner, org.apache.hadoop.hdfs.protocolPB.ClientNamenodeProtocolServerSideTranslatorPB.setOwner, current user, test.

@@ -1,0 +1,17 @@
+Summary: kbn-plugin-generator, build procedure, failing 
+Description: Kibana version, Elasticsearch version, macOS, git repository, build procedure, plugin, install, run, fails, kibana.json, plugin bundles, archive. 
+
+Selected Keywords: 
+- kbn-plugin-generator
+- build procedure
+- failing
+- Kibana version
+- Elasticsearch version
+- macOS
+- git repository
+- plugin
+- install
+- run
+- kibana.json
+- plugin bundles
+- archive

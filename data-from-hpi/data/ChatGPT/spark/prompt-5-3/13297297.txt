@@ -1,0 +1,2 @@
+Summary: Kubernetes, NFS, volume mounts
+Description: Kubernetes, volumes, Spark, EmptyDir, HostDir, PVC, support, NFS, storage, PVC, empty disk space, files, existing, NFS shares, volume mounts.

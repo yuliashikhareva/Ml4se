@@ -1,0 +1,3 @@
+Summary: Resourcemanager, fair scheduler, recover, queue acl changed
+
+Description: Resourcemanager, fair scheduler, recover failed, queue acl changed, application rejected, applicationAttempt, Application is null, RM standby, long running application, aclSubmitApps, restart RM, java.lang.NullPointerException.

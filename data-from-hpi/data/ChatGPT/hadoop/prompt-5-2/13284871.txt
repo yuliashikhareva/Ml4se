@@ -1,0 +1,2 @@
+Summary: Fix TestDelegationTokensWithHA 
+Description: java.lang.AssertionError, JUnit, Assert.fail, Assert.assertTrue, org.apache.hadoop.hdfs.server.namenode.ha.TestDelegationTokensWithHA, testObserverReadProxyProviderWithDT

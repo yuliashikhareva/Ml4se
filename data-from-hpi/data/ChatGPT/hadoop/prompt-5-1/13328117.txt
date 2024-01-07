@@ -1,0 +1,2 @@
+Summary: JDK 11, SpotBugs, upgrade, 4.1.3, false-positive warnings 
+Description: Java 11, false-positive, findbugs warnings, try-with-resources, fixed, github, spotbugs, pull request, 1248, no releases.

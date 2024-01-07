@@ -1,0 +1,6 @@
+Summary: S3A creating folder level delete markers 
+Description: S3A URL scheme while writing out data from Spark to S3 is creating many folder level delete markers. Writing the same with S3 URL scheme, does not create any delete markers at all. 
+
+Selected Keywords: S3A, Spark, S3, folder level delete markers 
+
+Note: These keywords are based on the main issue mentioned in the bug report and may not cover all the details mentioned in the report.

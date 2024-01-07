@@ -1,0 +1,3 @@
+Summary: empty screen, readonly mode, dashboards, user, access permissions, view 
+
+Description: feature, behaviour, user, view, dashboards, access privileges, use case, reproduce, space_a, sample data, role, spacey, sample_ecommerce data, login, error messages, panel.

@@ -1,0 +1,2 @@
+Summary: Kibana crash, TypeError, request.abort
+Description: Kibana, version 8.0.0/master, APM integration, logged error, crash, PDF Report, Content Security Policy, browser console, logs, server output, node scripts/kibana, yarn start, Refused to execute inline script, TypeError, request.abort.

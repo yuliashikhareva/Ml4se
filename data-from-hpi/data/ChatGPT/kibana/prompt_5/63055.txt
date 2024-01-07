@@ -1,0 +1,3 @@
+Summary: test-failed, Chrome X-Pack UI Functional Tests1.x-pack, monitoring app, turned off, monitoring enabled
+
+Description: Version 7.7.0, Chrome X-Pack UI Functional Tests1.x-pack, stack trace, retry.try timeout, Waiting for element to be located, TimeoutError, clusterOverviewContainer, clusterName, onFailure, retryForSuccess, platform: cloud, Build Num: 79

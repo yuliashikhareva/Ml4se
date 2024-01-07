@@ -1,0 +1,3 @@
+Summary: mkdir, s3a, trailing '/'
+
+Description: create, directory, calls, hdfs dfs, s3a, AmazonDynamoDBException, empty string, error code, ValidationException.

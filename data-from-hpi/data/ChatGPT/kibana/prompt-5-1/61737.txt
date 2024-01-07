@@ -1,0 +1,4 @@
+Summary: Aggregation Sum Bucket crash
+Description: Kibana version, Elasticsearch version, Server OS version, Browser version, Browser OS version, Original install method, Sum Bucket aggregation, terms aggregation, choose field, interface crashes. 
+
+Note: I have extracted keywords from the bug report that may be useful for detecting duplicates. However, depending on the specific algorithm used for duplicate detection, the selected keywords may need to be adjusted.

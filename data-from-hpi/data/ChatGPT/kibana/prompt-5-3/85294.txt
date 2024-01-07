@@ -1,0 +1,3 @@
+Summary: Global filter, visualization, bucket filter, courier:ignoreFilterIfFieldNotInIndex 
+
+Description: Kibana version, Elasticsearch version, Server OS version, Browser version, Browser OS version, Original install method, courier:ignoreFilterIfFieldNotInIndex, clicked filters, bucket aggregation visualizations, pie chart, filter ignored, expected behavior, screenshots.

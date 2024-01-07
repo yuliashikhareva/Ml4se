@@ -1,0 +1,3 @@
+Summary: Choose data source, visualization, "-", index patterns
+
+Description: Kibana version, Elasticsearch version, Server OS version, Browser version, Browser OS version, Choose data source, visualization, "-", index patterns, index patterns match on space, demo.elastic.co, production environments, 7.8 and later, 0 results, expected behavior, screenshots, errors in browser console, logs, additional context.

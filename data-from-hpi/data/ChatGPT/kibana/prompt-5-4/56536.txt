@@ -1,0 +1,2 @@
+Summary: Accessibility, Dashboards, Table, Scope
+Description: Table, Scope, Row, Column, Assistive Technology, Unique Table Cell, HTML5, TD Element, WCAG, Kibana Version, OS, Browser, Screen Reader, ARIA

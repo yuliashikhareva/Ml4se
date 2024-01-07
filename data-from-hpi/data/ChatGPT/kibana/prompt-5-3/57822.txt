@@ -1,0 +1,2 @@
+Summary: Auto interval, date histogram, timestamp, x-axis bucket, collapsed
+Description: Kibana 8.0.0, Chrome, OS X, source install, auto interval, date histogram, x-axis bucket, collapsed, timestamp, 0 milliseconds.

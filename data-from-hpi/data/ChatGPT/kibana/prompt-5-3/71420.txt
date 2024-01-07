@@ -1,0 +1,2 @@
+Summary: Missing Date Fields, Index Mapping, Empty Fields
+Description: Kibana 7.8, Elasticsearch 7.8, Docker, Ubuntu, Firefox Linux, ELK stack, Logstash, Filebeat template, Export, Ingest, Logs, Discover, Hide Empty Fields, Query Default Fields, Index Template, New Datasource.

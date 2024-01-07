@@ -1,0 +1,2 @@
+Summary: TestLdapGroupsMapping, failing, trunk 
+Description: TestLdapGroupsMapping, failing, open-jdk, exception message, oracle java, javax.naming.NamingException, LDAP response read timed out, timeout used: 3000 ms.

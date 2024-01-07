@@ -1,0 +1,2 @@
+Summary: HDFS, rolling upgrade, prepare, never finishes 
+Description: HDFS, rolling upgrade, prepare step, HDFS-12979, additional check, sufficient time, last checkpoint, RU rollback image, creation, upload, never succeeds, new cluster, testing, check disabled, unit tests.

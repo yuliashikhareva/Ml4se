@@ -1,0 +1,3 @@
+Summary: Simplify, special character, tab names 
+
+Description: queries, unit tests, parser module, execute, explain, parser testing.

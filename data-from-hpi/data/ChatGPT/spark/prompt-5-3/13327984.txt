@@ -1,0 +1,2 @@
+Summary: percentile_approx() incorrect results 
+Description: input data, CSV file, spark.read, header, inferSchema, repartition, createOrReplaceTempView, calculate percentile, accuracy 1e-05, smaller accuracy 0.001, better accuracy 1e-06, expected result, Google Sheets.

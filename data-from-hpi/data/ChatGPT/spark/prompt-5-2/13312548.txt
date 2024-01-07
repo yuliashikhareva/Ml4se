@@ -1,0 +1,2 @@
+Summary: Rename, blacklisting, racist connotation 
+Description: Spark dev list, remove, problematic language, alienate, community members, "blacklist", racist origins, cultural connotations, SPARK-32036, public-facing UI, configs, replacement name, Reject-list, deny-list, ignore-list, block-list, debate.

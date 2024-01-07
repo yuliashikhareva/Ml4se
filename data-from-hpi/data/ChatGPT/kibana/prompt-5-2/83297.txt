@@ -1,0 +1,2 @@
+Summary: Timelion, 7.10.0, single quotations, not working 
+Description: Kibana version 7.10.0, Timelion, .es function, error, incompleteFunction, es, parser, single and double quotations.

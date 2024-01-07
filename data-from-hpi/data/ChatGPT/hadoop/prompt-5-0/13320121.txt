@@ -1,0 +1,2 @@
+Summary: NM, PC allocation tags, completed containers 
+Description: placement constraints, anti-affinity, node label, two containers, one nodemanager down, RM marked lost, containers killed, pending container request, allocation tags not removed, container FINISHED, RMContainer doesn't exist, YARN-8511, tags not removed, RM restart

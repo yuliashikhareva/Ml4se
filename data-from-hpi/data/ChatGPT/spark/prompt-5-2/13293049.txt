@@ -1,0 +1,3 @@
+Summary: Spark SQL, LIKE, ESCAPE 
+
+Description: Spark SQL, LIKE, ESCAPE, issue, not working, test_table_like, subject, create, replace, values, 100 times, 1000 times, 100%, repro, select, debug, logical plan, StartsWith.

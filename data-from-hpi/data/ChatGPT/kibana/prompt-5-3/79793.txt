@@ -1,0 +1,2 @@
+Summary: Debug logging, metrics, JS bundle sizes, page weight, Reporting
+Description: page weight, performance, Kibana app, metrics, measuring, trends, memory, export, @elastic/kibana-app-arch team, bundle size, browser, page performance, capture, log, Reporting screenshot job, correlate, milestones, log message, debug level, JSON formatted string, data points.

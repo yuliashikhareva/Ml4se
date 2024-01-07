@@ -1,0 +1,2 @@
+Summary: [Maps] localized characters maps 
+Description: Kibana 7.5.2, Elasticsearch 7.5.2, Ubuntu 18.04 LTS, Firefox 73.0.1, zoom, Sweden, characters, removed, Göteborg, displayed

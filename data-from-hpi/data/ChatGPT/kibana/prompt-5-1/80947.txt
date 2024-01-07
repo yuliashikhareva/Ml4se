@@ -1,0 +1,2 @@
+Summary: Kibana, Bug, incorrect calendar_interval inputs 
+Description: Kibana, Bug, incorrect calendar_interval inputs, 7.9.2, Elasticsearch, RHEL7, browser, install method, fixed_interval, calendar_interval, sample data set, vertical bar chart, Date Histogram aggregation, timestamp field, 14d, 15d, error, browser console, ES, check, request, response, GH issue #60494.

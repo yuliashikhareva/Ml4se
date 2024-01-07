@@ -1,0 +1,2 @@
+Summary: CostBasedJoinReorder, Scala 2.12, Scala 2.13, same result, same input
+Description: optimization result, CostBasedJoinReorder, different, same input, Scala 2.12, Scala 2.13, same cost candidate plans, test case, StarJoinCostBasedReorderSuite, input, join, where clause, optimization result, Scala 2.12, Scala 2.13.

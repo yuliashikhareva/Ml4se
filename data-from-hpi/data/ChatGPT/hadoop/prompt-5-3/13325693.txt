@@ -1,0 +1,2 @@
+Summary: s3a, bucket names, parseable hostnames, unsupported 
+Description: Spark, S3, error, reading, bucket, period, Java, trace, misunderstanding, hostname restrictions, hadoop-aws, NullPointerException, uri host, S3xLoginHelper, authority, AWS, Scala shell, bucket name, console, documentation

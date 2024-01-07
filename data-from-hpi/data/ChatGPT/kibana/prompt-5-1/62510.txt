@@ -1,0 +1,2 @@
+Summary: Error, Visualizations, pop up, dashboard 
+Description: BC4, 7.7.0, GCP, Azure, AWS, Kibana, sample data, flights, dashboard, console output, request payload, request URL, POST, status code, 400, access-control, cache-control, content-type, date, set-cookie, x-cloud-request-id, x-found-handling-cluster, x-found-handling-instance, x-found-handling-server, params, serverStrategy, response, bad request, local environment.

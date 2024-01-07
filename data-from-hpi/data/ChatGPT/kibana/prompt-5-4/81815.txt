@@ -1,0 +1,2 @@
+Summary: Create user role, empty error message
+Description: Kibana version, Elasticsearch version, Cloud, security role, error window, valid query, invalid query, document-level security, screenshot.

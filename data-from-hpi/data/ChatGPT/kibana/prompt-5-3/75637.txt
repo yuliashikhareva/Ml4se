@@ -1,0 +1,2 @@
+Summary: Telemetry, Opt-in/out notifications, server, Kibana request 
+Description: Kibana version, bug, /api/telemetry/v2/optIn, remote telemetry service, user's final decision, config.sendUsageFrom, 500, telemetry banner, user's decision, server, telemetry service.

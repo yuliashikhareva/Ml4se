@@ -1,0 +1,3 @@
+Summary: Spark SQL, LIKE, ESCAPE
+
+Description: Spark SQL, LIKE, ESCAPE, issue, Spark 3.0.0-preview2, test_table_like, subject, cases, result, logical plan, StartsWith.

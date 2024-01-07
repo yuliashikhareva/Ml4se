@@ -1,0 +1,2 @@
+Summary: Aggregation, Sum Bucket, Crash 
+Description: Kibana, Elasticsearch, Server OS, Browser, Original Install, Sum Bucket, Aggregation, Field, Interface, Crash.

@@ -1,0 +1,2 @@
+Summary: zeek logs, UTZ, local time, upgrade 
+Description: Kibana 7.6.0, Elasticsearch 7.6.0, Ubuntu 16.04.6 LTS, Firefox 73.0.0, Windows 10 enterprise v. 1809, apt-get install, Zeek log events, Discover, universal time zone, upgrade from Kibana/Elastic/Filebeat v.7.5.1, event times, local time zone, pacific time zone, working correctly before upgrade.

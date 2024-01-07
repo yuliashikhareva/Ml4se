@@ -1,0 +1,7 @@
+Summary: Push more possible predicates through Join via CNF
+Keywords: push, predicates, join, CNF
+
+Description: Rewrite join condition to conjunctive normal form to push more conditions to filter.
+Keywords: rewrite, join condition, conjunctive normal form, push, conditions, filter
+
+Note: The keywords are based on technical terms and phrases that convey the essence of the bug report. The keywords can be used for identifying similar bug reports by matching the keywords.

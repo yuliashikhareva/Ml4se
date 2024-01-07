@@ -1,0 +1,13 @@
+Summary: Timed out error toasts appeared randomly
+Selected Keywords: Timed out, error, toasts, randomly
+
+Description: Kibana version: 7.10.0-SNAPSHOT
+Elasticsearch version: 7.10.0-SNAPSHOT
+Original install method (e.g. download page, yum, from source, etc.): Docker
+Describe the bug:
+Timed out errors kept appearing.
+Steps to reproduce:
+Not too sure how to reproduce this, but it just seems to appear randomly.
+Screenshots (if relevant):
+Provide logs and/or server output (if relevant):
+Selected Keywords: Kibana, version, Elasticsearch, install, method, Docker, timed out, errors, appearing, randomly.

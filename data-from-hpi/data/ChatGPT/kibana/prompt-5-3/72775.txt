@@ -1,0 +1,2 @@
+Summary: Maps, Configured Tile Map Service, Unable to load
+Description: Kibana, Elasticsearch, Cloud, Firefox, Mac Mojave, tile service layer, JavaScript freeze, lock up, kibana.yml, map.tilemap.url, map.tilemap.options.attribution, map.tilemap.options.maxZoom, webpage slowing, browser console, React error #185

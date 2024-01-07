@@ -1,0 +1,2 @@
+Summary: Dashboard, Filters, Applied, Timelion, 7.7.0 
+Description: Kibana, 7.7.0, Dashboard, Filters, Timelion, Visualizations.

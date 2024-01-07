@@ -1,0 +1,3 @@
+Summary: "blacklist", "whitelist" 
+
+Description: "references", "problematic language", "alienate", "community members", "racist origins", "cultural connotations", "renaming", "blacklisting feature", "public-facing APIs", "configurations", "codebase", "terminology"

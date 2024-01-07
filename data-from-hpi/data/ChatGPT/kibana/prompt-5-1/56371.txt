@@ -1,0 +1,2 @@
+Summary: [Bug] Timezone discrepancy, CSV files, discovery, dashboard
+Description: Kibana version: 7.5, exporting data, CSV, timestamp field, discovery, dashboard, UTC, timezone, Madrid, date range, time conversion, scripted field, queries, copy POST URL, export CSV, Europe/Berlin, hour_of_day, kibana_sample_data_logs, MyTest, search, immediate, timerange, min, max, timezone, state, sort, docvalue_fields, query, bool, must, filter, match_all, range, strict_date_optional_time, gte, lte, aligned, timezone configuration.

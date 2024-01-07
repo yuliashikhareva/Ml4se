@@ -1,0 +1,2 @@
+Summary: Vega, Vega-lite, Kibana, update
+Description: Vega, Vega-lite, Kibana, upgrade, versions, supported, plot marks, boxplot, data analysis

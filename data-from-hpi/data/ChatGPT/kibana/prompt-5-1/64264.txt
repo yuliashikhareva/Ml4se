@@ -1,0 +1,2 @@
+Summary: session timeout, login, xpack.security.session.idleTimeout, 180d
+Description: Kibana 7.6.2-1, Elasticsearch 7.6.2-1, OpenSUSE 15.1, Chrome stable 81, Windows 10 64, zypper, session timeout, login, xpack.security.session.idleTimeout, 180d

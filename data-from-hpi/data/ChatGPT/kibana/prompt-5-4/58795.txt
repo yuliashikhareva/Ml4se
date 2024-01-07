@@ -1,0 +1,2 @@
+Summary: API Key creation, two-credentials
+Description: Elasticsearch, kibana_system role, API Keys, other users, own credentials, end-users, security.authc.createAPIKey, new approach.

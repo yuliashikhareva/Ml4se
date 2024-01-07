@@ -1,0 +1,3 @@
+Summary: Uncaught FieldFormatNotFoundError, Heatmap
+
+Description: Kibana 8.0.0-SNAPSHOT, Elasticsearch 8.0.0-SNAPSHOT, Ubuntu, Chrome Latest, Snapshots, Logs, Web Traffic, Heatmap, FieldFormatNotFoundError, browser console error

@@ -1,0 +1,2 @@
+Summary: NPE, MiniYARNCluster, hadoop-client-minicluster
+Description: MiniYARNCluster, exception, NullPointerException, WebServer, resource files, exclude, hadoop-yarn-project, hadoop-yarn-server-nodemanager, dependency, testing.

@@ -1,0 +1,4 @@
+
+
+Summary: links, clusters, stack monitoring 
+Description: Kibana version, Elasticsearch version, Server OS version, Browser version, Browser OS version, install method, multiple clusters, monitoring page, state, clicking links, second click, remote cluster, breadcrumb, other cluster, alternate clicks, expected behavior, monitoring page, screenshots, errors, logs, additional context.

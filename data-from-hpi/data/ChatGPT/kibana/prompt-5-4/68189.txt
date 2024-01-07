@@ -1,0 +1,2 @@
+Summary: Exported CSV, Saved search, Dashboard panel, Date format pattern
+Description: Kibana 7.6.2, Elasticsearch 7.6.2, Docker, Chrome 83.0.4103.61, Windows 10 Pro, docker-compose, CSV report, date format pattern, Flights Global Flight Dashboard, Flight Log panel, well-formatted dates.

@@ -1,0 +1,4 @@
+Summary: HiveGenericUDTF, initialize() method, latest version
+Description: HiveGenericUDTF, initialization methods, StructObjectInspector, ObjectInspector[], UDFArgumentException, deprecated, exception, UDTFs, Spark SQL, bug, fix. 
+
+(Note: The selected keywords are based on their relevance to the main meaning of the bug report and may not cover all aspects of the report.)

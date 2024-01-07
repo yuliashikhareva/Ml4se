@@ -1,0 +1,5 @@
+Summary: Chrome UI Functional Tests, test-failed, homepage app Newsfeed, newsfeed. 
+
+Description: Chrome UI Functional Tests, test/functional/apps/home/_newsfeed·ts, Error, Assertion, expected, actual, Stack Trace, 7.6, Apache Lucene, Elastic Stack, Kibana Lens, data visualization, Elastic Observability, Azure monitoring, Elastic Security, Elastic SIEM, Elastic Endpoint Security, anomaly detection jobs, UI enhancements, Kibana, Elasticsearch, Beats, Logstash, dashboard, eye-catching visualizations, fixtures, plugins, newsfeed_simulation, Staging, Generic feed-viewer.
+
+Note: It's important to keep in mind that these are not definitive or exhaustive lists of all relevant keywords, and that the inclusion of certain keywords may depend on the specific algorithm and methodology used for duplicate bug report detection.

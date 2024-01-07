@@ -1,0 +1,2 @@
+Summary: Explicit, implicit casts, partition columns, MetaException 
+Description: Filtering, partition keys, string, integer, create table, insert, select, cast, show, filter

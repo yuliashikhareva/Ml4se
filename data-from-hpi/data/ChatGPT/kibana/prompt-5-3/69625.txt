@@ -1,0 +1,2 @@
+Summary: Stack Monitoring, Logstash Pipeline, 404 error 
+Description: Kibana version 7.8.0, Elasticsearch version 7.8.0, Server OS version Elastic Cloud, Browser version Chrome, ESS, Monitoring Logstash Pipeline UI broken, Steps to reproduce, URL missing "/app/monitoring#", error message {"statusCode":404,"error":"Not Found","message":"Not Found"}

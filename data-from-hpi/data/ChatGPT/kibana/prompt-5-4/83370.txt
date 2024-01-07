@@ -1,0 +1,2 @@
+Summary: Timelion, shared, synchronized, hover, context, stopped, working, 7.9.2 
+Description: Kibana, version, Elasticsearch, Server OS version, Browser version, Browser OS version, install method, shared, time, hover, crosshair, vertical line, not displayed, other charts, broke, upgraded, sync, dashboard.

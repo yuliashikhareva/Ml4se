@@ -1,0 +1,2 @@
+Summary: Reading parquet rdd, non-columnar mode, multithreaded environment 
+Description: Reading parquet rdd, non-columnar mode, Spark session, multithreaded, InheritableThreadLocal, active session, propagated, exception, Spark 3, Scala.

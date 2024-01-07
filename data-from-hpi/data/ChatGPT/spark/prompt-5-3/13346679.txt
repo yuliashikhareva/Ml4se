@@ -1,0 +1,2 @@
+Summary: Spark, Structured Streaming, Kafka Lag, Burrow 
+Description: Kafka offset consumption, total Kafka lag, DStreams, Stream hooks, out of the box, Spark.

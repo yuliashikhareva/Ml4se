@@ -1,0 +1,3 @@
+Summary: Exchange reuse, DPP, subqueries 
+
+Description: Exchange node, PhysicalPlan, multiple places, DPP Subquery filter, ReuseExchange, different stages, ReuseSubquery, ReuseExchange.

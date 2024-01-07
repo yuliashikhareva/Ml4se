@@ -1,0 +1,2 @@
+Summary: Allow hidden saved-objects, imported/exported 
+Description: hidden saved-objects, custom client, SavedObjectsClient, HTTP APIs, custom authorization, validation, API Keys, drawbacks, import/export, custom-logic, use-case specific, UI, API, fragmented experience, end-users.

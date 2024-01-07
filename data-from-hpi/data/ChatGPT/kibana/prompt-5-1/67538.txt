@@ -1,0 +1,3 @@
+Summary: Ingest Manager, Datasource API, Internal Server Error, non-existing UUID, invalid UUID, policy details URL 
+
+Description: Kibana version, 7.9, from source, endpoint/metadata, non-existing policy details UUID, existing policy details UUID, special characters, JS embed, unicode, empty string, multiple policy details UUID, Internal Server Error, Ingest Manager, Elastic Endpoint data source, policy tab, screenshot, Mac OS Mojave, Chrome.

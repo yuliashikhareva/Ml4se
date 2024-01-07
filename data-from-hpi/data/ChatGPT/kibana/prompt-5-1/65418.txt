@@ -1,0 +1,2 @@
+Summary: Sorting, field column, removed, still active
+Description: Kibana 7.6.2, Elasticsearch 7.6.2, Ubuntu 18.04.4 LTS, Firefox 75.0, Windows 10 Enterprise, sorting, field column, removed, view, active, illegal_argument_exception, non-keyword type, query, reset.

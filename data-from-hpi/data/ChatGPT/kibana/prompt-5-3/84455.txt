@@ -1,0 +1,4 @@
+
+
+Summary: bitd numeral formatter, 7.10.0 
+Description: Kibana, Elasticsearch, Ubuntu 20.04, Chrome, MacOS Catalina, docker.elastic.co/kibana/kibana, bitd numeral formatter, 7.10.0, visualization.

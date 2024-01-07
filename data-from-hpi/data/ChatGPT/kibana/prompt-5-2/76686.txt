@@ -1,0 +1,6 @@
+
+
+Summary: Dashboard, Lazy load, off-screen, visualizations 
+Description: loading, render, visualizations, bottom, viewport, slow experience, errors, visible parts, intersection observer api, libraries, react-intersection-observer.
+
+Use case: It is important to lazy load off-screen visualizations on the dashboard to improve performance and prevent errors, especially when dealing with large and complex data. By using the intersection observer API or libraries like react-intersection-observer, only the visible parts of the dashboard will be rendered, resulting in a smoother and faster user experience.

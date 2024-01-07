@@ -1,0 +1,2 @@
+Summary: Dashes, dashboard, search 
+Description: Kibana version, Elasticsearch version, Server OS version, Browser version, Browser OS version, install method, dashboard, search, fail, query, steps to reproduce, expected behavior.

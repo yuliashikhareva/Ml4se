@@ -1,0 +1,2 @@
+Summary: X-Pack API Integration Tests, apis kibana stats, operational stats, usage stats, no auth, 200, stats, no extended
+Description: X-Pack API Integration Tests, 200, Unauthorized, Test._assertStatus, Test._assertFunction, assert, parser, IncomingMessage.res, endReadableNT, process._tickCallback, cloud, Build Num: 79

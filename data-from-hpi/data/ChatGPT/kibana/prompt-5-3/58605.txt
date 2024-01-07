@@ -1,0 +1,2 @@
+Summary: invalid_index_name_exception, Setup Mode 
+Description: Kibana version, Elasticsearch version, Debian GNU/Linux, Google Chrome, macOs Catalina, Enter setup mode, popup, button, invalid_index_name_exception, monitoring, error message, logs, server output, index name.

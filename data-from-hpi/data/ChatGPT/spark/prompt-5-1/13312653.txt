@@ -1,0 +1,3 @@
+Summary: Exchange reuse, DPP, subqueries 
+
+Description: Exchange node, repeated multiple times in PhysicalPlan, with DPP Subquery filter; ReuseExchange doesn't work for such Exchange; different stages launched to compute same thing. ReuseSubquery not working; final plan computes a subquery twice instead of using ReuseExchange.

@@ -1,0 +1,3 @@
+Summary: Discover, selected fields, index pattern
+
+Description: bug, assess, Kibana version, fields list, table, empty, data, video, expected behavior, '_source'

@@ -1,0 +1,5 @@
+Summary: Detection Rules, Tag Disappears, Filters, Items, Deleted 
+
+Description: filtering, rule tags, matching rules, delete, cannot deselect, page refreshed, Kibana, Elasticsearch Stack, version 7.9.3, Server OS version Ubuntu Server 20.04 LTS, Google Chrome 86.0.4240.183, Windows 10 Enterprise v2004, Debian Package, Functional Area Detection Rules, Steps to reproduce, Okta, pre-built detection rules, filter, removed, unable to remove, no items exist, Expected behavior, keep filter available, remove filter 
+
+Note: Some of the keywords are repeated or slightly modified in the description to capture the essence of the bug report.

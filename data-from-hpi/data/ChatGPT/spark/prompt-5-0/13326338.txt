@@ -1,0 +1,2 @@
+Summary: Reading parquet rdd, non columnar mode, multithreaded environment 
+Description: Reading parquet rdd, non columnar mode, Spark session, multithreaded, InheritableThreadLocal, active session, Scala, Java, Executors, Future, dataset, write, parquet, read, collect, rdd, exception, Spark 2.X, Spark 3

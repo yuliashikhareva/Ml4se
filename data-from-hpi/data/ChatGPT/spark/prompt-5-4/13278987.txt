@@ -1,0 +1,2 @@
+Summary: Pyspark, Kubernetes, --py-files, remote storage, cluster mode 
+Description: spark-submit, yarn, remote storage, PYTHONPATH, import errors, k8s, link, packages.zip, pyspark.zip, py4j-*.zip.

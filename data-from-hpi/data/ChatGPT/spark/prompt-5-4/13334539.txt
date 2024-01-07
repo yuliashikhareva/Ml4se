@@ -1,0 +1,2 @@
+Summary: partition columns, MetaException 
+Description: Filtering, partition keys, string, integer, cast

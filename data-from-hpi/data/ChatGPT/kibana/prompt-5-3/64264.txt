@@ -1,0 +1,2 @@
+Summary: session timed out, login again, xpack.security.session.idleTimeout, 180d 
+Description: Kibana, Elasticsearch, OpenSUSE 15.1, Chrome 81, Windows 10 64, zypper, session timed out, login again, xpack.security.session.idleTimeout, 180d, bug, redirect, dashboard, tinkering, 1Y, log out, reproduce

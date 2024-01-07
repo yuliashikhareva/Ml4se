@@ -1,0 +1,2 @@
+Summary: resource usage, tests, threads, memory, contention, parallelism, HDFS, configuration, data nodes, Java Flight Recorder, patch
+Description: tests, threads, JVM, memory, HDFS, DataXceivers, jetty threads, Volume threads, async disk worker, image savers, ipc clients, block responder threads, anonymous threads, configurable, hard-coded, data nodes, Java Flight Recorder, MAVEN_OPTS, recording, JDK Mission Control, JDK8, JDK11, patch

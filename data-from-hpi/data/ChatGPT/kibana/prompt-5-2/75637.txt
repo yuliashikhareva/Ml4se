@@ -1,0 +1,2 @@
+Summary: Telemetry, opt-in/out notifications, server, crash, Kibana request 
+Description: Kibana version 7.9, /api/telemetry/v2/optIn, remote telemetry service, user's final decision, config.sendUsageFrom, server, access, telemetry.elastic.co domain, API call, 500, dismiss, telemetry banner, user's decision, stored, server, handle nicely, can't reach, telemetry service.

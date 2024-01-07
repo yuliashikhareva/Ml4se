@@ -1,0 +1,2 @@
+Summary: Kibana Users overview spacing Roles 
+Description: Kibana version 7.9.2 Elasticsearch version 7.9.2 Users overview spacing between multiple Roles missing visual glitch separate role links work expected screenshot

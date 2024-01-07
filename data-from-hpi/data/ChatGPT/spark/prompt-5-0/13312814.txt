@@ -1,0 +1,3 @@
+Summary: GBTClassifier, OnevsRest, multi-class classification
+
+Description: GBTClassifier, OnevsRest, multi-class classification, error, HasRawPredictionCol, AssertionError.

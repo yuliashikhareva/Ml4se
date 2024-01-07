@@ -1,0 +1,2 @@
+Summary: Bug, Data streams, storage size, numerically sorting 
+Description: Kibana, version 7.10.1, Elasticsearch, version 7.10.1, data streams, index management, stats, sorting, storage size, alphabetically

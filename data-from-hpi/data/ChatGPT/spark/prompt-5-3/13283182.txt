@@ -1,0 +1,2 @@
+Summary: `Executing`, `example`, `https://spark.apache.org/docs/latest/running-on-yarn.html`, `fails` 
+Description: `running`, `error`, `JNI`, `NoClassDefFoundError`, `org/slf4j/Logger`, `installation`, `try again`, `install`, `slf4j`, `way around`

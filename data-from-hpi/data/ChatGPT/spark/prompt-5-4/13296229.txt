@@ -1,0 +1,3 @@
+Summary: Coalesce, bucketed tables, join
+
+Description: Coalesce, shuffle, joining, bucketed tables, eliminate

@@ -1,0 +1,2 @@
+Summary: Links, markdown, dashboards, packetbeat, broken
+Description: Kibana, Elasticsearch, Mac OS, Chrome, packetbeat, setup, visualizations, navigation, DNS Overview, links, path, redirect, dashboard, Kibana, legacy redirection, inspection, URL, page refresh.

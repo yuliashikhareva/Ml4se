@@ -1,0 +1,5 @@
+Summary: Kibana, Bug, incorrect calendar_interval 
+
+Description: Kibana, version 7.9.2, Elasticsearch version 7.9.2, RHEL7, browser version and OS version not specified. The bug report states that Kibana is not blocking all incorrect calendar_interval inputs, even though it can block some of them. The bug is reproducible by creating a vertical bar chart using the sample data set (kibana_sample_data_logs), and specifying incorrect calendar_intervals such as 15d and 20d. Kibana should block incorrect calendar_interval inputs and report errors, but it doesn't. ES, on the other hand, works correctly in this regard. The bug report is related to issue #60494.
+
+Selected Keywords: Kibana, Bug, calendar_interval, version 7.9.2, Elasticsearch, RHEL7, sample data set, vertical bar chart, incorrect inputs, ES, issue #60494.

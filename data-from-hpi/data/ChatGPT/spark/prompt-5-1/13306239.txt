@@ -1,0 +1,2 @@
+Summary: org.apache.spark.sql.catalyst.errors.package$TreeNodeException, Binding attribute, columnSeq 
+Description: excel, 90 columns, special characters, column name, @ % -> ., sourceDataSet, targetDataset, count(), HashAggregate, Couldn't find here one name of column following with.

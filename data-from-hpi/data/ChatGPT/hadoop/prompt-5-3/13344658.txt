@@ -1,0 +1,2 @@
+Summary: hbase-vote.sh, mvn invocation, broken, empty MVN_PROPERTIES variable
+Description: MVN_PROPERTIES, mvn invocation, broken, empty string argument, interpreted, maven, phase specification.

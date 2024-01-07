@@ -1,0 +1,2 @@
+Summary: Timezone, CSV, Export, Bug 
+Description: Kibana, 7.5, Export, CSV, Timestamp, Discovery, Dashboard, UTC, Madrid, Timezone, Queries, Date Range, Scripted Field, Copy POST URL, Export CSV, Alignment.

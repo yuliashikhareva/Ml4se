@@ -1,0 +1,2 @@
+Summary: special character, tab names, unstable 
+Description: job, waiting, lock acquisition, new triggers, quick check.

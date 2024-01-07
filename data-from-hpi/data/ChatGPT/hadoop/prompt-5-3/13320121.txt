@@ -1,0 +1,2 @@
+Summary: NM, PC allocation tags, completed containers
+Description: placement constraints, anti-affinity, node label, containers allocation, Nodemanager goes down, container request, ResourceManager restarted, allocation tags, container release, YARN-8511

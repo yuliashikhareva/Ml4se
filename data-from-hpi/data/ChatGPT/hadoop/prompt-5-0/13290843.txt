@@ -1,0 +1,3 @@
+Summary: test runs, resources
+
+Description: tests, thousands of threads, JVM, memory, contention, passes, TestNamespaceReplicationWithBulkLoadedData, clusters, replication, configuration, HDFS, threads, async disk, workers, configurable, hard-coded, data nodes, Java Flight Recorder, recording, mvn, live threads graph, JDK Mission Control, patch, thread counts
