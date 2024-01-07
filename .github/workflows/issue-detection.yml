@@ -1,0 +1,29 @@
+name: Duplicate Bug Detection
+
+on:
+  schedule:
+    - cron:  '*/30 * * * *'  # This schedule runs the script every 30 minutes
+  issues:
+    types: [opened]
+
+jobs:
+  update-and-check:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.8'
+
+    - name: Install dependencies
+      run: |
+        pip install requests
+
+    - name: Fetch and Compare Issues
+      run: python your-script.py
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        # Add other environment variables or secrets as needed
